@@ -8,7 +8,7 @@ Each class grants access to two domains:
 - **[Ranger](../Classes/Ranger.md):** [Bone](../Domains/Bone.md) & [Sage](../Domains/Sage.md)
 - **[Rogue](../Classes/Rogue.md):** [Grace](../Domains/Grace.md) & [Midnight](../Domains/Midnight.md)
 - **[Seraph](../Classes/Seraph.md):** [Splendor](../Domains/Splendor.md) & [Valor](../Domains/Valor.md)
-- **[Sorcerer](../Classes/Sorcerer.md):** [Arcana](../Arcana/Arcana.md) & [Midnight](../Domains/Midnight.md)
+- **[Sorcerer](../Classes/Sorcerer.md):** [Arcana](../Domains/Arcana.md) & [Midnight](../Domains/Midnight.md)
 - **[Warrior](../Classes/Warrior.md):** [Blade](../Domains/Blade.md) & [Bone](../Domains/Bone.md)
 - **[Wizard](../Classes/Wizard.md):** [Codex](../Domains/Codex.md) & [Splendor](../Domains/Splendor.md)
 

@@ -33,27 +33,28 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 - **CORE MECHANICS**
 
-  - Flow of the Game
-  - Core Gameplay Loop
-  - The Spotlight
-  - Turn Order & Action Economy
-  - Making Moves & Taking Action
-  - Combat
-  - Stress
-  - Attacking
-  - Maps, Range & Movement
-  - Conditions
-  - Downtime
-  - Death
-  - Additional Rules
-  - Leveling Up
-  - Multiclassing
-  - Equipment
-  - Weapons
-  - Combat Wheelchair
-  - Armor
-  - Loot
-  - Consumables
+  - [Flow of the Game](mechanics/Flow%20of%20the%20Game.md)
+  - [Core Gameplay Loop](mechanics/Core%20Gameplay%20Loop.md)
+  - [The Spotlight](mechanics/The%20Spotlight.md)
+  - [Turn Order & Action Economy](mechanics/Turn%20Order%20and%20Action%20Economy.md)
+  - [Making Moves & Taking Action](mechanics/Making%20Moves%20and%20Taking%20Action.md)
+  - [Combat](mechanics/Combat.md)
+  - [Stress](mechanics/Stress.md)
+  - [Attacking](mechanics/Attacking.md)
+  - [Maps, Range & Movement](mechanics/Maps,%20Range,%20and%20Movement.md)
+  - [Conditions](mechanics/Conditions.md)
+  - [Downtime](mechanics/Downtime.md)
+  - [Death](mechanics/Death.md)
+  - [Additional Rules](mechanics/Additional%20Rules.md)
+  - [Leveling Up](mechanics/Leveling%20Up.md)
+  - [Multiclassing](mechanics/Multiclassing.md)
+  - [Equipment](mechanics/Equipment.md)
+  - [Weapons](mechanics/Weapons.md)
+  - [Combat Wheelchair](mechanics/Combat%20Wheelchair.md)
+  - [Armor](mechanics/Armor.md)
+  - [Loot](mechanics/Loot.md)
+  - [Consumables](mechanics/Consumables.md)
+  - [Gold](mechanics/Gold.md)
 
 - **RUNNING AN ADVENTURE**
 
