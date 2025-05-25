@@ -1,13 +1,12 @@
 # SKELETON KNIGHT
 
-##### **Tier 1 Bruiser:** *A large armored skeleton with a huge blade.*
-
+**Tier 1 Bruiser:** *A large armored skeleton with a huge blade.*  
 **Motives & Tactics:** Cut down the living, steal skin, wreak havoc
 
-> **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 5 | **Stress:** 2
-> **ATK:** +2 | **Rusty Greatsword:** Melee | 1d10+2 phy
+> **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 5 | **Stress:** 2  
+> **ATK:** +2 | **Rusty Greatsword:** Melee | 1d10+2 phy  
 
-### FEATURES
+## FEATURES
 
 ***Terrifying - Passive:*** When the Knight makes a successful attack, all PCs within Close range lose a Hope and you gain a Fear.
 

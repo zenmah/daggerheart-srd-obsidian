@@ -1,13 +1,12 @@
 # MASTER ASSASSIN
 
-##### **Tier 2 Leader:** *A seasoned killer with a threatening voice and a deadly blade.*
-
+**Tier 2 Leader:** *A seasoned killer with a threatening voice and a deadly blade.*  
 **Motives & Tactics:** Ambush, get out alive, kill, prepare for all scenarios
 
-> **Difficulty:** 15 | **Thresholds:** 12/25 | **HP:** 7 | **Stress:** 5
-> **ATK:** +5 | **Serrated Dagger:** Close | 2d10+2 phy
+> **Difficulty:** 15 | **Thresholds:** 12/25 | **HP:** 7 | **Stress:** 5  
+> **ATK:** +5 | **Serrated Dagger:** Close | 2d10+2 phy  
 
-### FEATURES
+## FEATURES
 
 ***Won’t See It Coming - Passive:*** The Assassin deals direct damage while they’re Hidden.
 

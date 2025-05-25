@@ -1,13 +1,12 @@
 # YOUNG DRYAD
 
-##### **Tier 1 Leader:** *An imperious tree-person leading their forest’s defenses.*
-
+**Tier 1 Leader:** *An imperious tree-person leading their forest’s defenses.*  
 **Motives & Tactics:** Command, nurture, prune the unwelcome
 
-> **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 2
-> **ATK:** 0 | **Scythe:** Melee | 1d8+5 phy
+> **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 2  
+> **ATK:** 0 | **Scythe:** Melee | 1d8+5 phy  
 
-### FEATURES
+## FEATURES
 
 ***Voice of the Forest - Action:*** Mark a Stress to spotlight 1d4 allies within range of a target they can attack without moving. On a success, their attacks deal half damage.
 

@@ -1,13 +1,12 @@
 # VAULT GUARDIAN TURRET
 
-##### **Tier 3 Ranged:** *A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.*
-
+**Tier 3 Ranged:** *A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.*  
 **Motives & Tactics:** Concentrate fire, lock down, mark, protect
 
-> **Difficulty:** 16 | **Thresholds:** 20/32 | **HP:** 5 | **Stress:** 4
-> **ATK:** +3 | **Magitech Cannon:** Far | 3d10+3 mag
+> **Difficulty:** 16 | **Thresholds:** 20/32 | **HP:** 5 | **Stress:** 4  
+> **ATK:** +3 | **Magitech Cannon:** Far | 3d10+3 mag  
 
-### FEATURES
+## FEATURES
 
 ***Slow Firing - Passive:*** When you spotlight the Turret and they don’t have a token on their stat block, they can’t make a standard attack. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Turret and they have a token on their stat block, clear the token and they can attack.
 

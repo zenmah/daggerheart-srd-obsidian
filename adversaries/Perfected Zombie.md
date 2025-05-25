@@ -1,13 +1,12 @@
 # PERFECTED ZOMBIE
 
-##### **Tier 4 Bruiser:** *A towering, muscular zombie with magically infused strength and skill.*
-
+**Tier 4 Bruiser:** *A towering, muscular zombie with magically infused strength and skill.*  
 **Motives & Tactics:** Consume, hound, maim, terrify
 
-> **Difficulty:** 20 | **Thresholds:** 40/70 | **HP:** 9 | **Stress:** 4
-> **ATK:** +4 | **Greataxe:** Very Close | 4d12+15 phy
+> **Difficulty:** 20 | **Thresholds:** 40/70 | **HP:** 9 | **Stress:** 4  
+> **ATK:** +4 | **Greataxe:** Very Close | 4d12+15 phy  
 
-### FEATURES
+## FEATURES
 
 ***Terrifying - Passive:*** On successful attack, all PCs in Far range lose Hope and you gain Fear.
 

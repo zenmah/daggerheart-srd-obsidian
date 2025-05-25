@@ -6,4 +6,4 @@ Being part of a loreborne community means you’re from a society that favors st
 
 #### COMMUNITY FEATURE
 
-**Well-Read:** You have advantage on rolls that involve the history, culture, or politics of a prominent person or place.
+***Well-Read:*** You have advantage on rolls that involve the history, culture, or politics of a prominent person or place.

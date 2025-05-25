@@ -1,13 +1,12 @@
 # PIRATE CAPTAIN
 
-##### **Tier 1 Leader:** *A charismatic sea dog with an impressive hat, eager to raid and plunder.*
-
+**Tier 1 Leader:** *A charismatic sea dog with an impressive hat, eager to raid and plunder.*  
 **Motives & Tactics:** Command, make 'em walk the plank, plunder, raid
 
-> **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 5
-> **ATK:** +1 | **Cutlass:** Melee | 1d12+2 phy
+> **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 5  
+> **ATK:** +1 | **Cutlass:** Melee | 1d12+2 phy  
 
-### FEATURES
+## FEATURES
 
 ***Swashbuckler - Passive:*** When the Captain marks 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress.
 

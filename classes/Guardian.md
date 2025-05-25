@@ -13,11 +13,11 @@ The title of guardian represents an array of martial professions, speaking more 
 
 #### GUARDIAN’S HOPE FEATURE
 
-**Frontline Tank:** Spend 3 Hope to clear 2 Armor Slots.
+***Frontline Tank:*** Spend 3 Hope to clear 2 Armor Slots.
 
 #### CLASS FEATURE
 
-**Unstoppable:** Once per long rest, you can become Unstoppable. You gain an Unstoppable Die. At level 1, your Unstoppable Die is a d4. Place it on your character sheet in the space provided, starting with the 1 value facing up. After you make a damage roll that deals 1 or more Hit Points to a target, increase the Unstoppable Die value by one. When the die’s value would exceed its maximum value or when the scene ends, remove the die and drop out of Unstoppable. At level 5, your Unstoppable Die increases to a d6.
+***Unstoppable:*** Once per long rest, you can become Unstoppable. You gain an Unstoppable Die. At level 1, your Unstoppable Die is a d4. Place it on your character sheet in the space provided, starting with the 1 value facing up. After you make a damage roll that deals 1 or more Hit Points to a target, increase the Unstoppable Die value by one. When the die’s value would exceed its maximum value or when the scene ends, remove the die and drop out of Unstoppable. At level 5, your Unstoppable Die increases to a d6.
 
 While Unstoppable, you gain the following benefits:
 

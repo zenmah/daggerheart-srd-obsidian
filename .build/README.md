@@ -21,6 +21,6 @@ Name, Tier, Type, Description, Impulses, Difficulty, Potential Adversaries, Feat
 
 ## Overwrite Tables
 
-    pipenv run python detable.py
-    rm -Rf ../adversaries && mv adversaries ..
+    pipenv run python detable.py && \
+    rm -Rf ../adversaries && mv adversaries .. && \
     rm -Rf ../environments && mv environments ..

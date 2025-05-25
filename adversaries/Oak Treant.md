@@ -1,13 +1,12 @@
 # OAK TREANT
 
-##### **Tier 3 Bruiser:** *A sturdy animated old-growth tree.*
-
+**Tier 3 Bruiser:** *A sturdy animated old-growth tree.*  
 **Motives & Tactics:** Hide in plain sight, preserve the forest, root down, swing branches
 
-> **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 4
-> **ATK:** +2 | **Branch:** Very Close | 3d8+2 phy
+> **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 4  
+> **ATK:** +2 | **Branch:** Very Close | 3d8+2 phy  
 
-### FEATURES
+## FEATURES
 
 ***Just a Tree - Passive:*** Before they make their first attack in a fight or after they become Hidden, the Treant is indistinguishable from other trees until they next act or a PC succeeds on an Instinct Roll to identify them.
 

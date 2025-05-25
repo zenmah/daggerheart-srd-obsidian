@@ -1,13 +1,12 @@
 # FALLEN SORCERER
 
-##### **Tier 4 Support:** *Warped mage bound by the bargains they made in life.*
-
+**Tier 4 Support:** *Warped mage bound by the bargains they made in life.*  
 **Motives & Tactics:** Acquire, dishearten, dominate, torment
 
-> **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5
-> **ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 mag
+> **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5  
+> **ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 mag  
 
-### FEATURES
+## FEATURES
 
 ***Conflagration - Action:*** Spend a Fear to unleash an all-consuming firestorm and make an attack against all targets within Close range. Targets the Sorcerer succeeds against take 2d10+6 direct magic damage.
 

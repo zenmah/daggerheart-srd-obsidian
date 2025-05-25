@@ -6,6 +6,6 @@ Some elves possess what is known as a “mystic form,” which occurs when an el
 
 #### ANCESTRY FEATURES
 
-**Quick Reactions:** Mark a Stress to gain advantage on a reaction roll.
+***Quick Reactions:*** Mark a Stress to gain advantage on a reaction roll.
 
-**Celestial Trance:** During a rest, you can drop into a trance to choose an additional downtime move.
+***Celestial Trance:*** During a rest, you can drop into a trance to choose an additional downtime move.

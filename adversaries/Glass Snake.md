@@ -1,13 +1,12 @@
 # GLASS SNAKE
 
-##### **Tier 1 Standard:** *A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.*
-
+**Tier 1 Standard:** *A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.*  
 **Motives & Tactics:** Climb, feed, keep distance, scare
 
-> **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 5 | **Stress:** 3
-> **ATK:** +2 | **Glass Fangs:** Very Close | 1d8+2 phy
+> **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 5 | **Stress:** 3  
+> **ATK:** +2 | **Glass Fangs:** Very Close | 1d8+2 phy  
 
-### FEATURES
+## FEATURES
 
 ***Armor-Shredding Shards - Passive:*** On a successful attack within Melee range against the Snake, the attacker must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP.
 

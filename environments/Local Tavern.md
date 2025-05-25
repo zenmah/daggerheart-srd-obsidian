@@ -1,13 +1,12 @@
 # LOCAL TAVERN
 
-##### **Tier 1 Social:** *A lively tavern that serves as the social hub for its town.*
-
+**Tier 1 Social:** *A lively tavern that serves as the social hub for its town.*  
 **Impulses:** Provide opportunities for adventurers, nurture community
 
-> **Difficulty:** 10
+> **Difficulty:** 10  
 > **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Merchant
 
-### FEATURES
+## FEATURES
 
 ***What’s the Talk of the Town? - Passive:*** A PC can ask the bartender, staff, or patrons about local events, rumors, and potential work with a Presence Roll. On a success, they can pick two of the below details to learn—or three if they critically succeed. On a failure, they can pick one and mark a Stress as the local carries on about something irrelevant.
 

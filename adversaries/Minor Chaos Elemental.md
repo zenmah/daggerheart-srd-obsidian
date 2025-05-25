@@ -1,13 +1,12 @@
 # MINOR CHAOS ELEMENTAL
 
-##### **Tier 1 Solo:** *A coruscating mass of uncontrollable magic.*
-
+**Tier 1 Solo:** *A coruscating mass of uncontrollable magic.*  
 **Motives & Tactics:** Confound, destabilize, transmogrify
 
-> **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 3
-> **ATK:** +3 | **Warp Blast:** Close | 1d12+6 mag
+> **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 3  
+> **ATK:** +3 | **Warp Blast:** Close | 1d12+6 mag  
 
-### FEATURES
+## FEATURES
 
 ***Arcane Master - Passive:*** The Elemental is resistant to magic damage.
 

@@ -1,13 +1,12 @@
 # CASTLE SIEGE
 
-##### **Tier 3 Event:** *An active siege with an attacking force fighting to gain entry to a fortified castle.*
-
+**Tier 3 Event:** *An active siege with an attacking force fighting to gain entry to a fortified castle.*  
 **Impulses:** Bleed out the will to fight, breach the walls, build tension
 
-> **Difficulty:** 17
+> **Difficulty:** 17  
 > **Potential Adversaries:** Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)
 
-### FEATURES
+## FEATURES
 
 ***Secret Entrance - Passive:*** A PC can find or recall a secret way into the castle with a successful Instinct or Knowledge Roll.
 

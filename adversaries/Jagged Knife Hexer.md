@@ -1,13 +1,12 @@
 # JAGGED KNIFE HEXER
 
-##### **Tier 1 Support:** *A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*
-
+**Tier 1 Support:** *A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*  
 **Motives & Tactics:** Command, hex, profit
 
-> **Difficulty:** 13 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 4
-> **ATK:** +2 | **Staff:** Far | 1d6+2 mag
+> **Difficulty:** 13 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 4  
+> **ATK:** +2 | **Staff:** Far | 1d6+2 mag  
 
-### FEATURES
+## FEATURES
 
 ***Curse - Action:*** Choose a target within Far range and temporarily Curse them. While the target is Cursed, you can mark a Stress so that target rolls with Hope to make the roll be with Fear instead.
 

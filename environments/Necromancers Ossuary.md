@@ -1,13 +1,12 @@
 # NECROMANCER’S OSSUARY
 
-##### **Tier 4 Exploration:** *A dusty crypt with a library, twisting corridors, and abundant sarcophagi; spattered with the blood of ill-fated invaders.*
-
+**Tier 4 Exploration:** *A dusty crypt with a library, twisting corridors, and abundant sarcophagi; spattered with the blood of ill-fated invaders.*  
 **Impulses:** Confound intruders, delve into secrets best left buried, manifest unlife, unleash a tide of undead
 
-> **Difficulty:** 19
+> **Difficulty:** 19  
 > **Potential Adversaries:** Arch-Necromancer’s Host (Perfected Zombie, Zombie Legion)
 
-### FEATURES
+## FEATURES
 
 ***No Place for the Living - Passive:*** A feature or action that clears HP requires spending a Hope to use. If it already costs Hope, a PC must spend an additional Hope.
 

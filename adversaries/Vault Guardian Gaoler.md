@@ -1,13 +1,12 @@
 # VAULT GUARDIAN GAOLER
 
-##### **Tier 3 Support:** *A boxy, dust-covered construct with thick metallic swinging doors on their torso.*
-
+**Tier 3 Support:** *A boxy, dust-covered construct with thick metallic swinging doors on their torso.*  
 **Motives & Tactics:** Carry away, entrap, protect, pummel
 
-> **Difficulty:** 16 | **Thresholds:** 19/33 | **HP:** 5 | **Stress:** 3
-> **ATK:** +2 | **Body Bash:** Very Close | 3d6+2 phy
+> **Difficulty:** 16 | **Thresholds:** 19/33 | **HP:** 5 | **Stress:** 3  
+> **ATK:** +2 | **Body Bash:** Very Close | 3d6+2 phy  
 
-### FEATURES
+## FEATURES
 
 ***Blocking Shield - Passive:*** Creatures within Melee range of the Gaoler have disadvantage on attack rolls against them. Creatures trapped inside the Gaoler are immune to this feature.
 

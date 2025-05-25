@@ -1,13 +1,12 @@
 # VOLCANIC DRAGON: OBSIDIAN PREDATOR
 
-##### **Tier 4 Solo:** *A massive winged creature with obsidian scales and impossibly sharp claws.*
-
+**Tier 4 Solo:** *A massive winged creature with obsidian scales and impossibly sharp claws.*  
 **Motives & Tactics:** Defend lair, dive-bomb, fly, hunt, intimidate
 
-> **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5
-> **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 phy
+> **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5  
+> **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 phy  
 
-### FEATURES
+## FEATURES
 
 ***Relentless (2) - Passive:*** Can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight.
 

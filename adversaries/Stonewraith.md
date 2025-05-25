@@ -1,13 +1,12 @@
 # STONEWRAITH
 
-##### **Tier 2 Skulk:** *A prowling hunter, like a slinking mountain lion, with a slate-gray stone body.*
-
+**Tier 2 Skulk:** *A prowling hunter, like a slinking mountain lion, with a slate-gray stone body.*  
 **Motives & Tactics:** Defend territory, isolate prey, stalk
 
-> **Difficulty:** 13 | **Thresholds:** 11/22 | **HP:** 6 | **Stress:** 3
-> **ATK:** +3 | **Bite and Claws:** Melee | 2d8+6 phy
+> **Difficulty:** 13 | **Thresholds:** 11/22 | **HP:** 6 | **Stress:** 3  
+> **ATK:** +3 | **Bite and Claws:** Melee | 2d8+6 phy  
 
-### FEATURES
+## FEATURES
 
 ***Stonestrider - Passive:*** The Stonewraith can move through stone and earth as easily as air. While within stone or earth, they are Hidden and immune to all damage.
 

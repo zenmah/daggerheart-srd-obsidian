@@ -1,13 +1,12 @@
 # CHAOS SKULL
 
-##### **Tier 2 Ranged:** *A floating humanoid skull animated by scintillating magic.*
-
+**Tier 2 Ranged:** *A floating humanoid skull animated by scintillating magic.*  
 **Motives & Tactics:** Cackle, consume magic, serve creator
 
-> **Difficulty:** 15 | **Thresholds:** 8/16 | **HP:** 5 | **Stress:** 4
-> **ATK:** +2 | **Energy Blast:** Close | 2d8+3 mag
+> **Difficulty:** 15 | **Thresholds:** 8/16 | **HP:** 5 | **Stress:** 4  
+> **ATK:** +2 | **Energy Blast:** Close | 2d8+3 mag  
 
-### FEATURES
+## FEATURES
 
 ***Levitation - Passive:*** The Skull levitates several feet off the ground and can’t be Restrained.
 

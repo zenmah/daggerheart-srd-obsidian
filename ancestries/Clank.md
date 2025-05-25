@@ -6,6 +6,6 @@ Many clanks embrace body modifications for style as well as function, and member
 
 #### ANCESTRY FEATURES
 
-**Purposeful Design:** Decide who made you and for what purpose. At character creation, choose one of your Experiences that best aligns with this purpose and gain a permanent +1 bonus to it.
+***Purposeful Design:*** Decide who made you and for what purpose. At character creation, choose one of your Experiences that best aligns with this purpose and gain a permanent +1 bonus to it.
 
-**Efficient:** When you take a short rest, you can choose a long rest move instead of a short rest move.
+***Efficient:*** When you take a short rest, you can choose a long rest move instead of a short rest move.

@@ -1,13 +1,12 @@
 # JAGGED KNIFE LACKEY
 
-##### **Tier 1 Minion:** *A thief with simple clothes and small daggers, eager to prove themselves.*
-
+**Tier 1 Minion:** *A thief with simple clothes and small daggers, eager to prove themselves.*  
 **Motives & Tactics:** Escape, profit, throw smoke
 
-> **Difficulty:** 9 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** -2 | **Daggers:** Melee | 2 phy
+> **Difficulty:** 9 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
+> **ATK:** -2 | **Daggers:** Melee | 2 phy  
 
-### FEATURES
+## FEATURES
 
 ***Minion (3) - Passive:*** The Lackey is defeated when they take any damage. For every 3 damage a PC deals to the Lackey, defeat an additional Minion within range the attack would succeed against.
 

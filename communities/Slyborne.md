@@ -6,4 +6,4 @@ Being part of a slyborne community means you come from a group that operates out
 
 #### COMMUNITY FEATURE
 
-**Scoundrel:** You have advantage on rolls to negotiate with criminals, detect lies, or find a safe place to hide.
+***Scoundrel:*** You have advantage on rolls to negotiate with criminals, detect lies, or find a safe place to hide.

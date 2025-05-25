@@ -1,13 +1,12 @@
 # FALLEN WARLORD: REALM-BREAKER
 
-##### **Tier 4 Solo:** *A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*
-
+**Tier 4 Solo:** *A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*  
 **Motives & Tactics:** Corrupt, dominate, punish, break the weak
 
-> **Difficulty:** 20 | **Thresholds:** 36/66 | **HP:** 8 | **Stress:** 5
-> **ATK:** +7 | **Barbed Whip:** Close | 4d8+7 phy
+> **Difficulty:** 20 | **Thresholds:** 36/66 | **HP:** 8 | **Stress:** 5  
+> **ATK:** +7 | **Barbed Whip:** Close | 4d8+7 phy  
 
-### FEATURES
+## FEATURES
 
 ***Relentless (2) - Passive:*** The Realm-Breaker can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

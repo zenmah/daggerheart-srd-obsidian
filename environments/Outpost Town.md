@@ -1,13 +1,12 @@
 # OUTPOST TOWN
 
-##### **Tier 1 Social:** *A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations.*
-
+**Tier 1 Social:** *A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations.*  
 **Impulses:** Drive the desperate to certain doom, profit off of ragged hope
 
-> **Difficulty:** 12
+> **Difficulty:** 12  
 > **Potential Adversaries:** Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant
 
-### FEATURES
+## FEATURES
 
 ***Rumors Abound - Passive:*** Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria:
 

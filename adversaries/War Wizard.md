@@ -1,13 +1,12 @@
 # WAR WIZARD
 
-##### **Tier 2 Ranged:** *A battle-hardened mage trained in destructive magic.*
-
+**Tier 2 Ranged:** *A battle-hardened mage trained in destructive magic.*  
 **Motives & Tactics:** Develop new spells, seek power, conquer
 
-> **Difficulty:** 16 | **Thresholds:** 11/23 | **HP:** 5 | **Stress:** 6
-> **ATK:** +4 | **Staff:** Far | 2d10+4 mag
+> **Difficulty:** 16 | **Thresholds:** 11/23 | **HP:** 5 | **Stress:** 6  
+> **ATK:** +4 | **Staff:** Far | 2d10+4 mag  
 
-### FEATURES
+## FEATURES
 
 ***Battle Teleport - Passive:*** Before or after making a standard attack, you can mark a Stress to teleport to a location within Far range.
 

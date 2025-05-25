@@ -1,13 +1,12 @@
 # HAUNTED CITY
 
-##### **Tier 2 Exploration:** *An abandoned city populated by the restless spirits of eras past.*
-
+**Tier 2 Exploration:** *An abandoned city populated by the restless spirits of eras past.*  
 **Impulses:** Misdirect and disorient, replay apocalypses both public and personal
 
-> **Difficulty:** 14
+> **Difficulty:** 14  
 > **Potential Adversaries:** Ghosts (Spectral Archer, Spectral Captain, Spectral Guardian), (ghostly versions of other adversaries (see “Ghostly Form”))
 
-### FEATURES
+## FEATURES
 
 ***Buried Knowledge - Passive:*** The city has countless mysteries to unfold. A PC who seeks knowledge about the fallen city can make an Instinct or Knowledge Roll to learn about this place and discover (potentially haunted) loot.
 

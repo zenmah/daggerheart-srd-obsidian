@@ -1,13 +1,12 @@
 # CLIFFSIDE ASCENT
 
-##### **Tier 1 Traversal:** *A steep, rocky cliffside tall enough to make traversal dangerous.*
-
+**Tier 1 Traversal:** *A steep, rocky cliffside tall enough to make traversal dangerous.*  
 **Impulses:** Cast the unwary down to a rocky doom, draw people in with promise of what lies at the top
 
-> **Difficulty:** 12
+> **Difficulty:** 12  
 > **Potential Adversaries:** Construct, Deeproot Defender, Giant Scorpion, Glass Snake
 
-### FEATURES
+## FEATURES
 
 ***The Climb - Passive:*** Climbing up the cliffside uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:
 

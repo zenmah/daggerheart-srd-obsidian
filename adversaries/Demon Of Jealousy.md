@@ -1,13 +1,12 @@
 # DEMON OF JEALOUSY
 
-##### **Tier 3 Ranged:** *A fickle creature of spindly limbs and insatiable desires.*
-
+**Tier 3 Ranged:** *A fickle creature of spindly limbs and insatiable desires.*  
 **Motives & Tactics:** Join in on others’ success, take what belongs to others, hold grudges
 
-> **Difficulty:** 17 | **Thresholds:** 17/30 | **HP:** 6 | **Stress:** 6
-> **ATK:** +4 | **Psychic Assault:** Far | 3d8+3 mag
+> **Difficulty:** 17 | **Thresholds:** 17/30 | **HP:** 6 | **Stress:** 6  
+> **ATK:** +4 | **Psychic Assault:** Far | 3d8+3 mag  
 
-### FEATURES
+## FEATURES
 
 ***Unprotected Mind - Passive:*** The Demon’s standard attack deals direct damage.
 

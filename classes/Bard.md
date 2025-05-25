@@ -13,11 +13,11 @@ Bards are the most charismatic people in all the realms. Members of this class a
 
 #### BARD’S HOPE FEATURE
 
-**Make a Scene:** Spend 3 Hope to temporarily Distract a target within Close range, giving them a -2 penalty to their Difficulty.
+***Make a Scene:*** Spend 3 Hope to temporarily Distract a target within Close range, giving them a -2 penalty to their Difficulty.
 
 #### CLASS FEATURE
 
-**Rally:** Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a d6. A PC can spend their Rally Die to roll it, adding the result to their action roll, reaction roll, damage roll, or to clear a number of Stress equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a d8.
+***Rally:*** Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a d6. A PC can spend their Rally Die to roll it, adding the result to their action roll, reaction roll, damage roll, or to clear a number of Stress equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a d8.
 
 ## BARD SUBCLASSES
 
@@ -25,7 +25,7 @@ Choose either the **[Troubadour](../subclasses/Troubadour.md)** or **[Wordsmith]
 
 ## BACKGROUND QUESTIONS
 
-Answer any of the following background questions. You can also create your own questions.
+*Answer any of the following background questions. You can also create your own questions.*
 
 - Who from your community taught you to have such confidence in yourself?
 - You were in love once. Who did you adore, and how did they hurt you?
@@ -33,7 +33,7 @@ Answer any of the following background questions. You can also create your own q
 
 ## CONNECTIONS
 
-Ask your fellow players one of the following questions for their character to answer, or create your own questions.
+*Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
 
 - What made you realize we were going to be such good friends?
 - What do I do that annoys you?

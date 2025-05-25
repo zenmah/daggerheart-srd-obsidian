@@ -10,7 +10,7 @@
 
 Read this section to your players to introduce them to the campaign.
 
-*Fanewick was once a place of great abundance and peace—dangerous to those unfamiliar with the land, but a cornucopia to those who respected its ways. When Haven invaded the wilds and forced the land into eternal spring, a dangerous bloom known as the Witherwild took hold and now threatens the lives of all who live there. In a Witherwild campaign, you’ll play unlikely heroes from humble beginnings who are reckoning with their newfound duty to save Fanewick’s people from dangerous corruption.*
+> *Fanewick was once a place of great abundance and peace—dangerous to those unfamiliar with the land, but a cornucopia to those who respected its ways. When Haven invaded the wilds and forced the land into eternal spring, a dangerous bloom known as the Witherwild took hold and now threatens the lives of all who live there. In a Witherwild campaign, you’ll play unlikely heroes from humble beginnings who are reckoning with their newfound duty to save Fanewick’s people from dangerous corruption.*
 
 ## TONE & FEEL
 
@@ -126,15 +126,15 @@ Wanderborne communities can be found in both Fanewick and Haven, though safe tra
 
 Clanks from Haven are commonly made from iron and steel, while clanks from Fanewick are typically constructed from wood and stone.
 
-### FUNGRIL
+#### FUNGRIL
 
 Since the Witherwild spread throughout Fanewick, some fungril inhabiting the forests have grown noticeably larger than fungril from other regions.
 
-### DRAKONA, FAUNS, FIRBOLGS, AND INFERNIS
+#### DRAKONA, FAUNS, FIRBOLGS, AND INFERNIS
 
 After the Witherwild corrupted Fanewick, some drakona, fauns, firbolgs, and infernis have noticed their horns growing faster and longer.
 
-### GALAPA AND RIBBETS
+#### GALAPA AND RIBBETS
 
 Many families of galapa and ribbets who lived in the bogs of Fanewick were displaced when Haven’s army invaded.
 
@@ -282,7 +282,7 @@ At the end of each session, clear all Wither tokens from the PCs’ sheets and g
 
 #### SESSION ZERO QUESTIONS
 
-Ask any of these questions to your players, or make your own.
+*Ask any of these questions to your players, or make your own.*
 
 > *What dangerous animal comes out during the week of night that isn’t out during the week of day?*
 >

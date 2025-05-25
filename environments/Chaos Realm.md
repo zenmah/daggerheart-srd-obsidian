@@ -1,13 +1,12 @@
 # CHAOS REALM
 
-##### **Tier 4 Traversal:** *An otherworldly space where the laws of reality are unstable and dangerous.*
-
+**Tier 4 Traversal:** *An otherworldly space where the laws of reality are unstable and dangerous.*  
 **Impulses:** Annihilate certainty, consume power, defy logic
 
-> **Difficulty:** 20
+> **Difficulty:** 20  
 > **Potential Adversaries:** Outer Realms Monstrosities (Abomination, Corruptor, Thrall)
 
-### FEATURES
+## FEATURES
 
 ***Impossible Architecture - Passive:*** Up is down, down is right, right is a stairway. Gravity and directionality themselves are in flux, and any attempt to move through this realm is an odyssey unto itself, requiring a Progress Countdown (8). On a failure, a PC must mark a Stress in addition to the roll’s other consequences.
 

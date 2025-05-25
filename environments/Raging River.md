@@ -1,13 +1,12 @@
 # RAGING RIVER
 
-##### **Tier 1 Traversal:** *A swift-moving river without a bridge crossing, deep enough to sweep away most people.*
-
+**Tier 1 Traversal:** *A swift-moving river without a bridge crossing, deep enough to sweep away most people.*  
 **Impulses:** Bar crossing, carry away the unready, divide the land
 
-> **Difficulty:** 10
+> **Difficulty:** 10  
 > **Potential Adversaries:** Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)
 
-### FEATURES
+## FEATURES
 
 ***Dangerous Crossing - Passive:*** Crossing the river requires the party to complete a Progress Countdown (4). A PC who rolls a failure with Fear is immediately targeted by the “Undertow” action without requiring a Fear to be spent on the feature.
 

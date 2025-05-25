@@ -1,13 +1,12 @@
 # IMPERIAL COURT
 
-##### **Tier 4 Social:** *The dazzling mansion of a powerful empire, lavishly appointed with stolen treasures.*
-
+**Tier 4 Social:** *The dazzling mansion of a powerful empire, lavishly appointed with stolen treasures.*  
 **Impulses:** Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort
 
-> **Difficulty:** 20
+> **Difficulty:** 20  
 > **Potential Adversaries:** Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy
 
-### FEATURES
+## FEATURES
 
 ***All Roads Lead Here - Passive:*** While in the Imperial Court, a PC has disadvantage on Presence Rolls made to take actions that don’t fit the imperial way of life or support the empire’s dominance.
 
