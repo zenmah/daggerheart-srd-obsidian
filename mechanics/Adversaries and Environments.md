@@ -90,37 +90,37 @@ High-impact effects that cost a Fear to activate.
 
 #### ACTIONS
 
-**Haymaker - Action:** Make an attack against a target within Very Close range. On a success, deal X direct physical damage.
+***Haymaker - Action:*** Make an attack against a target within Very Close range. On a success, deal X direct physical damage.
 
-**Shredding Strike - Action:** Make an attack against a target within Very Close range. On a success, deal X physical damage and the target must mark an Armor Slot without gaining its benefit (they can still use armor to reduce the damage).
+***Shredding Strike - Action:*** Make an attack against a target within Very Close range. On a success, deal X physical damage and the target must mark an Armor Slot without gaining its benefit (they can still use armor to reduce the damage).
 
-**More Where That Came From - Action:** Summon three Jagged Knife Lackeys, who appear at Far range.
+***More Where That Came From - Action:*** Summon three Jagged Knife Lackeys, who appear at Far range.
 
 #### REACTIONS
 
-**Heavy Hitter - Reaction:** When this adversary deals damage with a standard attack, you can spend a Fear to gain a +X bonus to the damage roll.
+***Heavy Hitter - Reaction:*** When this adversary deals damage with a standard attack, you can spend a Fear to gain a +X bonus to the damage roll.
 
-**Team-Up - Reaction:** When another adversary within Very Close range of this adversary deals X damage to a creature, you can mark a Stress to make a standard attack against that same creature. On a success, combine the damage.
+***Team-Up - Reaction:*** When another adversary within Very Close range of this adversary deals X damage to a creature, you can mark a Stress to make a standard attack against that same creature. On a success, combine the damage.
 
-**Momentum - Reaction:** When this adversary makes a successful attack against a PC, you gain a Fear.
+***Momentum - Reaction:*** When this adversary makes a successful attack against a PC, you gain a Fear.
 
 #### PASSIVES
 
-**Horde (X) - Passive:** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
+***Horde (X) - Passive:*** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
 
-**Minion (X) - Passive:** This adversary is defeated when they take any damage. For every X damage a PC deals to this adversary, defeat an additional Minion within range the attack would succeed against.
+***Minion (X) - Passive:*** This adversary is defeated when they take any damage. For every X damage a PC deals to this adversary, defeat an additional Minion within range the attack would succeed against.
 
-**Relentless (X) - Passive:** This adversary can be spotlighted up to X times per GM turn. Spend Fear as usual to spotlight them.
+***Relentless (X) - Passive:*** This adversary can be spotlighted up to X times per GM turn. Spend Fear as usual to spotlight them.
 
-**Slow - Passive:** When you spotlight this adversary and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight this adversary and they have a token on their stat block, clear the token and they can act.
+***Slow - Passive:*** When you spotlight this adversary and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight this adversary and they have a token on their stat block, clear the token and they can act.
 
-**Arcane Form - Passive:** This adversary is resistant to magic damage.
+***Arcane Form - Passive:*** This adversary is resistant to magic damage.
 
-**Armored Carapace - Passive:** When this adversary takes physical damage, reduce it by X.
+***Armored Carapace - Passive:*** When this adversary takes physical damage, reduce it by X.
 
 #### FEAR FEATURES
 
-**Explosion - Action:** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take 1d8 magic damage and are knocked back to Far range.
+***Explosion - Action:*** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take 1d8 magic damage and are knocked back to Far range.
 
 ## BUILDING BALANCED ENCOUNTERS
 
@@ -161,152 +161,147 @@ This section contains the following stat blocks:
 
 #### TIER 1 (LEVEL 1)
 
-- Acid Burrower
-- Bear
-- Cave Ogre
-- Construct
-- Courtier
-- Deeproot Defender
-- Dire Wolf
-- Giant Mosquitoes
-- Giant Rat
-- Giant Scorpion
-- Glass Snake
-- Harrier
-- Archer Guard
-- Bladed Guard
-- Head Guard
-- Jagged Knife Bandit
-- Jagged Knife Hexer
-- Jagged Knife Kneebreaker
-- Jagged Knife Lackey
-- Jagged Knife Lieutenant
-- Jagged Knife Shadow
-- Jagged Knife Sniper
-- Merchant
-- Minor Chaos Elemental
-- Minor Fire Elemental
-- Minor Demon
-- Minor Treant
-- Green Ooze
-- Tiny Green Ooze
-- Red Ooze
-- Tiny Red Ooze
-- Petty Noble
-- Pirate Captain
-- Pirate Raiders
-- Pirate Tough
-- Sellsword
-- Skeleton Archer
-- Skeleton Dredge
-- Skeleton Knight
-- Skeleton Warrior
-- Spellblade
-- Swarm of Rats
-- Sylvan Soldier
-- Tangle Bramble Swarm
-- Tangle Bramble
-- Weaponmaster
-- Young Dryad
-- Brawny Zombie
-- Patchwork Zombie Hulk
-- Rotted Zombie
-- Shambling Zombie
-- Zombie Pack
+- [Acid Burrower](adversaries/Acid%20Burrower.md)
+- [Bear](adversaries/Bear.md)
+- [Cave Ogre](adversaries/Cave%20Ogre.md)
+- [Construct](adversaries/Construct.md)
+- [Courtier](adversaries/Courtier.md)
+- [Deeproot Defender](adversaries/Deeproot%20Defender.md)
+- [Dire Wolf](adversaries/Dire%20Wolf.md)
+- [Giant Mosquitoes](adversaries/Giant%20Mosquitoes.md)
+- [Giant Rat](adversaries/Giant%20Rat.md)
+- [Giant Scorpion](adversaries/Giant%20Scorpion.md)
+- [Glass Snake](adversaries/Glass%20Snake.md)
+- [Harrier](adversaries/Harrier.md)
+- [Archer Guard](adversaries/Archer%20Guard.md)
+- [Bladed Guard](adversaries/Bladed%20Guard.md)
+- [Head Guard](adversaries/Head%20Guard.md)
+- [Jagged Knife Bandit](adversaries/Jagged%20Knife%20Bandit.md)
+- [Jagged Knife Hexer](adversaries/Jagged%20Knife%20Hexer.md)
+- [Jagged Knife Kneebreaker](adversaries/Jagged%20Knife%20Kneebreaker.md)
+- [Jagged Knife Lackey](adversaries/Jagged%20Knife%20Lackey.md)
+- [Jagged Knife Lieutenant](adversaries/Jagged%20Knife%20Lieutenant.md)
+- [Jagged Knife Shadow](adversaries/Jagged%20Knife%20Shadow.md)
+- [Jagged Knife Sniper](adversaries/Jagged%20Knife%20Sniper.md)
+- [Merchant](adversaries/Merchant.md)
+- [Minor Chaos Elemental](adversaries/Minor%20Chaos%20Elemental.md)
+- [Minor Fire Elemental](adversaries/Minor%20Fire%20Elemental.md)
+- [Minor Demon](adversaries/Minor%20Demon.md)
+- [Minor Treant](adversaries/Minor%20Treant.md)
+- [Green Ooze](adversaries/Green%20Ooze.md)
+- [Tiny Green Ooze](adversaries/Tiny%20Green%20Ooze.md)
+- [Red Ooze](adversaries/Red%20Ooze.md)
+- [Tiny Red Ooze](adversaries/Tiny%20Red%20Ooze.md)
+- [Petty Noble](adversaries/Petty%20Noble.md)
+- [Pirate Captain](adversaries/Pirate%20Captain.md)
+- [Pirate Raiders](adversaries/Pirate%20Raiders.md)
+- [Pirate Tough](adversaries/Pirate%20Tough.md)
+- [Sellsword](adversaries/Sellsword.md)
+- [Skeleton Archer](adversaries/Skeleton%20Archer.md)
+- [Skeleton Dredge](adversaries/Skeleton%20Dredge.md)
+- [Skeleton Knight](adversaries/Skeleton%20Knight.md)
+- [Skeleton Warrior](adversaries/Skeleton%20Warrior.md)
+- [Spellblade](adversaries/Spellblade.md)
+- [Swarm of Rats](adversaries/Swarm%20of%20Rats.md)
+- [Sylvan Soldier](adversaries/Sylvan%20Soldier.md)
+- [Tangle Bramble Swarm](adversaries/Tangle%20Bramble%20Swarm.md)
+- [Tangle Bramble](adversaries/Tangle%20Bramble.md)
+- [Young Dryad](adversaries/Young%20Dryad.md)
+- [Brawny Zombie](adversaries/Brawny%20Zombie.md)
+- [Patchwork Zombie Hulk](adversaries/Patchwork%20Zombie%20Hulk.md)
+- [Rotted Zombie](adversaries/Rotted%20Zombie.md)
+- [Shambling Zombie](adversaries/Shambling%20Zombie.md)
+- [Zombie Pack](adversaries/Zombie%20Pack.md)
 
 #### TIER 2 (LEVELS 2–4)
 
-- Archer Squadron
-- Apprentice Assassin
-- Assassin Poisoner
-- Master Assassin
-- Battle Box
-- Chaos Skull
-- Conscript
-- Courtesan
-- Cult Adept
-- Cult Fang
-- Cult Initiate
-- Demonic Hound Pack
-- Electric Eels
-- Elite Soldier
-- Failed Experiment
-- Giant Beastmaster
-- Giant Brawler
-- Giant Recruit
-- Giant Eagle
-- Gorgon
-- Juvenile Flickerfly
-- Knight of the Realm
-- Masked Thief
-- Merchant Baron
-- Minotaur Wrecker
-- Mortal Hunter
-- Royal Advisor
-- Secret-Keeper
-- Shark
-- Siren
-- Spectral Archer
-- Spectral Captain
-- Spectral Guardian
-- Spy
-- Stonewraith
-- War Wizard
+- [Archer Squadron](adversaries/Archer%20Squadron.md)
+- [Apprentice Assassin](adversaries/Apprentice%20Assassin.md)
+- [Assassin Poisoner](adversaries/Assassin%20Poisoner.md)
+- [Master Assassin](adversaries/Master%20Assassin.md)
+- [Battle Box](adversaries/Battle%20Box.md)
+- [Chaos Skull](adversaries/Chaos%20Skull.md)
+- [Conscript](adversaries/Conscript.md)
+- [Courtesan](adversaries/Courtesan.md)
+- [Cult Adept](adversaries/Cult%20Adept.md)
+- [Cult Fang](adversaries/Cult%20Fang.md)
+- [Cult Initiate](adversaries/Cult%20Initiate.md)
+- [Demonic Hound Pack](adversaries/Demonic%20Hound%20Pack.md)
+- [Electric Eels](adversaries/Electric%20Eels.md)
+- [Elite Soldier](adversaries/Elite%20Soldier.md)
+- [Failed Experiment](adversaries/Failed%20Experiment.md)
+- [Giant Beastmaster](adversaries/Giant%20Beastmaster.md)
+- [Giant Brawler](adversaries/Giant%20Brawler.md)
+- [Giant Recruit](adversaries/Giant%20Recruit.md)
+- [Giant Eagle](adversaries/Giant%20Eagle.md)
+- [Gorgon](adversaries/Gorgon.md)
+- [Juvenile Flickerfly](adversaries/Juvenile%20Flickerfly.md)
+- [Knight of the Realm](adversaries/Knight%20of%20the%20Realm.md)
+- [Masked Thief](adversaries/Masked%20Thief.md)
+- [Merchant Baron](adversaries/Merchant%20Baron.md)
+- [Minotaur Wrecker](adversaries/Minotaur%20Wrecker.md)
+- [Mortal Hunter](adversaries/Mortal%20Hunter.md)
+- [Royal Advisor](adversaries/Royal%20Advisor.md)
+- [Secret-Keeper](adversaries/Secret-Keeper.md)
+- [Shark](adversaries/Shark.md)
+- [Siren](adversaries/Siren.md)
+- [Spectral Archer](adversaries/Spectral%20Archer.md)
+- [Spectral Captain](adversaries/Spectral%20Captain.md)
+- [Spectral Guardian](adversaries/Spectral%20Guardian.md)
+- [Spy](adversaries/Spy.md)
+- [Stonewraith](adversaries/Stonewraith.md)
+- [War Wizard](adversaries/War%20Wizard.md)
 
 #### TIER 3 (LEVELS 5–7)
 
-- Adult Flickerfly
-- Demon of Avarice
-- Demon of Despair
-- Demon of Hubris
-- Demon of Jealousy
-- Demon of Wrath
-- Dire Bat
-- Dryad
-- Elemental Spark
-- Greater Earth Elemental
-- Greater Water Elemental
-- Huge Green Ooze
-- Hydra
-- Monarch
-- Stag Knight
-- Oak Treant
-- Treant Sapling
-- Head Vampire
-- Vampire
-- Vault Guardian Gaoler
-- Vault Guardian Sentinel
-- Vault Guardian Turret
-- Young Ice Dragon
+- [Adult Flickerfly](adversaries/Adult%20Flickerfly.md)
+- [Demon of Avarice](adversaries/Demon%20of%20Avarice.md)
+- [Demon of Despair](adversaries/Demon%20of%20Despair.md)
+- [Demon of Hubris](adversaries/Demon%20of%20Hubris.md)
+- [Demon of Jealousy](adversaries/Demon%20of%20Jealousy.md)
+- [Demon of Wrath](adversaries/Demon%20of%20Wrath.md)
+- [Dire Bat](adversaries/Dire%20Bat.md)
+- [Dryad](adversaries/Dryad.md)
+- [Elemental Spark](adversaries/Elemental%20Spark.md)
+- [Greater Earth Elemental](adversaries/Greater%20Earth%20Elemental.md)
+- [Greater Water Elemental](adversaries/Greater%20Water%20Elemental.md)
+- [Huge Green Ooze](adversaries/Huge%20Green%20Ooze.md)
+- [Hydra](adversaries/Hydra.md)
+- [Monarch](adversaries/Monarch.md)
+- [Stag Knight](adversaries/Stag%20Knight.md)
+- [Oak Treant](adversaries/Oak%20Treant.md)
+- [Treant Sapling](adversaries/Treant%20Sapling.md)
+- [Head Vampire](adversaries/Head%20Vampire.md)
+- [Vampire](adversaries/Vampire.md)
+- [Vault Guardian Gaoler](adversaries/Vault%20Guardian%20Gaoler.md)
+- [Vault Guardian Sentinel](adversaries/Vault%20Guardian%20Sentinel.md)
+- [Vault Guardian Turret](adversaries/Vault%20Guardian%20Turret.md)
+- [Young Ice Dragon](adversaries/Young%20Ice%20Dragon.md)
 
 #### TIER 4 (LEVELS 8–10)
 
-- Arch-Necromancer
-- Fallen Shock Troop
-- Fallen Sorcerer
-- Fallen Warlord
-- Realm-Breaker
-- Undefeated Champion
-- Hallowed Archer
-- Hallowed Soldier
-- High Seraph
-- Kraken
-- Oracle of Doom
-- Outer Realms Abomination
-- Outer Realms Corruptor
-- Outer Realms Thrall
-- Volcanic Dragon
-- Obsidian Predator
-- Volcanic Dragon:
-- Molten Scourge
-- Volcanic Dragon:
-- Ashen Tyrant
-- Perfected Zombie
-- Zombie Legion
+- [Arch-Necromancer](adversaries/Arch-Necromancer.md)
+- [Fallen Shock Troop](adversaries/Fallen%20Shock%20Troop.md)
+- [Fallen Sorcerer](adversaries/Fallen%20Sorcerer.md)
+- [Fallen Warlord: Realm-Breaker](adversaries/Fallen%20Warlord%20Realm-Breaker.md)
+- [Fallen Warlord: Undefeated Champion](adversaries/Fallen%20Warlord%20Undefeated%20Champion.md)
+- [Hallowed Archer](adversaries/Hallowed%20Archer.md)
+- [Hallowed Soldier](adversaries/Hallowed%20Soldier.md)
+- [High Seraph](adversaries/High%20Seraph.md)
+- [Kraken](adversaries/Kraken.md)
+- [Oracle of Doom](adversaries/Oracle%20of%20Doom.md)
+- [Outer Realms Abomination](adversaries/Outer%20Realms%20Abomination.md)
+- [Outer Realms Corrupter](adversaries/Outer%20Realms%20Corrupter.md)
+- [Outer Realms Thrall](adversaries/Outer%20Realms%20Thrall.md)
+- [Volcanic Dragon: Obsidian Predator](adversaries/Volcanic%20Dragon%20Obsidian%20Predator.md)
+- [Volcanic Dragon: Molten Scourge](adversaries/Volcanic%20Dragon%20Molten%20Scourge.md)
+- [Volcanic Dragon: Ashen Tyrant](adversaries/Volcanic%20Dragon%20Ashen%20Tyrant.md)
+- [Perfected Zombie](adversaries/Perfected%20Zombie.md)
+- [Zombie Legion](adversaries/Zombie%20Legion.md)
 
 ## USING ENVIRONMENTS
 
-Environments represent everything in a scene beyond the PCs and adversaries, such as the physical space, background NPCs, and natural forces.
+*Environments represent everything in a scene beyond the PCs and adversaries, such as the physical space, background NPCs, and natural forces.*
 
 ### ENVIRONMENT STAT BLOCK
 
@@ -366,31 +361,31 @@ This section contains the following stat blocks.
 
 #### TIER 1 (LEVEL 1)
 
-- Abandoned Grove (Exploration)
-- Ambushed (Event)
-- Ambushers (Event)
-- Bustling Marketplace (Social)
-- Cliffside Ascent (Traversal)
-- Local Tavern (Social)
-- Outpost Town (Social)
-- Raging River (Traversal)
+- [Abandoned Grove (Exploration)](Abandoned%20Grove.md)
+- [Ambushed (Event)](Ambushed.md)
+- [Ambushers (Event)](Ambushers.md)
+- [Bustling Marketplace (Social)](Bustling%20Marketplace.md)
+- [Cliffside Ascent (Traversal)](Cliffside%20Ascent.md)
+- [Local Tavern (Social)](Local%20Tavern.md)
+- [Outpost Town (Social)](Outpost%20Town.md)
+- [Raging River (Traversal)](Raging%20River.md)
 
 #### TIER 2 (LEVELS 2–4)
 
-- Cult Ritual (Event)
-- Hallowed Temple (Social)
-- Haunted City (Exploration)
-- Mountain Pass (Traversal)
+- [Cult Ritual (Event)](Cult%20Ritual.md)
+- [Hallowed Temple (Social)](Hallowed%20Temple.md)
+- [Haunted City (Exploration)](Haunted%20City.md)
+- [Mountain Pass (Traversal)](Mountain%20Pass.md)
 
 #### TIER 3 (LEVELS 5–7)
 
-- Burning Heart of the Woods (Exploration)
-- Castle Siege (Event)
-- Pitched Battle (Event)
+- [Burning Heart of the Woods (Exploration)](Burning%20Heart%20of%20the%20Woods.md)
+- [Castle Siege (Event)](Castle%20Siege.md)
+- [Pitched Battle (Event)](Pitched%20Battle.md)
 
 #### TIER 4 (LEVELS 8–10)
 
-- Chaos Realm (Traversal)
-- Divine Usurpation (Event)
-- Imperial Court (Social)
-- Necromancer’s Ossuary (Exploration)
+- [Chaos Realm (Traversal)](Chaos%20Realm.md)
+- [Divine Usurpation (Event)](Divine%20Usurpation.md)
+- [Imperial Court (Social)](Imperial%20Court.md)
+- [Necromancer’s Ossuary (Exploration)](Necromancers%20Ossuary.md)
