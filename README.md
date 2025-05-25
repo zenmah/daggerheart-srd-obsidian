@@ -1,6 +1,6 @@
 # DAGGERHEART
 
-## SYSTEM REFERENCE DOCUMENT 1.0
+### SYSTEM REFERENCE DOCUMENT 1.0
 
 SRD Writer: Rob Hebert | Technical Editor: Shawn Banerjee | Layout: Matt Paquette & Co. | Producer: Madigan Hunt
 
@@ -10,34 +10,34 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 ---
 
-# INTRODUCTION
+## INTRODUCTION
 
 **Welcome to DAGGERHEART**, *a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.*
 
 ---
 
-# CONTENTS
+## CONTENTS
 
-## INTRODUCTION
+### INTRODUCTION
 
 - [What Is This?](contents/What%20Is%20This.md)
 - [The Basics](contents/The%20Basics.md)
 
-## STARTING A CAMPAIGN
+### STARTING A CAMPAIGN
 
 - [Session Zero](contents/Session%20Zero.md) *(currently missing from SRD)*
 - [Setting Creation](contents/Setting%20Creation.md) *(currently missing from SRD)*
 
-## [CHARACTER CREATION](contents/Character%20Creation.md)
+### [CHARACTER CREATION](contents/Character%20Creation.md)
 
-## CORE MATERIALS
+### CORE MATERIALS
 
 - [Domains](contents/Domains.md)
 - [Classes](contents/Classes.md)
 - [Ancestries](contents/Ancestries.md)
 - [Communities](contents/Communities.md)
 
-## CORE MECHANICS
+### CORE MECHANICS
 
 - [Flow of the Game](mechanics/Flow%20of%20the%20Game.md)
 - [Core Gameplay Loop](mechanics/Core%20Gameplay%20Loop.md)
@@ -62,14 +62,15 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 - [Consumables](mechanics/Consumables.md)
 - [Gold](mechanics/Gold.md)
 
-## RUNNING AN ADVENTURE
+### RUNNING AN ADVENTURE
 
 - [GM Guidance](contents/GM%20Guidance.md)
 - [Core GM Mechanics](mechanics/Core%20GM%20Mechanics.md)
-- [Adversaries and Environments](mechanics/Adversaries%20and%20Environments.md)
+- [Adversaries](mechanics/Adversaries.md) 
+- [Environments](mechanics/Environments.md)
 - [Additional GM Guidance](contents/Additional%20GM%20Guidance.md)
 - [Campaign Frames](contents/Campaign%20Frames.md)
 
-## APPENDIX
+### APPENDIX
 
 - [Domain Card Reference](contents/Domain%20Card%20Reference.md)

@@ -4,7 +4,7 @@
 
 The GM has no Duality Dice; instead, they roll a single d20 called the GM’s Die.
 
-#### ADVERSARY ATTACK ROLLS
+### ADVERSARY ATTACK ROLLS
 
 When an adversary attacks a PC, roll your d20 and add the adversary’s attack bonus to the result. If the total meets or beats the target’s Evasion, the attack succeeds; otherwise, the attack fails. On a successful attack, roll the attack’s damage dice to determine how much it deals.
 
@@ -12,7 +12,7 @@ If you roll a natural 20 on an attack, your roll automatically succeeds and you 
 
 > ***Note:*** *A critical success on an adversary’s reaction roll automatically succeeds, but confers no additional benefit.*
 
-#### GUIDANCE ON ACTION ROLLS
+### GUIDANCE ON ACTION ROLLS
 
 After a player describes a move they want to make during the game, you might decide an action roll is necessary to determine how the scene progresses. Use this guide to determine what to present the player, choosing whichever option best fits the situation:
 
@@ -27,7 +27,7 @@ As the GM, you have **GM moves** that change the story in response to the player
 
 GM moves happen during **GM turns**. A GM turn begins when the spotlight passes to them and ends when the spotlight passes back to the players.
 
-#### WHEN TO MAKE A MOVE
+### WHEN TO MAKE A MOVE
 
 The GM can make a GM move whenever you want, but the frequency and severity depends on the type of story you’re telling, the actions your players take, and the tone of the session you’re running.
 
@@ -39,7 +39,7 @@ Make a GM move when the players:
 - Give you a “golden opportunity” (an opening that demands an immediate response)
 - Look to you for what happens next
 
-#### CHOOSING GM MOVES
+### CHOOSING GM MOVES
 
 The result of a player’s action roll determines your response:
 
@@ -61,7 +61,7 @@ The result of a player’s action roll determines your response:
   - They are separated from their party
   - They lose an important opportunity for good.
 
-#### QUICK REFERENCE: RESOLVING ACTION ROLLS
+### QUICK REFERENCE: RESOLVING ACTION ROLLS
 
 *If you’re unsure how to resolve a roll, think about these quick phrases:*
 
@@ -77,13 +77,13 @@ If the move you should make is not obvious from the fiction, draw inspiration fr
 - Have the PC mark a Stress
 - Tell the players “everything is fine... for now.”
 
-#### SOFT AND HARD MOVES
+### SOFT AND HARD MOVES
 
 **Soft moves** go easier on the players—they give the party new information about the scene and offer them an opportunity to react to it. **Hard moves** are harsher, more impactful, or more direct—the PCs don’t get an opening to interrupt, alter, or anticipate the outcome.
 
 Use softer moves on rolls with Hope and harder moves on rolls with Fear.
 
-### Example GM Moves
+**Example GM Moves**
 
 - Show how the world reacts
 - Ask a question and build on the answer
@@ -122,18 +122,13 @@ Spend a Fear to:
 
 The dramatic tension of a scene correlates with the amount of Fear you spend during it. For guidance on how much Fear you should spend in a scene, consult the following table:
 
-| **Activity** | **Fear** |
-|--------------|----------|
-| **Incidental** | 0–1 Fear |
-| A catch-up between PCs after an emotionally charged scene; gathering information; resupplying at a local market; resting during downtime. |
-| **Minor** | 1–3 Fear |
-| A travel sequence; a minor skirmish that introduces new foes or signals future trouble. |
-| **Standard** | 2–4 Fear |
-| A substantial battle with a notable objective; perilous travel that tests might and wit; a tense social encounter seeking crucial information or aid. |
-| **Major** | 4–8 Fear |
-| A large battle with a Solo or Leader adversary; a character-defining scene with a significant change to a character’s personal story (such as revelation, growth, and betrayal). |
-| **Climactic** | 6–12 Fear |
-| A major confrontation with the villain of a story arc; an epic set piece battle; a judicial duel to determine an important NPC’s fate. |
+| **Activity**                                                                                                                                                                                | **Fear**  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: |
+| **Incidental:** A catch-up between PCs after an emotionally charged scene; gathering information; resupplying at a local market; resting during downtime.                                   | 0–1 Fear  |
+| **Minor:** A travel sequence; a minor skirmish that introduces new foes or signals future trouble.                                                                                          | 1–3 Fear  |
+| **Standard:** A substantial battle with a notable objective; perilous travel that tests might and wit; a tense social encounter seeking crucial information or aid.                         | 2–4 Fear  |
+| **Major:** A large battle with a Solo or Leader adversary; a character-defining scene with a significant change to a character’s personal story (such as revelation, growth, and betrayal). | 4–8 Fear  |
+| **Climactic:** A major confrontation with the villain of a story arc; an epic set piece battle; a judicial duel to determine an important NPC’s fate.                                       | 6–12 Fear |
 
 If you find yourself with a **large amount of Fear**, consider:
 
@@ -155,85 +150,85 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 
 ### AGILITY
 
-| **Roll** | **Sprint** | **Leap** | **Maneuver** |
-|----------|------------|----------|--------------|
-| 5 | Sprint within Close range across an open field with an enemy present. | Make a running jump of half your height (about 3 feet for a human). | Walk slowly across a narrow beam. |
-| 10 | Sprint within Far range across an open field with an enemy present. | Make a running jump of your height (about 6 feet for a human). | Walk quickly across a narrow beam. |
-| 15 | Sprint within Close range across rough terrain with an enemy present. | Make a running jump of double your height (about 12 feet for a human). | Run across a narrow beam. |
-| 20 | Sprint within Close range through an active battle of multiple enemies. | Make a running jump of three times your height (about 18 feet for a human). | Run across a narrow beam in heavy wind. |
-| 25 | Sprint within Far range through a pitched battle in rough terrain. | Make a running jump of five times your height (about 30 feet for a human). | Run across a very narrow beam in an active rainstorm. |
-| 30 | Sprint across the heads of your enemies in a pitched battle. | Make a running jump of ten times your height (about 60 feet for a human). | Run across an inch-wide, oil-slicked beam in an active rainstorm. |
+| **Roll** | **Sprint**                                                              | **Leap**                                                                    | **Maneuver**                                                      |
+| :------: | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+|    **5**     | Sprint within Close range across an open field with an enemy present.   | Make a running jump of half your height (about 3 feet for a human).         | Walk slowly across a narrow beam.                                 |
+|    **10**    | Sprint within Far range across an open field with an enemy present.     | Make a running jump of your height (about 6 feet for a human).              | Walk quickly across a narrow beam.                                |
+|    **15**    | Sprint within Close range across rough terrain with an enemy present.   | Make a running jump of double your height (about 12 feet for a human).      | Run across a narrow beam.                                         |
+|    **20**    | Sprint within Close range through an active battle of multiple enemies. | Make a running jump of three times your height (about 18 feet for a human). | Run across a narrow beam in heavy wind.                           |
+|    **25**    | Sprint within Far range through a pitched battle in rough terrain.      | Make a running jump of five times your height (about 30 feet for a human).  | Run across a very narrow beam in an active rainstorm.             |
+|    **30**    | Sprint across the heads of your enemies in a pitched battle.            | Make a running jump of ten times your height (about 60 feet for a human).   | Run across an inch-wide, oil-slicked beam in an active rainstorm. |
 
 ### STRENGTH
 
-| **ROLL** | **LIFT** | **SMASH** | **GRAPPLE** |
-|----------|----------|-----------|-------------|
-| 5 | Lift a chair. | Destroy a glass cup. | Subdue a child. |
-| 10 | Lift a table or small chest. | Destroy a small wooden table. | Subdue a weak adult. |
-| 15 | Lift a grown person or large chest. | Break through a wooden door. | Subdue an average adult. |
-| 20 | Lift the side of a laden cart or carry a large chest up stairs. | Break through a stone wall. | Subdue a skilled wrestler. |
-| 25 | Lift a horse, an ox, or a large monster. | Break through a dragon’s teeth. | Subdue a large beast. |
-| 30 | Lift a falling portcullis gate. | Break a god’s grip. | Subdue a legendary beast. |
+| **ROLL** | **LIFT**                                                        | **SMASH**                       | **GRAPPLE**                |
+| :------: | --------------------------------------------------------------- | ------------------------------- | -------------------------- |
+|    **5**     | Lift a chair.                                                   | Destroy a glass cup.            | Subdue a child.            |
+|    **10**    | Lift a table or small chest.                                    | Destroy a small wooden table.   | Subdue a weak adult.       |
+|    **15**    | Lift a grown person or large chest.                             | Break through a wooden door.    | Subdue an average adult.   |
+|    **20**    | Lift the side of a laden cart or carry a large chest up stairs. | Break through a stone wall.     | Subdue a skilled wrestler. |
+|    **25**    | Lift a horse, an ox, or a large monster.                        | Break through a dragon’s teeth. | Subdue a large beast.      |
+|    **30**    | Lift a falling portcullis gate.                                 | Break a god’s grip.             | Subdue a legendary beast.  |
 
 ### FINESSE
 
-| **ROLL** | **CONTROL** | **HIDE** | **TINKER** |
-|----------|-------------|----------|------------|
-| 5 | Ride a horse through easy terrain. | Evade notice under full cover on a moonless night. | Open a sticky lock with the appropriate key. |
-| 10 | Drive an ox-pulled cart. | Evade notice in limited cover on a moonless night. | Open a simple puzzle box. |
-| 15 | Ride a horse through rough terrain. | Evade notice in limited cover on an average night. | Disable a standard trap. |
-| 20 | Drive a cart through rough terrain. | Evade notice in the shadows on an average night. | Disable a complicated trap. |
-| 25 | Ride a wild horse through dangerous terrain. | Evade notice with minimal cover in ample light. | Open a door secured by a sequence of elaborate locks. |
-| 30 | Ride an enraged beast through dangerous terrain. | Evade notice with no cover in full daylight. | Disable an incredibly sensitive and deadly trap. |
+| **ROLL** | **CONTROL**                                      | **HIDE**                                           | **TINKER**                                            |
+| :------: | ------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------- |
+|    **5**     | Ride a horse through easy terrain.               | Evade notice under full cover on a moonless night. | Open a sticky lock with the appropriate key.          |
+|    **10**    | Drive an ox-pulled cart.                         | Evade notice in limited cover on a moonless night. | Open a simple puzzle box.                             |
+|    **15**    | Ride a horse through rough terrain.              | Evade notice in limited cover on an average night. | Disable a standard trap.                              |
+|    **20**    | Drive a cart through rough terrain.              | Evade notice in the shadows on an average night.   | Disable a complicated trap.                           |
+|    **25**    | Ride a wild horse through dangerous terrain.     | Evade notice with minimal cover in ample light.    | Open a door secured by a sequence of elaborate locks. |
+|    **30**    | Ride an enraged beast through dangerous terrain. | Evade notice with no cover in full daylight.       | Disable an incredibly sensitive and deadly trap.      |
 
 ### INSTINCT
 
-| **ROLL** | **PERCEIVE** | **SENSE** | **NAVIGATE** |
-|----------|--------------|-----------|--------------|
-| 5 | Hear a loud noise twenty paces away. | Detect an obvious ambush or notice an obvious deception. | Follow a well-trod path in good lighting and weather. |
-| 10 | Hear a speaking voice fifty paces away. | Detect a looming threat or notice an average person’s lies. | Follow an average path in good lighting and weather. |
-| 15 | Hear someone walking in the woods fifty paces away. | Detect hostile intent from a foe or see through a merchant’s lies. | Follow a subtle path through rough conditions. |
-| 20 | Hear someone sneaking through the woods fifty paces away. | Detect a politician’s veiled hostility or detect a nearby assassin. | Follow a subtle path through harsh conditions. |
-| 25 | Hear a prowling animal fifty paces away. | Identify a spymaster’s plot or read a politician’s true intentions. | Find your way with no path through dangerous conditions. |
-| 30 | Hear a diving bird a hundred paces away. | Sense a shred of doubt within a god’s pronouncement. | Find your way through a trickery god’s maze. |
+| **ROLL** | **PERCEIVE**                                              | **SENSE**                                                           | **NAVIGATE**                                             |
+| :------: | --------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------- |
+|    **5**     | Hear a loud noise twenty paces away.                      | Detect an obvious ambush or notice an obvious deception.            | Follow a well-trod path in good lighting and weather.    |
+|    **10**    | Hear a speaking voice fifty paces away.                   | Detect a looming threat or notice an average person’s lies.         | Follow an average path in good lighting and weather.     |
+|    **15**    | Hear someone walking in the woods fifty paces away.       | Detect hostile intent from a foe or see through a merchant’s lies.  | Follow a subtle path through rough conditions.           |
+|    **20**    | Hear someone sneaking through the woods fifty paces away. | Detect a politician’s veiled hostility or detect a nearby assassin. | Follow a subtle path through harsh conditions.           |
+|    **25**    | Hear a prowling animal fifty paces away.                  | Identify a spymaster’s plot or read a politician’s true intentions. | Find your way with no path through dangerous conditions. |
+|    **30**    | Hear a diving bird a hundred paces away.                  | Sense a shred of doubt within a god’s pronouncement.                | Find your way through a trickery god’s maze.             |
 
 ### PRESENCE
 
-| **ROLL** | **CHARM** | **PERFORM** | **DECEIVE** |
-|----------|-----------|-------------|-------------|
-| 5 | Win the trust of a friendly neighbor. | Earn a meal from a friendly crowd. | Trick a trusting acquaintance. |
-| 10 | Win the trust of a friendly stranger. | Earn room and board in a small town or impress a small crowd. | Trick an average stranger. |
-| 15 | Win the trust of a cautious stranger or talk your way into a noble’s party. | Earn room and board in a low-end tavern or impress a large crowd. | Trick an average merchant. |
-| 20 | Win the trust of a sympathetic foe or talk your way into an enemy’s party. | Earn lodging in a high-end tavern or impress a full theater. | Trick a trained courtier. |
-| 25 | Turn an enemy against their ruler or talk your way into a fae court. | Earn your keep in a royal court or impress a full colosseum. | Trick a spymaster. |
-| 30 | Talk a hostile god into granting you a boon. | Save yourself from execution after offending the queen. | Trick a god. |
+| **ROLL** | **CHARM**                                                                   | **PERFORM**                                                       | **DECEIVE**                    |
+| :------: | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------ |
+|    **5**     | Win the trust of a friendly neighbor.                                       | Earn a meal from a friendly crowd.                                | Trick a trusting acquaintance. |
+|    **10**    | Win the trust of a friendly stranger.                                       | Earn room and board in a small town or impress a small crowd.     | Trick an average stranger.     |
+|    **15**    | Win the trust of a cautious stranger or talk your way into a noble’s party. | Earn room and board in a low-end tavern or impress a large crowd. | Trick an average merchant.     |
+|    **20**    | Win the trust of a sympathetic foe or talk your way into an enemy’s party.  | Earn lodging in a high-end tavern or impress a full theater.      | Trick a trained courtier.      |
+|    **25**    | Turn an enemy against their ruler or talk your way into a fae court.        | Earn your keep in a royal court or impress a full colosseum.      | Trick a spymaster.             |
+|    **30**    | Talk a hostile god into granting you a boon.                                | Save yourself from execution after offending the queen.           | Trick a god.                   |
 
 ### KNOWLEDGE
 
-| **ROLL** | **RECALL** | **ANALYZE** | **COMPREHEND** |
-|----------|------------|-------------|----------------|
-| 5 | Recall uncommon facts about your community. | Unpack an obvious metaphor in a simple text. | Learn simple skills from an excellent teacher. |
-| 10 | Recall uncommon facts about a neighboring community. | Identify obvious subtext in a conversation. | Learn simple skills from an average teacher. |
-| 15 | Recall uncommon facts about a distant community. | Break an average cipher in a coded message. | Learn complicated skills from an excellent teacher. |
-| 20 | Recall specialized facts about a distant community. | Identify a weakness in a complicated battle plan. | Learn complicated skills under poor conditions. |
-| 25 | Recall specialized facts about a fallen kingdom. | Predict the downfall of a nation based on concealed misdeeds. | Learn complicated skills quickly under dangerous conditions. |
-| 30 | Recall secret information about an obscure historical group. | Identify the weakness in a divine champion’s fighting form. | Learn complicated skills quickly from incomplete information. |
+| **ROLL** | **RECALL**                                                   | **ANALYZE**                                                   | **COMPREHEND**                                                |
+| :------: | ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------- |
+|    **5**     | Recall uncommon facts about your community.                  | Unpack an obvious metaphor in a simple text.                  | Learn simple skills from an excellent teacher.                |
+|    **10**    | Recall uncommon facts about a neighboring community.         | Identify obvious subtext in a conversation.                   | Learn simple skills from an average teacher.                  |
+|    **15**    | Recall uncommon facts about a distant community.             | Break an average cipher in a coded message.                   | Learn complicated skills from an excellent teacher.           |
+|    **20**    | Recall specialized facts about a distant community.          | Identify a weakness in a complicated battle plan.             | Learn complicated skills under poor conditions.               |
+|    **25**    | Recall specialized facts about a fallen kingdom.             | Predict the downfall of a nation based on concealed misdeeds. | Learn complicated skills quickly under dangerous conditions.  |
+|    **30**    | Recall secret information about an obscure historical group. | Identify the weakness in a divine champion’s fighting form.   | Learn complicated skills quickly from incomplete information. |
 
 ## GIVING ADVANTAGE AND DISADVANTAGE
 
 To viscerally convey how a PC’s actions or circumstances affect their ability to act, grant them advantage or impose disadvantage instead of adjusting the Difficulty of an action roll.
 
-#### ADVERSARY ACTION ROLLS
+### ADVERSARY ACTION ROLLS
 
 By default, adversaries don’t normally make action rolls except for attack rolls and any unique actions described in their stat blocks. Any other action an adversary attempts simply succeeds without an action roll; if you want an adversary’s action to have a chance of failure, have any relevant PCs make reaction rolls instead.
 
 However, for especially dramatic or difficult tasks that the PCs can’t influence, you can give an adversary an action roll anyway. For an adversary’s action roll, roll a d20. If the result is equal to or greater than the action’s Difficulty, the action succeeds—otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary’s stat block to the total. Use the same procedure when an adversary makes a reaction roll.
 
-#### ADVERSARY ADVANTAGE & DISADVANTAGE
+### ADVERSARY ADVANTAGE & DISADVANTAGE
 
 If an adversary has advantage on an action roll, the GM rolls an extra d20 and counts only the higher result. If an adversary has disadvantage on an action roll, the GM rolls an extra d20 and counts only the lower result.
 
-#### ADVERSARY ATTACKS
+### ADVERSARY ATTACKS
 
 When an adversary attacks a PC, the GM rolls a d20 and adds the adversary’s Attack Modifier to the result. If the total meets or beats the target’s Evasion, the attack succeeds; otherwise, it fails. Before rolling, the GM can grant the attacking adversary advantage, impose disadvantage, or spend a Fear to add a relevant Experience from the adversary’s stat block to the total.
 
@@ -253,13 +248,13 @@ Dynamic countdowns advance by up to 3 depending on the outcomes of action rolls.
 
 ## DYNAMIC COUNTDOWN ADVANCEMENT
 
-| **Roll Result** | **Progress Advancement** | **Consequence Advancement** |
-|-----------------|--------------------------|-----------------------------|
-| Failure with Fear | No advancement | Tick down 3 |
-| Failure with Hope | No advancement | Tick down 2 |
-| Success with Fear | Tick down 1 | Tick down 1 |
-| Success with Hope | Tick down 2 | No advancement |
-| Critical Success | Tick down 3 | No advancement |
+| **Roll Result**   | **Progress Advancement** | **Consequence Advancement** |
+| ----------------- | ------------------------ | --------------------------- |
+| **Failure with Fear** | No advancement           | Tick down 3                 |
+| **Failure with Hope** | No advancement           | Tick down 2                 |
+| **Success with Fear** | Tick down 1              | Tick down 1                 |
+| **Success with Hope** | Tick down 2              | No advancement              |
+| **Critical Success**  | Tick down 3              | No advancement              |
 
 ### ADVANCED COUNTDOWN FEATURES
 
@@ -280,18 +275,20 @@ If you don’t wish to track gold, then when PCs go shopping for new items let t
 
 Otherwise, set the prices of goods and services by adjusting the entries in the Average Costs table to reflect your campaign setting:
 
-- Meals for a party of adventurers per night | 1 Handful
-- Standard inn room per night | 1 Handful
-- Luxury inn room per night | 1 Bag
-- Carriage ride | 2 Handfuls
-- Mount (horse, mule, etc.) | 3 Bags
-- Specialized tools | 3 Handfuls
-- Fine clothing | 3 Handfuls
-- Luxury clothing | 1 Bag
-- Tier 1 equipment (weapons, armor) | 1–5 Handfuls
-- Tier 2 equipment (weapons, armor) | 1–2 Bags
-- Tier 3 equipment (weapons, armor) | 5–10 Bags
-- Tier 4 equipment (weapons, armor) | 1–2 Chests
+| **Goods and Services**                         | **Price**        |
+| ------------------------------------------ | ------------ |
+| Meals for a party of adventurers per night | 1 Handful    |
+| Standard inn room per night                | 1 Handful    |
+| Luxury inn room per night                  | 1 Bag        |
+| Carriage ride                              | 2 Handfuls   |
+| Mount (horse, mule, etc.)                  | 3 Bags       |
+| Specialized tools                          | 3 Handfuls   |
+| Fine clothing                              | 3 Handfuls   |
+| Luxury clothing                            | 1 Bag        |
+| Tier 1 equipment (weapons, armor)          | 1–5 Handfuls |
+| Tier 2 equipment (weapons, armor)          | 1–2 Bags     |
+| Tier 3 equipment (weapons, armor)          | 5–10 Bags    |
+| Tier 4 equipment (weapons, armor)          | 1–2 Chests   |
 
 ## RUNNING GM NPCS
 
@@ -305,37 +302,37 @@ If you want an important NPC to mechanically interact with the system, you can g
 
 ## NPC FEATURE EXAMPLES
 
-#### ARCANE HOLD
+### ARCANE HOLD
 
 - **Choice:** When the battle begins, choose a favored PC.
 - **Trigger:** The first time during a battle the favored PC is within Close range and hit with an attack.
 - **Effect:** Make an attack roll with a +6 modifier against the adversary. On a success, the target is temporarily Restrained by tendrils of powerful magic.
 
-#### VOLLEY OF ARROWS
+### VOLLEY OF ARROWS
 
 - **Trigger:** A battle begins and this NPC is involved.
 - **Effect:** Activate a countdown (Loop 3). It ticks down when a PC misses an attack. When it triggers, this NPC releases a volley of arrows at a target of the PCs’ choice, dealing 2d8+3 physical damage.
 
-#### MENTOR
+### MENTOR
 
 - **Choice:** When the battle begins, choose a protégé PC.
 - **Trigger:** Your protégé is within Close range and fails an attack roll.
 - **Effect:** Move into Melee range with the PC and give them advice or guidance. The next attack roll they make has advantage.
 
-#### REGROUP
+### REGROUP
 
 - **Choice:** When a battle begins, choose a point within Far range.
 - **Trigger:** All PCs have marked all of their Armor Slots.
 - **Effect:** Teleport all PCs and this NPC to the chosen spot and clear an Armor Slot on each target.
 
-#### INTO THE NIGHT
+### INTO THE NIGHT
 
 - **Trigger:** The PCs start a long rest with this NPC.
 - **Effect:** Roll 1d4. On a 2 or less, this NPC steals 1 handful of gold from the party while they are sleeping, then disappears into the night.
 
 ## OPTIONAL GM MECHANICS
 
-#### FATE ROLLS
+### FATE ROLLS
 
 When the GM wants to leave an outcome entirely up to chance, they call for a fate roll. The GM establishes what’s at stake and how the roll will be interpreted. Then a player rolls one of their Duality Dice and interprets the result.
 
@@ -346,7 +343,7 @@ When the GM wants to leave an outcome entirely up to chance, they call for a fat
 > - *“Go ahead and roll your Hope Die to see how big the crowd at the inn is tonight. The higher the roll, the bigger the crowd.”*
 > - *“Make a roll using your Hope Die to determine the number of Stamina Potions the shop has in stock.”*
 
-#### FALLING AND COLLISION DAMAGE
+### FALLING AND COLLISION DAMAGE
 
 If a character falls to the ground, you can use the following as a guide to determine the damage they take:
 
@@ -356,7 +353,7 @@ If a character falls to the ground, you can use the following as a guide to dete
 
 If a character collides with an object or another character at a dangerous speed, they take 1d20+5 direct physical damage.
 
-#### MOVING AND FIGHTING UNDERWATER
+### MOVING AND FIGHTING UNDERWATER
 
 By default, attack rolls made while the attacker is underwater have disadvantage.
 
@@ -364,7 +361,7 @@ For creatures that can’t breathe underwater, use a standard countdown (3) to t
 
 Once the countdown ends, the underwater PC must mark a Stress whenever they take an action.
 
-#### CONFLICT BETWEEN PLAYERS
+### CONFLICT BETWEEN PLAYERS
 
 Sometimes a player might want their character to act against another PC in the scene. Before resorting to rolling dice, discuss the situation with both players to decide how to resolve the conflict. A roll might not be necessary to reach an outcome—but if rolling will be fun for everyone involved, come to a consensus on the terms of the roll, then facilitate the scene according to the results.
 

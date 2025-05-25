@@ -4,30 +4,30 @@
 
 ## TIER 1 (LEVEL 1)
 
-| NAME | TRAIT | RANGE | DAMAGE | BURDEN | FEATURE |
-|----------------|-----------|------------|-----------|------------|---------------------------------------------------------------|
-| Shortsword | Agility | Melee | d8 phy | One-Handed | Paired: +2 to primary weapon damage to targets within Melee range |
-| Round Shield | Strength | Melee | d4 phy | One-Handed | Protective: +1 to Armor Score |
-| Tower Shield | Strength | Melee | d6 phy | One-Handed | Barrier: +2 to Armor Score; -1 to Evasion |
-| Small Dagger | Finesse | Melee | d8 phy | One-Handed | Paired: +2 to primary weapon damage to targets within Melee range |
-| Whip | Presence | Very Close | d6 phy | One-Handed | Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range. |
-| Grappler | Finesse | Close | d6 phy | One-Handed | Hooked: On a successful attack, you can pull the target into Melee range. |
-| Hand Crossbow | Finesse | Far | d6+1 phy | One-Handed | — |
+| **NAME**          | **TRAIT**    | **RANGE**      | **DAMAGE**   | **BURDEN**     | **FEATURE**                                                                                                      |
+| ----------------- | -------- | ---------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------ |
+| **Shortsword**    | Agility  | Melee      | d8 phy   | One-Handed | Paired: +2 to primary weapon damage to targets within Melee range                                            |
+| **Round Shield**  | Strength | Melee      | d4 phy   | One-Handed | Protective: +1 to Armor Score                                                                                |
+| **Tower Shield**  | Strength | Melee      | d6 phy   | One-Handed | Barrier: +2 to Armor Score; -1 to Evasion                                                                    |
+| **Small Dagger**  | Finesse  | Melee      | d8 phy   | One-Handed | Paired: +2 to primary weapon damage to targets within Melee range                                            |
+| **Whip**          | Presence | Very Close | d6 phy   | One-Handed | Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range. |
+| **Grappler**      | Finesse  | Close      | d6 phy   | One-Handed | Hooked: On a successful attack, you can pull the target into Melee range.                                    |
+| **Hand Crossbow** | Finesse  | Far        | d6+1 phy | One-Handed | —                                                                                                            |
 
 ## TIER 2 (LEVELS 2–4)
 
-| NAME | TRAIT | RANGE | DAMAGE | BURDEN | FEATURE |
-|--------------------------|-----------|------------|-----------|------------|---------------------------------------------------------------|
-| Improved Shortsword | Agility | Melee | d8+2 phy | One-Handed | Paired: +3 to primary weapon damage to targets within Melee range |
-| Improved Round Shield | Strength | Melee | d4+2 phy | One-Handed | Protective: +2 to Armor Score |
-| Improved Tower Shield | Strength | Melee | d6+2 phy | One-Handed | Barrier: +3 to Armor Score; -1 to Evasion |
-| Improved Small Dagger | Finesse | Melee | d8+2 phy | One-Handed | Paired: +3 to primary weapon damage to targets within Melee range |
-| Improved Whip | Presence | Very Close | d6+2 phy | One-Handed | Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range. |
-| Improved Grappler | Finesse | Close | d6+2 phy | One-Handed | Hooked: On a successful attack, you can pull the target into Melee range. |
-| Improved Hand Crossbow | Finesse | Far | d6+3 phy | One-Handed | — |
-| Spiked Shield | Strength | Melee | d6+2 phy | One-Handed | Double Duty: +1 to Armor Score; +1 to primary weapon damage within Melee range |
-| Parrying Dagger | Finesse | Melee | d6+2 phy | One-Handed | Parry: When you are attacked, roll this weapon’s damage dice. If any of the attacker’s damage dice rolled the same value as your dice, the matching results are discarded from the attacker’s damage dice before the damage you take is totaled. |
-| Returning Axe | Agility | Close | d6+4 phy | One-Handed | Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack. |
+| **NAME**                   | **TRAIT**    | **RANGE**      | **DAMAGE**   | **BURDEN**     | **FEATURE**                                                                                                                                                                                                                                          |
+| -------------------------- | -------- | ---------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Improved Shortsword**    | Agility  | Melee      | d8+2 phy | One-Handed | Paired: +3 to primary weapon damage to targets within Melee range                                                                                                                                                                                |
+| **Improved Round Shield**  | Strength | Melee      | d4+2 phy | One-Handed | Protective: +2 to Armor Score                                                                                                                                                                                                                    |
+| **Improved Tower Shield**  | Strength | Melee      | d6+2 phy | One-Handed | Barrier: +3 to Armor Score; -1 to Evasion                                                                                                                                                                                                        |
+| **Improved Small Dagger**  | Finesse  | Melee      | d8+2 phy | One-Handed | Paired: +3 to primary weapon damage to targets within Melee range                                                                                                                                                                                |
+| **Improved Whip**          | Presence | Very Close | d6+2 phy | One-Handed | Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.                                                                                                                                     |
+| **Improved Grappler**      | Finesse  | Close      | d6+2 phy | One-Handed | Hooked: On a successful attack, you can pull the target into Melee range.                                                                                                                                                                        |
+| **Improved Hand Crossbow** | Finesse  | Far        | d6+3 phy | One-Handed | —                                                                                                                                                                                                                                                |
+| **Spiked Shield**          | Strength | Melee      | d6+2 phy | One-Handed | Double Duty: +1 to Armor Score; +1 to primary weapon damage within Melee range                                                                                                                                                                   |
+| **Parrying Dagger**        | Finesse  | Melee      | d6+2 phy | One-Handed | Parry: When you are attacked, roll this weapon’s damage dice. If any of the attacker’s damage dice rolled the same value as your dice, the matching results are discarded from the attacker’s damage dice before the damage you take is totaled. |
+| **Returning Axe**          | Agility  | Close      | d6+4 phy | One-Handed | Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack.                                                                                                                                    |
 
 ## TIER 3 (LEVELS 5–7)
 

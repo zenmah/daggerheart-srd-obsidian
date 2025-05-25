@@ -4,6 +4,6 @@ Being part of an underborne community means you’re from a subterranean society
 
 *Underborne are often composed, elusive, indomitable, innovative, resourceful, and unpretentious.*
 
-#### COMMUNITY FEATURE
+## COMMUNITY FEATURE
 
 ***Low-Light Living:*** When you’re in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area.

@@ -34,7 +34,7 @@ All wheelchairs can be maneuvered using one or two hands outside of combat. Howe
 
 All combat wheelchairs are equipped as Primary Weapons. There are three models of wheelchair available: light, heavy, and arcane. You’re encouraged to consider the type of character you’re playing and the class they belong to, then choose the model that best matches that character concept.
 
-### Light Frame Models
+### LIGHT FRAME MODELS
 
 Though tough, these wheelchairs have light frames that allow the chair to move with your character in more acrobatic ways. These models are best suited to adventurers who rely on speed and flexibility.
 
@@ -45,7 +45,7 @@ Though tough, these wheelchairs have light frames that allow the chair to move w
 | Advanced Light-Frame Wheelchair| 3 | Agility| Melee | d8+6 phy| One-Handed| Quick: When you make an attack, you can mark a Stress to target another creature within range. |
 | Legendary Light-Frame Wheelchair| 4 | Agility| Melee | d8+9 phy| One-Handed| Quick: When you make an attack, you can mark a Stress to target another creature within range. |
 
-### Heavy Frame Models
+### HEAVY FRAME MODELS
 
 These wheelchairs have bulky and heavier frames, allowing the chair to lend its weight to your character’s attacks. It also makes them a bigger target.
 
@@ -56,7 +56,7 @@ These wheelchairs have bulky and heavier frames, allowing the chair to lend its 
 | Advanced Heavy-Frame Wheelchair | 3 | Strength | Melee | d12+9 phy | Two-Handed | Heavy: -1 to Evasion |
 | Legendary Heavy-Frame Wheelchair | 4 | Strength | Melee | d12+12 phy | Two-Handed | Heavy: -1 to Evasion |
 
-### Arcane Frame Models
+### ARCANE FRAME MODELS
 
 These wheelchairs have frames that are attuned to your character and their magic, allowing them to channel their spells through the chair. Unlike other primary magic weapons, the arcane-frame model doesn’t specify a trait to use when making an attack with it. Instead, you use the Spellcast trait indicated by your subclass.
 

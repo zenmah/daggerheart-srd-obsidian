@@ -4,6 +4,6 @@ Being part of a slyborne community means you come from a group that operates out
 
 *Slyborne are often calculating, clever, formidable, perceptive, shrewd, and tenacious.*
 
-#### COMMUNITY FEATURE
+## COMMUNITY FEATURE
 
 ***Scoundrel:*** You have advantage on rolls to negotiate with criminals, detect lies, or find a safe place to hide.

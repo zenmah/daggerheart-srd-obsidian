@@ -32,11 +32,13 @@ def process_csv_to_md(csv_file, template_file, output_dir, feature_count=7):
             content = template.render(**row)
             with open(f"{output_dir}/{filename}.md", 'w', encoding='utf-8') as outfile:
                 outfile.write(content)
+                print(filename)
 
 # List your jobs: (csv, template, output_dir)
 jobs = [
     ("adversaries.csv", "adversaries.md", "adversaries"),
     ("environments.csv", "environments.md", "environments"),
+    ("cards.csv", "cards.md", "cards"),
 ]
 
 for csv_file, template_file, output_dir in jobs:

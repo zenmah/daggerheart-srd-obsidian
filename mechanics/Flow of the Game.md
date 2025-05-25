@@ -23,4 +23,3 @@ To get the most out of Daggerheart, we recommend players keep the following prin
 - Discover your character.
 
 > *For more information, see the Daggerheart Core Rulebook, pages 9 and 108.*
-

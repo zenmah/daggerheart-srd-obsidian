@@ -25,6 +25,6 @@ A **long rest** is when the characters make camp and relax or sleep for several 
 
 At the end of a long rest, any features or effects with a limited number of uses per rest or per long rest refresh and any features or effects that last until your next rest or until your next long rest expire.
 
-#### DOWNTIME CONSEQUENCES
+## DOWNTIME CONSEQUENCES
 
 On a short rest, the GM gains 1d4 Fear. On a long rest, they gain Fear equal to 1d4 + the number of PCs, and they can advance a long-term countdown of their choice.

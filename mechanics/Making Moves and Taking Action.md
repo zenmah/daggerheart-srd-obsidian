@@ -22,7 +22,7 @@ To make an action roll, you roll the Duality Dice, sum the results, apply any re
 
 After resolving the action roll, the table works together to weave the outcome into the narrative and play continues.
 
-#### FAILING FORWARD
+## FAILING FORWARD
 
 In Daggerheart, every time you roll the dice, the scene changes in some way. There is no such thing as a roll where “nothing happens,” because the fiction constantly evolves based on the successes and failures of the characters.
 
@@ -30,27 +30,27 @@ In Daggerheart, every time you roll the dice, the scene changes in some way. The
 
 The following steps describe in more detail the procedure that all action rolls utilize:
 
-#### STEP 1: PICK AN APPROPRIATE TRAIT
+### STEP 1: PICK AN APPROPRIATE TRAIT
 
 Some actions and effects specify in their description which trait applies to the roll; otherwise, the GM tells the acting player which character trait best applies to the action being attempted. If more than one trait could apply to the roll, the GM chooses or lets the acting player decide.
 
-#### STEP 2: DETERMINE THE DIFFICULTY
+### STEP 2: DETERMINE THE DIFFICULTY
 
 Some actions and features say in their description what the Difficulty is. Otherwise, the GM determines the Difficulty based on the scenario. The GM can choose whether to share the Difficulty with the table. In either case, the GM should communicate the potential consequences of failure to the acting player.
 
-#### STEP 3: APPLY EXTRA DICE AND MODIFIERS
+### STEP 3: APPLY EXTRA DICE AND MODIFIERS
 
 The acting player decides whether to Utilize an Experience or activate other effects, then, if applicable, adds the appropriate tokens and dice (such as advantage or Rally dice) to their dice pool.
 
 > ***Note:*** *Unless an action, ability, or feature specifically allows for it, a player must declare the use of any Experiences, extra dice, or other modifiers before the roll.*
 
-#### STEP 4: ROLL THE DICE
+### STEP 4: ROLL THE DICE
 
 The acting player rolls their entire dice pool and announces the results in the format of “[total result] with [Hope/Fear]”—or “Critical Success!” in the case of matching Duality Dice.
 
 > ***Example:*** *A player is making an action roll with a +1 in the relevant trait and no other modifiers; they roll the Duality Dice and get a result of 5 on their Hope Die and 7 on their Fear Die, then announce “I rolled a 13 with Fear!”*
 
-#### STEP 5: RESOLVE THE OUTCOME
+### STEP 5: RESOLVE THE OUTCOME
 
 The active player and the GM work together, along with the suggestions and support of the rest of the table, to resolve the outcome of the action.
 
@@ -86,7 +86,7 @@ The GM can spend additional Fear to spotlight additional adversaries. Once the G
 
 Some rolls have unique specifications or otherwise modify the action roll procedure: trait rolls, Spellcast Rolls, attack rolls, and damage rolls. Unless otherwise noted, you can apply any bonus, modifier, or effect to a special roll as if it were a standard action roll.
 
-#### TRAIT ROLLS
+### TRAIT ROLLS
 
 An action roll that specifies which character trait applies to it is called a **trait roll**. In the text of a feature or effect, a trait roll is referenced with the format “[Trait] Roll (Difficulty)” (e.g., “Agility Roll (12)”). If the text of an effect doesn’t specify a trait roll’s Difficulty, the GM sets the Difficulty based on the circumstances.
 
@@ -94,7 +94,7 @@ Features and effects that affect a trait roll also affect any action roll that u
 
 > ***Example:*** *The katari’s ancestry feature “Feline Instincts,” which allows the katari to reroll an Agility Roll, can also be used on a standard action roll using Agility to traverse dangerous terrain or on an attack roll made with a weapon that uses Agility.*
 
-#### SPELLCAST ROLLS
+### SPELLCAST ROLLS
 
 **Spellcast Rolls** are trait rolls that require you to use your Spellcast trait. Your Spellcast trait, if you have one, is determined by your subclass.
 
@@ -108,7 +108,7 @@ Spellcast Rolls are only made when a character uses a feature that requires one.
 >
 > *You can cast and maintain the effects of more than one spell at the same time.*
 
-#### REACTION ROLLS
+### REACTION ROLLS
 
 A **reaction roll** is made in response to an attack or a hazard, representing a character’s attempt to avoid or withstand an imminent effect.
 
@@ -116,13 +116,13 @@ Reaction rolls work like action rolls, except they don’t generate Hope or Fear
 
 If you critically succeed on a reaction roll, you don’t clear a Stress or gain a Hope, but you do ignore any effects that would have impacted you on a success, such as taking damage or marking Stress.
 
-#### GROUP ACTION ROLLS
+### GROUP ACTION ROLLS
 
 When multiple PCs take action together, the party chooses one PC to lead the action. Each other player then describes how their character collaborates on the task. The leader makes an action roll as usual, while the other players make reaction rolls using whichever traits they and the GM decide fit best.
 
 The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a –1 penalty for each these reaction rolls that failed.
 
-#### TAG TEAM ROLLS
+### TAG TEAM ROLLS
 
 Each player can, once per session, initiate a Tag Team Roll between their character and another PC by spending 3 Hope. The players work with one another to describe how they combine their actions in a unique and exciting way. Both players make separate action rolls; before resolving the roll’s outcome, choose one of the rolls to apply to both actions. On a roll with Hope, all PCs involved gain a Hope. On a roll with Fear, the GM gains a Fear token for each PC involved.
 

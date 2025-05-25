@@ -4,6 +4,6 @@ Being part of a wildborne community means you lived deep within the forest. Wild
 
 *Wildborne are often hardy, loyal, nurturing, reclusive, sagacious, and vibrant.*
 
-#### COMMUNITY FEATURE
+## COMMUNITY FEATURE
 
 ***Lightfoot:*** Your movement is naturally silent. You have advantage on rolls to move without being heard.

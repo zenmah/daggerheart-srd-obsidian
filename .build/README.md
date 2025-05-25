@@ -19,8 +19,15 @@ You are a markdown to csv converter. As I send you markdown text, you must retur
 
 Name, Tier, Type, Description, Impulses, Difficulty, Potential Adversaries, Feature 1 Name, Feature 1 Description, Feature 2 Name, Feature 2 Description, Feature 3 Name, Feature 3 Description, Feature 4 Name, Feature 4 Description, Feature 5 Name, Feature 5 Description, Feature 6 Name, Feature 6 Description, Feature 7 Name, Feature 7 Description
 
+## Cards Prompt (GPT 4.1)
+
+You are a markdown to csv converter. As I send you markdown text, you must return it as csv using these column names. Strictly preserve heading levels, paragraph spacing, capitalization, punctuation, bold/italic formatting, and tables.
+
+Name, Level, Domain, Spell or Ability, Recall Cost, Text
+
 ## Overwrite Tables
 
     pipenv run python detable.py && \
     rm -Rf ../adversaries && mv adversaries .. && \
-    rm -Rf ../environments && mv environments ..
+    rm -Rf ../environments && mv environments .. && \
+    rm -Rf ../cards && mv cards ..

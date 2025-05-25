@@ -1,20 +1,18 @@
-# ADVERSARIES AND ENVIRONMENTS
+# USING ADVERSARIES
 
-## USING ADVERSARIES
-
-### ADVERSARY STAT BLOCKS
+## ADVERSARY STAT BLOCKS
 
 All the information required to run an adversary is contained in their stat block. An adversary’s stat block includes their:
 
-#### NAME
+### NAME
 
 Each stat block has a unique name. Abilities that affect adversaries with a certain name include all adversaries who use that stat block, regardless of their in-story name.
 
-#### TIER
+### TIER
 
 Each adversary is designed to oppose PCs of a certain tier. If you confront the party with an adversary from another tier, adjust their stats.
 
-#### TYPE
+### TYPE
 
 The adversary’s type appears alongside their tier. An adversary’s type represents the role they play in a conflict. The adversary types are:
 
@@ -29,31 +27,31 @@ The adversary’s type appears alongside their tier. An adversary’s type repre
 - **Standards:** representative of their fictional group.
 - **Supports:** enhance their allies and disrupt their opponents.
 
-#### DESCRIPTION
+### DESCRIPTION
 
-#### MOTIVES & TACTICS
+### MOTIVES & TACTICS
 
-#### DIFFICULTY
+### DIFFICULTY
 
 The Difficulty of any roll made against the adversary, unless otherwise noted.
 
-#### DAMAGE THRESHOLDS, HIT POINTS, AND STRESS
+### DAMAGE THRESHOLDS, HIT POINTS, AND STRESS
 
 These systems function the same way they do for PCs. The numbers listed after “Threshold” are the adversary’s Major and Severe Thresholds.
 
-#### ATTACK MODIFIER
+### ATTACK MODIFIER
 
 When you attack with the adversary, apply this bonus or penalty to your attack roll.
 
-#### STANDARD ATTACK
+### STANDARD ATTACK
 
 A description of the adversary’s primary mode of inflicting harm on the PCs. It includes the attack’s name, its effective range, and the damage it deals on a success. Using an adversary’s standard attack is a GM move.
 
-#### EXPERIENCE (OPTIONAL)
+### EXPERIENCE (OPTIONAL)
 
 The GM can spend a Fear to add an adversary’s relevant Experience to raise their attack roll or increase the Difficulty of a roll made against them.
 
-### EXAMPLE EXPERIENCES
+#### EXAMPLE EXPERIENCES
 
 - Acrobatics
 - Ambusher
@@ -74,7 +72,7 @@ The GM can spend a Fear to add an adversary’s relevant Experience to raise the
 - Stealth
 - Tracker
 
-#### FEATURE(S)
+### FEATURE(S)
 
 There are three kinds of adversary features: actions, reactions, and passives. Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
 
@@ -82,13 +80,13 @@ There are three kinds of adversary features: actions, reactions, and passives. N
 - **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
 - **Passives:** special abilities that remain in effect by default and require no resources or triggers to activate.
 
-#### FEAR FEATURE(S)
+### FEAR FEATURE(S)
 
 High-impact effects that cost a Fear to activate.
 
-### EXAMPLE ADVERSARY FEATURES
+## EXAMPLE ADVERSARY FEATURES
 
-#### ACTIONS
+### ACTIONS
 
 ***Haymaker - Action:*** Make an attack against a target within Very Close range. On a success, deal X direct physical damage.
 
@@ -96,7 +94,7 @@ High-impact effects that cost a Fear to activate.
 
 ***More Where That Came From - Action:*** Summon three Jagged Knife Lackeys, who appear at Far range.
 
-#### REACTIONS
+### REACTIONS
 
 ***Heavy Hitter - Reaction:*** When this adversary deals damage with a standard attack, you can spend a Fear to gain a +X bonus to the damage roll.
 
@@ -104,7 +102,7 @@ High-impact effects that cost a Fear to activate.
 
 ***Momentum - Reaction:*** When this adversary makes a successful attack against a PC, you gain a Fear.
 
-#### PASSIVES
+### PASSIVES
 
 ***Horde (X) - Passive:*** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
 
@@ -118,7 +116,7 @@ High-impact effects that cost a Fear to activate.
 
 ***Armored Carapace - Passive:*** When this adversary takes physical damage, reduce it by X.
 
-#### FEAR FEATURES
+### FEAR FEATURES
 
 ***Explosion - Action:*** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take 1d8 magic damage and are knocked back to Far range.
 
@@ -142,11 +140,11 @@ Then spend your Battle Points to add an adversary to the encounter:
 - Spend 4 points for each Bruiser adversary.
 - Spend 5 points for each Solo adversary.
 
-### DEFEATED ADVERSARIES
+## DEFEATED ADVERSARIES
 
 When an adversary marks their last Hit Point, they are defeated: incapacitated, tied up, routed, killed, or anything else the table decides makes sense.
 
-### ADVERSARY STAT BLOCK BENCHMARKS
+## ADVERSARY STAT BLOCK BENCHMARKS
 
 | ADVERSARY STATISTIC | TIER 1 | TIER 2 | TIER 3 | TIER 4 |
 |---------------------|--------|--------|--------|--------|
@@ -155,11 +153,11 @@ When an adversary marks their last Hit Point, they are defeated: incapacitated, 
 | Difficulty | 11 | 14 | 17 | 20 |
 | Damage Thresholds | Major 7/Severe 12 | Major 10/Severe 20 | Major 20/Severe 32 | Major 25/Severe 45 |
 
-### ADVERSARIES BY TIER
+## ADVERSARIES BY TIER
 
 This section contains the following stat blocks:
 
-#### TIER 1 (LEVEL 1)
+### TIER 1 (LEVEL 1)
 
 - [Acid Burrower](../adversaries/Acid%20Burrower.md)
 - [Bear](../adversaries/Bear.md)
@@ -213,7 +211,7 @@ This section contains the following stat blocks:
 - [Shambling Zombie](../adversaries/Shambling%20Zombie.md)
 - [Zombie Pack](../adversaries/Zombie%20Pack.md)
 
-#### TIER 2 (LEVELS 2–4)
+### TIER 2 (LEVELS 2–4)
 
 - [Archer Squadron](../adversaries/Archer%20Squadron.md)
 - [Apprentice Assassin](../adversaries/Apprentice%20Assassin.md)
@@ -252,7 +250,7 @@ This section contains the following stat blocks:
 - [Stonewraith](../adversaries/Stonewraith.md)
 - [War Wizard](../adversaries/War%20Wizard.md)
 
-#### TIER 3 (LEVELS 5–7)
+### TIER 3 (LEVELS 5–7)
 
 - [Adult Flickerfly](../adversaries/Adult%20Flickerfly.md)
 - [Demon of Avarice](../adversaries/Demon%20of%20Avarice.md)
@@ -278,7 +276,7 @@ This section contains the following stat blocks:
 - [Vault Guardian Turret](../adversaries/Vault%20Guardian%20Turret.md)
 - [Young Ice Dragon](../adversaries/Young%20Ice%20Dragon.md)
 
-#### TIER 4 (LEVELS 8–10)
+### TIER 4 (LEVELS 8–10)
 
 - [Arch-Necromancer](../adversaries/Arch-Necromancer.md)
 - [Fallen Shock Troop](../adversaries/Fallen%20Shock%20Troop.md)
@@ -298,94 +296,3 @@ This section contains the following stat blocks:
 - [Volcanic Dragon: Ashen Tyrant](../adversaries/Volcanic%20Dragon%20Ashen%20Tyrant.md)
 - [Perfected Zombie](../adversaries/Perfected%20Zombie.md)
 - [Zombie Legion](../adversaries/Zombie%20Legion.md)
-
-## USING ENVIRONMENTS
-
-*Environments represent everything in a scene beyond the PCs and adversaries, such as the physical space, background NPCs, and natural forces.*
-
-### ENVIRONMENT STAT BLOCK
-
-Each environment’s **stat block** presents their necessary mechanical statistics:
-
-#### NAME
-
-#### TIER
-
-Their PC tier the environment is designed to challenge.
-
-#### TYPE
-
-The type of scene it most easily supports:
-
-- **Explorations** — wondrous locations with mysteries and marvels to discover
-- **Socials** — locations that primarily present interpersonal challenges
-- **Traversals** — dangerous locations where movement through and around the space itself is a challenge
-- **Events** — special activities or occurrences (rather than physical spaces)
-
-#### DESCRIPTION
-
-An evocative one-line summary of the environment.
-
-#### IMPULSES
-
-The manner or mode with which the environment pushes and pulls the people within them.
-
-#### DIFFICULTY
-
-The standard Difficulty for action rolls made to overcome, oppose, or resist the environment or its elements.
-
-#### POTENTIAL ADVERSARIES
-
-#### FEATURES
-
-#### FEATURE QUESTIONS
-
-Prompts for plot hooks, narrative engines, and connections to other story elements.
-
-### ADAPTING ENVIRONMENTS
-
-Sometimes you want to use an environment but it’s at the wrong tier for your party. Or you might want to replace a feature or two, then present it as an entirely different environment. Whether planning your session or even improvising an environment mid-session, you can adjust an existing environment’s stat block to fit the needs of your scene or improvise elements as needed. The environments framework is there to help organize ideas, not to stifle creativity.
-
-When you need to quickly adjust a stat block to a different tier, you can simply replace its existing statistics with those listed on the Environment Statistics by Tier table, using the column that corresponds to your party’s tier.
-
-### BENCHMARK STATISTICS FOR ENVIRONMENTS BY TIER
-
-| Environment Statistic | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
-|-----------------------|-----------------|-----------------|-----------------|-----------------|
-| Damage Dice | 1d6+1 to 1d8+3 | 2d6+3 to 2d10+2 | 3d8+3 to 3d10+1 | 4d8+3 to 4d10+10|
-| Difficulty | 11 | 14 | 17 | 20 |
-
-### ENVIRONMENT STAT BLOCKS BY TIER
-
-This section contains the following stat blocks.
-
-#### TIER 1 (LEVEL 1)
-
-- [Abandoned Grove (Exploration)](../environments/Abandoned%20Grove.md)
-- [Ambushed (Event)](../environments/Ambushed.md)
-- [Ambushers (Event)](../environments/Ambushers.md)
-- [Bustling Marketplace (Social)](../environments/Bustling%20Marketplace.md)
-- [Cliffside Ascent (Traversal)](../environments/Cliffside%20Ascent.md)
-- [Local Tavern (Social)](../environments/Local%20Tavern.md)
-- [Outpost Town (Social)](../environments/Outpost%20Town.md)
-- [Raging River (Traversal)](../environments/Raging%20River.md)
-
-#### TIER 2 (LEVELS 2–4)
-
-- [Cult Ritual (Event)](../environments/Cult%20Ritual.md)
-- [Hallowed Temple (Social)](../environments/Hallowed%20Temple.md)
-- [Haunted City (Exploration)](../environments/Haunted%20City.md)
-- [Mountain Pass (Traversal)](../environments/Mountain%20Pass.md)
-
-#### TIER 3 (LEVELS 5–7)
-
-- [Burning Heart of the Woods (Exploration)](../environments/Burning%20Heart%20of%20the%20Woods.md)
-- [Castle Siege (Event)](../environments/Castle%20Siege.md)
-- [Pitched Battle (Event)](../environments/Pitched%20Battle.md)
-
-#### TIER 4 (LEVELS 8–10)
-
-- [Chaos Realm (Traversal)](../environments/Chaos%20Realm.md)
-- [Divine Usurpation (Event)](../environments/Divine%20Usurpation.md)
-- [Imperial Court (Social)](../environments/Imperial%20Court.md)
-- [Necromancer’s Ossuary (Exploration)](../environments/Necromancers%20Ossuary.md)
