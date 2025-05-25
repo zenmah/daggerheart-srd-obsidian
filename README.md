@@ -67,7 +67,8 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 - [GM Guidance](contents/GM%20Guidance.md)
 - [Core GM Mechanics](mechanics/Core%20GM%20Mechanics.md)
 - [Adversaries and Environments](mechanics/Adversaries%20and%20Environments.md)
-- [The Witherwild Campaign Frame](frames/Witherwild.md)
+- [Additional GM Guidance](contents/Additional%20GM%20Guidance.md)
+- [Campaign Frames](contents/Campaign%20Frames.md)
 
 ## APPENDIX
 
