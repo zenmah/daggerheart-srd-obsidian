@@ -43,6 +43,8 @@ jobs = [
     ("adversaries.csv", "adversaries.md", "adversaries"),
     ("environments.csv", "environments.md", "environments"),
     ("cards.csv", "cards.md", "cards"),
+    ("consumables.csv", "consumables.md", "consumables"),
+    ("loot.csv", "loot.md", "loot"),
 ]
 
 for csv_file, template_file, output_dir in jobs:

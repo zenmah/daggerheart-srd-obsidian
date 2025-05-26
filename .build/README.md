@@ -30,6 +30,8 @@ Name, Level, Domain, Spell or Ability, Recall Cost, Text
     pipenv run python detable.py && \
     rm -Rf ../adversaries && mv adversaries .. && \
     rm -Rf ../environments && mv environments .. && \
-    rm -Rf ../cards && mv cards ..
+    rm -Rf ../cards && mv cards .. && \
+    rm -Rf ../consumables && mv consumables .. && \
+    rm -Rf ../loot && mv loot ..
 
 ## And So Much Cleanup...
