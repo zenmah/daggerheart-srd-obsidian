@@ -145,7 +145,7 @@
 
 ## SAGE DOMAIN
 
-- [Natures Tongue](../cards/Natures%20Tongue.md)
+- [Nature's Tongue](../cards/Natures%20Tongue.md)
 - [Vicious Entangle](../cards/Vicious%20Entangle.md)
 - [Conjure Swarm](../cards/Conjure%20Swarm.md)
 - [Natural Familiar](../cards/Natural%20Familiar.md)
