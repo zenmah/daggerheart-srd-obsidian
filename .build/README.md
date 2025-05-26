@@ -25,12 +25,18 @@ You are a markdown to csv converter. As I send you markdown text, you must retur
 
 Name, Level, Domain, Spell or Ability, Recall Cost, Text
 
+## Classes CSV Prompt (GPT 4.1)
+
+You are a markdown to csv converter. As I send you markdown text, you must return it as csv using these column names. Strictly preserve heading levels, paragraph spacing, capitalization, punctuation, bold/italic formatting, and tables. Ignore subclass information. Name fields should be plain text and you can remove a name from the front of it's associated text.
+
+Name,Description,Domain 1,Domain 2,Evasion,HP,Items,Hope Feat Name,Hope Feat Text,Class Feat 1 Name,Class Feat 1 Text,Class Feat 2 Name,Class Feat 2 Text,Class Feat 3 Name,Class Feat 3 Text,Background Question 1,Background Question 2,Background Question 3,Connection 1,Connection 2,Connection 3
+
 ## Overwrite Tables
 
     pipenv run python detable.py && \
     rm -Rf ../adversaries && mv adversaries .. && \
     rm -Rf ../environments && mv environments .. && \
-    rm -Rf ../cards && mv cards .. && \
+    rm -Rf ../abilities && mv abilities .. && \
     rm -Rf ../consumables && mv consumables .. && \
     rm -Rf ../items && mv items .. && \
     rm -Rf ../armor && mv armor .. && \

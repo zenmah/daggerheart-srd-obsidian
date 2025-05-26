@@ -1,6 +1,6 @@
 # {{ Name }}
 
-***{{ Tier }}***  
+***Tier {{ Tier }} {{ Type }}***  
 *{{ Description }}*  
 **Impulses:** {{ Impulses }}
 

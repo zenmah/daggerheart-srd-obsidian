@@ -17,9 +17,9 @@ def safe_filename(name):
 
 def process_csv_to_md(csv_file, template_file, output_dir, feature_count=7):
     os.makedirs(output_dir, exist_ok=True)
-    with open(template_file) as f:
+    with open(template_file, encoding="utf-8-sig") as f:
         template = Template(f.read())
-    with open(csv_file, newline="", encoding="utf-8") as csvfile:
+    with open(csv_file, newline="", encoding="utf-8-sig") as csvfile:
         reader = csv.DictReader(csvfile)
         for orig_row in reader:
             row = {normalize_key(k): v for k, v in orig_row.items() if k}
@@ -40,13 +40,13 @@ def process_csv_to_md(csv_file, template_file, output_dir, feature_count=7):
 
 # List your jobs: (csv, template, output_dir)
 jobs = [
-    ("adversaries.csv", "adversaries.md", "adversaries"),
-    ("environments.csv", "environments.md", "environments"),
-    ("cards.csv", "cards.md", "cards"),
-    ("consumables.csv", "consumables.md", "consumables"),
-    ("items.csv", "items.md", "items"),
-    ("armor.csv", "armor.md", "armor"),
-    ("weapons.csv", "weapons.md", "weapons"),
+    ("csv/adversaries.csv", "md/adversaries.md", "adversaries"),
+    ("csv/environments.csv", "md/environments.md", "environments"),
+    ("csv/abilities.csv", "md/abilities.md", "abilities"),
+    ("csv/consumables.csv", "md/consumables.md", "consumables"),
+    ("csv/items.csv", "md/items.md", "items"),
+    ("csv/armor.csv", "md/armor.md", "armor"),
+    ("csv/weapons.csv", "md/weapons.md", "weapons"),
 ]
 
 for csv_file, template_file, output_dir in jobs:
