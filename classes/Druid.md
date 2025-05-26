@@ -3,10 +3,10 @@
 Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.
 
 ---
-- **DOMAINS** [Sage](../domains/Sage.md) & [Arcana](../domains/Arcana.md)
-- **STARTING EVASION** 10
-- **STARTING HIT POINTS** 6
-- **CLASS ITEMS** A small bag of rocks and bones or a strange pendant found in the dirt
+- **DOMAINS:** [Sage](../domains/Sage.md) & [Arcana](../domains/Arcana.md)
+- **STARTING EVASION:** 10
+- **STARTING HIT POINTS:** 6
+- **CLASS ITEMS:** A small bag of rocks and bones or a strange pendant found in the dirt
 ---
 
 ## DRUID’S HOPE FEATURE
