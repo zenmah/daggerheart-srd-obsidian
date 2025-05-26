@@ -30,7 +30,7 @@ Do NOT preserve formatting used for visual alignment or spacing.
 ⚠️ If this page is a Table of Contents:
 - Remove all decorative dot leaders (e.g. “. . . . .”) and page numbers (e.g. “...12”).
 - Extract only the clean section titles as bullet points or headings.
-"""
+""",
 }
 
 PROMPT_TEMPLATE = """
@@ -43,21 +43,24 @@ Extract all text — even if the page contains only a title, subtitle, author cr
 
 # --- Utilities ---
 
+
 def extract_heading_hierarchy(md):
     """
     Extract headings from markdown, return as a list of dicts.
     """
     headings = []
     for line in md.splitlines():
-        if match := re.match(r'^(#{1,6}) (.+?)$', line.strip()):
+        if match := re.match(r"^(#{1,6}) (.+?)$", line.strip()):
             level = len(match.group(1))
             title = match.group(2).strip()
             headings.append({"level": level, "title": title})
     return headings
 
+
 def extract_plain_hierarchy(headings):
     """Return list of plain markdown headings, in document order, no styles."""
     return [f"{'#' * h['level']} {h['title']}" for h in headings]
+
 
 def extract_current_lineage(headings):
     """Return the current stack of headings, as plain markdown, no styles."""
@@ -69,6 +72,7 @@ def extract_current_lineage(headings):
         stack = {k: v for k, v in stack.items() if k <= level}
     return [stack[k] for k in sorted(stack.keys())]
 
+
 def write_heading_summary_file(headings, md_path):
     """
     Write all headings seen so far to a flat markdown file for hierarchy.md.
@@ -76,6 +80,7 @@ def write_heading_summary_file(headings, md_path):
     with open(md_path, "w", encoding="utf-8") as f:
         for h in headings:
             f.write(f"{'#' * h['level']} {h['title']}\n")
+
 
 def pdf_page_to_image(pdf_path, page_num, zoom=2.0, image_dir=None):
     doc = fitz.open(pdf_path)
@@ -91,54 +96,73 @@ def pdf_page_to_image(pdf_path, page_num, zoom=2.0, image_dir=None):
     doc.close()
     return image_data
 
+
 def encode_image(image_bytes):
-    return base64.b64encode(image_bytes).decode('utf-8')
+    return base64.b64encode(image_bytes).decode("utf-8")
+
 
 def lint_markdown(md: str) -> str:
     md = md.replace("\\\n", "\n")
     return mdformat.text(md)
 
-def image_to_markdown(encoded_image, page_number, previous_markdown=None, heading_context=None):
+
+def image_to_markdown(
+    encoded_image, page_number, previous_markdown=None, heading_context=None
+):
     messages = [SYSTEM_PROMPT]
 
     if previous_markdown:
-        messages.append({
-            "role": "user",
-            "content": (
-                "Here is the markdown from the previous page:\n\n"
-                f"{previous_markdown.strip()}"
-            )
-        })
+        messages.append(
+            {
+                "role": "user",
+                "content": (
+                    "Here is the markdown from the previous page:\n\n"
+                    f"{previous_markdown.strip()}"
+                ),
+            }
+        )
 
     if heading_context:
         hierarchy_plain = extract_plain_hierarchy(heading_context)
         lineage_plain = extract_current_lineage(heading_context)
 
         if hierarchy_plain:
-            messages.append({
-                "role": "user",
-                "content": (
-                    "Hierarchy of markdown headings so far:\n\n"
-                    + "\n".join(hierarchy_plain)
-                )
-            })
+            messages.append(
+                {
+                    "role": "user",
+                    "content": (
+                        "Hierarchy of markdown headings so far:\n\n"
+                        + "\n".join(hierarchy_plain)
+                    ),
+                }
+            )
         if lineage_plain:
-            messages.append({
-                "role": "user",
-                "content": (
-                    "Current markdown heading lineage:\n\n"
-                    + "\n".join(lineage_plain)
-                )
-            })        
+            messages.append(
+                {
+                    "role": "user",
+                    "content": (
+                        "Current markdown heading lineage:\n\n"
+                        + "\n".join(lineage_plain)
+                    ),
+                }
+            )
         print(json.dumps(messages, indent=2))
 
-    messages.append({
-        "role": "user",
-        "content": [
-            {"type": "text", "text": PROMPT_TEMPLATE.format(page_number=page_number)},
-            {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{encoded_image}"}},
-        ],
-    })
+    messages.append(
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": PROMPT_TEMPLATE.format(page_number=page_number),
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {"url": f"data:image/png;base64,{encoded_image}"},
+                },
+            ],
+        }
+    )
 
     response = client.chat.completions.create(
         model="gpt-4o",
@@ -161,6 +185,7 @@ def image_to_markdown(encoded_image, page_number, previous_markdown=None, headin
         os.exit(1)
 
     return content
+
 
 def pdf_to_markdown_images(pdf_path, markdown_dir, image_dir):
     os.makedirs(markdown_dir, exist_ok=True)
@@ -198,7 +223,7 @@ def pdf_to_markdown_images(pdf_path, markdown_dir, image_dir):
                 encoded_img,
                 page_index,
                 previous_markdown=previous_md,
-                heading_context=cumulative_headings
+                heading_context=cumulative_headings,
             )
 
             cleaned_markdown = lint_markdown(markdown)
@@ -214,6 +239,7 @@ def pdf_to_markdown_images(pdf_path, markdown_dir, image_dir):
 
     print(f"📚 Final heading hierarchy saved: {hierarchy_md_path}")
     doc.close()
+
 
 if __name__ == "__main__":
     pdf_path = "DH-SRD-May202025.pdf"

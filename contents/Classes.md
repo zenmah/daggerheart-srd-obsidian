@@ -2,15 +2,15 @@
 
 Each class grants access to two domains:
 
-- **[Bard](../Classes/Bard.md):** [Codex](../Domains/Codex.md) & [Grace](../Domains/Grace.md)
-- **[Druid](../Classes/Druid.md):** [Arcana](Domains/Arcana.md) & [Sage](../Domains/Sage.md)
-- **[Guardian](../Classes/Guardian.md):** [Blade](../Domains/Blade.md) & [Valor](../Domains/Valor.md)
-- **[Ranger](../Classes/Ranger.md):** [Bone](../Domains/Bone.md) & [Sage](../Domains/Sage.md)
-- **[Rogue](../Classes/Rogue.md):** [Grace](../Domains/Grace.md) & [Midnight](../Domains/Midnight.md)
-- **[Seraph](../Classes/Seraph.md):** [Splendor](../Domains/Splendor.md) & [Valor](../Domains/Valor.md)
-- **[Sorcerer](../Classes/Sorcerer.md):** [Arcana](../Domains/Arcana.md) & [Midnight](../Domains/Midnight.md)
-- **[Warrior](../Classes/Warrior.md):** [Blade](../Domains/Blade.md) & [Bone](../Domains/Bone.md)
-- **[Wizard](../Classes/Wizard.md):** [Codex](../Domains/Codex.md) & [Splendor](../Domains/Splendor.md)
+- **[Bard](../classes/Bard.md):** [Codex](../domains/Codex.md) & [Grace](../domains/Grace.md)
+- **[Druid](../classes/Druid.md):** [Arcana](../domains/Arcana.md) & [Sage](../domains/Sage.md)
+- **[Guardian](../classes/Guardian.md):** [Blade](../domains/Blade.md) & [Valor](../domains/Valor.md)
+- **[Ranger](../classes/Ranger.md):** [Bone](../domains/Bone.md) & [Sage](../domains/Sage.md)
+- **[Rogue](../classes/Rogue.md):** [Grace](../domains/Grace.md) & [Midnight](../domains/Midnight.md)
+- **[Seraph](../classes/Seraph.md):** [Splendor](../domains/Splendor.md) & [Valor](../domains/Valor.md)
+- **[Sorcerer](../classes/Sorcerer.md):** [Arcana](../domains/Arcana.md) & [Midnight](../domains/Midnight.md)
+- **[Warrior](../classes/Warrior.md):** [Blade](../domains/Blade.md) & [Bone](../domains/Bone.md)
+- **[Wizard](../classes/Wizard.md):** [Codex](../domains/Codex.md) & [Splendor](../domains/Splendor.md)
 
 PCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.
 

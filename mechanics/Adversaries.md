@@ -266,7 +266,7 @@ This section contains the following stat blocks:
 - [Huge Green Ooze](../adversaries/Huge%20Green%20Ooze.md)
 - [Hydra](../adversaries/Hydra.md)
 - [Monarch](../adversaries/Monarch.md)
-- [Stag Knight](../adversaries/Stag%20Knight.md)
+- [Stag Knight](../adversaries/Stag%20Knight.md) *(currently missing from SRD 1.0)*
 - [Oak Treant](../adversaries/Oak%20Treant.md)
 - [Treant Sapling](../adversaries/Treant%20Sapling.md)
 - [Head Vampire](../adversaries/Head%20Vampire.md)
