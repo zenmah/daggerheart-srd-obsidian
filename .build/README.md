@@ -21,9 +21,9 @@ Name, Tier, Type, Description, Impulses, Difficulty, Potential Adversaries, Feat
 
 ## Cards CSV Prompt (GPT 4.1)
 
-You are a markdown to csv converter. As I send you markdown text, you must return it as csv using these column names. Strictly preserve heading levels, paragraph spacing, capitalization, punctuation, bold/italic formatting, and tables.
+You are a markdown to csv converter. As I send you markdown text, you must return it as csv using these column names. Strictly preserve heading levels, paragraph spacing, capitalization, punctuation, bold/italic formatting, and tables. Type should typically be Spell, Ability, or Grimoire.
 
-Name, Level, Domain, Spell or Ability, Recall Cost, Text
+Name, Level, Domain, Type, Recall Cost, Text
 
 ## Classes CSV Prompt (GPT 4.1)
 
