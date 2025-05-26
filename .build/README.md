@@ -32,6 +32,20 @@ Name, Level, Domain, Spell or Ability, Recall Cost, Text
     rm -Rf ../environments && mv environments .. && \
     rm -Rf ../cards && mv cards .. && \
     rm -Rf ../consumables && mv consumables .. && \
-    rm -Rf ../loot && mv loot ..
+    rm -Rf ../items && mv items .. && \
+    rm -Rf ../armor && mv armor .. && \
+    rm -Rf ../weapons && mv weapons ..
 
 ## And So Much Cleanup...
+
+## Regexes to Remember
+
+### Find/Replace Table Links
+
+        \|\n\| \*\*([^\*]*)?\*\*
+        |\n| [$1](../weapons/$1.md)
+
+### Replace Spaces in Markdown Links
+
+        \]\((.*) (.*)\)
+        ]($1%20$2)

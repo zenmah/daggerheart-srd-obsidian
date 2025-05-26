@@ -1,3 +1,5 @@
 # {{ Name|upper }}
 
 {{ Description }}
+
+*Consumable*

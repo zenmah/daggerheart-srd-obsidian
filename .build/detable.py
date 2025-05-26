@@ -44,7 +44,9 @@ jobs = [
     ("environments.csv", "environments.md", "environments"),
     ("cards.csv", "cards.md", "cards"),
     ("consumables.csv", "consumables.md", "consumables"),
-    ("loot.csv", "loot.md", "loot"),
+    ("items.csv", "items.md", "items"),
+    ("armor.csv", "armor.md", "armor"),
+    ("weapons.csv", "weapons.md", "weapons"),
 ]
 
 for csv_file, template_file, output_dir in jobs:
