@@ -1,7 +1,7 @@
 # FORAGER
 
-**Level 6 Sage Ability**  
-**Recall Cost:** 1
+> **Level 6 Sage Ability**  
+> **Recall Cost:** 1
 
 As an additional downtime move you can choose, roll a d6 to see what you forage. Work with the GM to describe it and add it to your inventory as a consumable. Your party can carry up to five foraged consumables at a time.
 

@@ -1,7 +1,7 @@
 # BOOK OF KORVAX
 
-**Level 3 Codex Grimoire**  
-**Recall Cost:** 2
+> **Level 3 Codex Grimoire**  
+> **Recall Cost:** 2
 
 **Levitation:** Make a Spellcast Roll to temporarily lift a target you can see up into the air and move them within Close range of their original position.
 

@@ -1,7 +1,7 @@
 # SAGE-TOUCHED
 
-**Level 7 Sage Ability**  
-**Recall Cost:** 2
+> **Level 7 Sage Ability**  
+> **Recall Cost:** 2
 
 When 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:
 

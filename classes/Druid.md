@@ -58,9 +58,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Fox, Mouse, Weasel, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d4 phy
-
-**Gain advantage on:** deceive, locate, sneak
+> Agility +1 | Evasion +2 | Melee Agility d4 phy  
+> **Gain advantage on:** deceive, locate, sneak
 
 ***Agile:*** Your movement is silent, and you can spend a Hope to move up to Far range without rolling.
 
@@ -70,9 +69,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Cat, Dog, Rabbit, etc.)
 
-> Instinct +1 | Evasion +2 | Melee Instinct d6 phy
-
-**Gain advantage on:** climb, locate, protect
+> Instinct +1 | Evasion +2 | Melee Instinct d6 phy  
+> **Gain advantage on:** climb, locate, protect
 
 ***Companion:*** When you Help an Ally, you can roll a d8 as your advantage die.
 
@@ -82,9 +80,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Deer, Gazelle, Goat, etc.)
 
-> Agility +1 | Evasion +3 | Melee Agility d6 phy
-
-**Gain advantage on:** leap, sneak, sprint
+> Agility +1 | Evasion +3 | Melee Agility d6 phy  
+> **Gain advantage on:** leap, sneak, sprint
 
 ***Elusive Prey:*** When an attack roll against you would succeed, you can mark a Stress and roll a d4. Add the result to your Evasion against this attack.
 
@@ -94,9 +91,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Coyote, Hyena, Wolf, etc.)
 
-> Strength +2 | Evasion +1 | Melee Strength d8+2 phy
-
-**Gain advantage on:** attack, sprint, track
+> Strength +2 | Evasion +1 | Melee Strength d8+2 phy  
+> **Gain advantage on:** attack, sprint, track
 
 ***Hobbling Strike:*** When you succeed on an attack against a target within Melee range, you can mark a Stress to make the target temporarily Vulnerable.
 
@@ -106,9 +102,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Eel, Fish, Octopus, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d4 phy
-
-**Gain advantage on:** navigate, sneak, swim
+> Agility +1 | Evasion +2 | Melee Agility d4 phy  
+> **Gain advantage on:** navigate, sneak, swim
 
 ***Aquatic:*** You can breathe and move naturally underwater.
 
@@ -118,9 +113,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Tarantula, Wolf Spider, etc.)
 
-> Finesse +1 | Evasion +2 | Melee Finesse d6+1 phy
-
-**Gain advantage on:** attack, climb, sneak
+> Finesse +1 | Evasion +2 | Melee Finesse d6+1 phy  
+> **Gain advantage on:** attack, climb, sneak
 
 ***Venomous Bite:*** When you succeed on an attack against a target within Melee range, the target becomes temporarily Poisoned. A Poisoned creature takes 1d10 direct physical damage each time they act.
 
@@ -130,9 +124,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Camel, Horse, Zebra, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d8+1 phy
-
-**Gain advantage on:** leap, navigate, sprint
+> Agility +1 | Evasion +2 | Melee Agility d8+1 phy  
+> **Gain advantage on:** leap, navigate, sprint
 
 ***Carrier:*** You can carry up to two willing allies with you when you move.
 
@@ -144,9 +137,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Armadillo, Pangolin, Turtle, etc.)
 
-> Strength +1 | Evasion +1 | Melee Strength d8+2 phy
-
-**Gain advantage on:** dig, locate, protect
+> Strength +1 | Evasion +1 | Melee Strength d8+2 phy  
+> **Gain advantage on:** dig, locate, protect
 
 ***Armored Shell:*** Your hardened exterior gives you resistance to physical damage. Additionally, mark an Armor slot to retract into your shell. While in your shell, physical damage is reduced by a number equal to your Armor Score (after applying resistance), but you can't perform other actions without leaving this form.
 
@@ -156,9 +148,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Bear, Bull, Moose, etc.)
 
-> Strength +1 | Evasion +3 | Melee Strength d10+4 phy
-
-**Gain advantage on:** navigate, protect, scare
+> Strength +1 | Evasion +3 | Melee Strength d10+4 phy  
+> **Gain advantage on:** navigate, protect, scare
 
 ***Rampage:*** When you roll a 1 on a damage die, you can roll a d10 and add the result to the damage roll. Additionally, before you make an attack roll, you can mark a Stress to gain a +1 bonus to your Proficiency for that attack.
 
@@ -168,9 +159,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Cobra, Rattlesnake, Viper, etc.)
 
-> Finesse +1 | Evasion +2 | Very Close Finesse d8+4 phy
-
-**Gain advantage on:** climb, deceive, sprint
+> Finesse +1 | Evasion +2 | Very Close Finesse d8+4 phy  
+> **Gain advantage on:** climb, deceive, sprint
 
 ***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily Poisoned. A Poisoned creature takes 1d10 physical direct damage each time they act.
 
@@ -180,9 +170,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Cheetah, Lion, Panther, etc.)
 
-> Instinct +1 | Evasion +3 | Melee Instinct d8+6 phy
-
-**Gain advantage on:** attack, climb, sneak
+> Instinct +1 | Evasion +3 | Melee Instinct d8+6 phy  
+> **Gain advantage on:** attack, climb, sneak
 
 ***Fleet:*** Spend a Hope to move up to Far range without rolling.
 
@@ -192,9 +181,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Hawk, Owl, Raven, etc.)
 
-> Finesse +1 | Evasion +3 | Melee Finesse d4+2 phy
-
-**Gain advantage on:** deceive, locate, scare
+> Finesse +1 | Evasion +3 | Melee Finesse d4+2 phy  
+> **Gain advantage on:** deceive, locate, scare
 
 ***Bird’s-Eye View:*** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
 
@@ -206,9 +194,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Dire Wolf, Velociraptor, Sabertooth Tiger, etc.)
 
-> Strength +2 | Evasion +2 | Melee Strength d12+8 phy
-
-**Gain advantage on:** attack, sneak, sprint
+> Strength +2 | Evasion +2 | Melee Strength d12+8 phy  
+> **Gain advantage on:** attack, sneak, sprint
 
 ***Carrier:*** You can carry up to two willing allies with you when you move.
 
@@ -218,9 +205,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Alligator, Crocodile, Gila Monster, etc.)
 
-> Instinct +2 | Evasion +1 | Melee Instinct d10+7 phy
-
-**Gain advantage on:** attack, sneak, track
+> Instinct +2 | Evasion +1 | Melee Instinct d10+7 phy  
+> **Gain advantage on:** attack, sneak, track
 
 ***Physical Defense:*** You gain a +3 bonus to your damage thresholds.
 
@@ -230,9 +216,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Giant Eagle, Falcon, etc.)
 
-> Finesse +2 | Evasion +3 | Melee Finesse d8+6 phy
-
-**Gain advantage on:** deceive, distract, locate
+> Finesse +2 | Evasion +3 | Melee Finesse d8+6 phy  
+> **Gain advantage on:** deceive, distract, locate
 
 ***Bird’s-Eye View:*** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
 
@@ -242,9 +227,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Dolphin, Orca, Shark, etc.)
 
-> Agility +2 | Evasion +4 | Melee Agility d10+6 phy
-
-**Gain advantage on:** attack, swim, track
+> Agility +2 | Evasion +4 | Melee Agility d10+6 phy  
+> **Gain advantage on:** attack, swim, track
 
 ***Aquatic:*** You can breathe and move naturally underwater.
 
@@ -274,9 +258,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Elephant, Mammoth, Rhinoceros, etc.)
 
-> Strength +3 | Evasion +1 | Melee Strength d12+12 phy
-
-**Gain advantage on:** locate, protect, scare, sprint
+> Strength +3 | Evasion +1 | Melee Strength d12+12 phy  
+> **Gain advantage on:** locate, protect, scare, sprint
 
 ***Carrier:*** You can carry up to four willing allies with you when you move.
 
@@ -288,9 +271,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Brachiosaurus, Tyrannosaurus, etc.)
 
-> Strength +3 | Evasion +2 | Melee Strength d12+10 phy
-
-**Gain advantage on:** attack, deceive, scare, track
+> Strength +3 | Evasion +2 | Melee Strength d12+10 phy  
+> **Gain advantage on:** attack, deceive, scare, track
 
 ***Devastating Strikes:*** When you deal Severe damage to a target within Melee range, you can mark a Stress to force them to mark an additional Hit Point.
 
@@ -300,9 +282,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Dragon, Pterodactyl, Roc, Wyvern, etc.)
 
-> Finesse +3 | Evasion +4 | Melee Finesse d10+11 phy
-
-**Gain advantage on:** attack, deceive, locate, navigate
+> Finesse +3 | Evasion +4 | Melee Finesse d10+11 phy  
+> **Gain advantage on:** attack, deceive, locate, navigate
 
 ***Carrier:*** You can carry up to three willing allies with you when you move.
 
@@ -312,9 +293,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Giant Squid, Whale, etc.)
 
-> Agility +3 | Evasion +3 | Melee Agility d10+10 phy
-
-**Gain advantage on:** locate, protect, scare, track
+> Agility +3 | Evasion +3 | Melee Agility d10+10 phy  
+> **Gain advantage on:** locate, protect, scare, track
 
 ***Ocean Master:*** You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily Restrain them.
 

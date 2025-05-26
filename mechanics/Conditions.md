@@ -1,8 +1,12 @@
 # CONDITIONS
 
-Conditions are effects that grant specific benefits or drawbacks to the target they are attached to.
+**Conditions** are effects that grant specific benefits or drawbacks to the target they are attached to.
 
 ## STANDARD CONDITIONS
+
+Some features can apply special or unique conditions, which work as described in the feature text.
+
+Unless otherwise noted, the same condition can’t be applied more than once to the same target.
 
 Daggerheart has three standard conditions:
 
@@ -17,10 +21,6 @@ Restrained characters can’t move, but you can still take actions from their cu
 ### VULNERABLE
 
 When a creature is Vulnerable, all rolls targeting them have advantage.
-
-Some features can apply special or unique conditions, which work as described in the feature text.
-
-Unless otherwise noted, the same condition can’t be applied more than once to the same target.
 
 ## TEMPORARY TAGS & SPECIAL CONDITIONS
 

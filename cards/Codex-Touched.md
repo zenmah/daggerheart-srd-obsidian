@@ -1,7 +1,7 @@
 # CODEX-TOUCHED
 
-**Level 7 Codex Ability**  
-**Recall Cost:** 2
+> **Level 7 Codex Ability**  
+> **Recall Cost:** 2
 
 When 4 or more of the domain cards in your loadout are from the Codex domain, gain the following benefits:
 

@@ -1,7 +1,7 @@
 # DEFT MANEUVERS
 
-**Level 1 Bone Ability**  
-**Recall Cost:** 0
+> **Level 1 Bone Ability**  
+> **Recall Cost:** 0
 
 Once per rest, mark a Stress to sprint anywhere within Far range without making an Agility Roll to get there.
 

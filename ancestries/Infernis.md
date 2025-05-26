@@ -6,6 +6,6 @@ Infernirs possess a “dread visage” that manifests both involuntarily, such a
 
 ## ANCESTRY FEATURES
 
-***Fearless:*** When you roll with Fear, you can mark 2 Stress to change it into a roll with Hope instead.
+***Fearless:*** When you roll with Fear, you can **mark 2 Stress** to change it into a roll with Hope instead.
 
 ***Dread Visage:*** You have advantage on rolls to intimidate hostile creatures.

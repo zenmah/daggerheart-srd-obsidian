@@ -43,23 +43,30 @@ Make a GM move when the players:
 
 The result of a player’s action roll determines your response:
 
-- On a **Critical Success**, you let the player describe their success, then give them an additional opportunity or advantage.
-- On a **Success with Hope**, you let the player describe their success, then you show how the world reacts to it.
-- On a **Success with Fear**, you work with the player to describe their success, then take a Fear and make a GM move to introduce a minor consequence, complication, or cost:
-  - An adversary attacks
-  - The PC marks a Stress
-  - You introduce a new threat
-  - You raise the stakes of the conflict
-- On a Failure with Hope, you describe how the PC fails to get what they want, then make a GM move to introduce a minor consequence, complication, or cost:
-  - An adversary attacks
-  - The PC marks a Stress
-  - You introduce a new threat
-  - You raise the stakes of the conflict
-- On a Failure with Fear, you describe how things go wrong, then make a GM move to introduce a major consequence, complication, or cost:
-  - You put them in immediate danger
-  - They become the focus of multiple adversaries
-  - They are separated from their party
-  - They lose an important opportunity for good.
+On a **Critical Success**, you let the player describe their success, then give them an additional opportunity or advantage.
+
+On a **Success with Hope**, you let the player describe their success, then you show how the world reacts to it.
+
+On a **Success with Fear**, you work with the player to describe their success, then take a Fear and make a GM move to introduce a minor consequence, complication, or cost:
+
+- An adversary attacks
+- The PC marks a Stress
+- You introduce a new threat
+- You raise the stakes of the conflict
+
+On a **Failure with Hope**, you describe how the PC fails to get what they want, then make a GM move to introduce a minor consequence, complication, or cost:
+
+- An adversary attacks
+- The PC marks a Stress
+- You introduce a new threat
+- You raise the stakes of the conflict
+
+On a **Failure with Fear**, you describe how things go wrong, then make a GM move to introduce a major consequence, complication, or cost:
+
+- You put them in immediate danger
+- They become the focus of multiple adversaries
+- They are separated from their party
+- They lose an important opportunity for good.
 
 ### QUICK REFERENCE: RESOLVING ACTION ROLLS
 
@@ -83,24 +90,24 @@ If the move you should make is not obvious from the fiction, draw inspiration fr
 
 Use softer moves on rolls with Hope and harder moves on rolls with Fear.
 
-**Example GM Moves**
-
-- Show how the world reacts
-- Ask a question and build on the answer
-- Make an NPC act in accordance with their motive
-- Drive a PC to take action by dangling their goals in front of them
-- Signal an imminent off-screen threat
-- Reveal an unwelcome truth or unexpected danger
-- Force the group to split up
-- Make a PC mark Stress
-- Make a move the characters don’t see
-- Show the collateral damage
-- Clear an adversary’s condition
-- Shift the environment
-- Spotlight an adversary
-- Capture someone or something important
-- Use a PC’s backstory against them
-- Take away an opportunity permanently.
+> **Example GM Moves**
+>
+> • Show how the world reacts
+> • Ask a question and build on the answer
+> • Make an NPC act in accordance with their motive
+> • Drive a PC to take action by dangling their goals in front of them
+> • Signal an imminent off-screen threat
+> • Reveal an unwelcome truth or unexpected danger
+> • Force the group to split up
+> • Make a PC mark Stress
+> • Make a move the characters don’t see
+> • Show the collateral damage
+> • Clear an adversary’s condition
+> • Shift the environment
+> • Spotlight an adversary
+> • Capture someone or something important
+> • Use a PC’s backstory against them
+> • Take away an opportunity permanently.
 
 ## USING FEAR
 
@@ -122,13 +129,13 @@ Spend a Fear to:
 
 The dramatic tension of a scene correlates with the amount of Fear you spend during it. For guidance on how much Fear you should spend in a scene, consult the following table:
 
-| **Activity**                                                                                                                                                                                | **Fear**  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: |
-| **Incidental:** A catch-up between PCs after an emotionally charged scene; gathering information; resupplying at a local market; resting during downtime.                                   | 0–1 Fear  |
-| **Minor:** A travel sequence; a minor skirmish that introduces new foes or signals future trouble.                                                                                          | 1–3 Fear  |
-| **Standard:** A substantial battle with a notable objective; perilous travel that tests might and wit; a tense social encounter seeking crucial information or aid.                         | 2–4 Fear  |
-| **Major:** A large battle with a Solo or Leader adversary; a character-defining scene with a significant change to a character’s personal story (such as revelation, growth, and betrayal). | 4–8 Fear  |
-| **Climactic:** A major confrontation with the villain of a story arc; an epic set piece battle; a judicial duel to determine an important NPC’s fate.                                       | 6–12 Fear |
+|                |                                                                                                                                                                                  |           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: |
+| **Incidental** | A catch-up between PCs after an emotionally charged scene; gathering information; resupplying at a local market; resting during downtime.                                        | 0–1 Fear  |
+| **Minor**      | A travel sequence; a minor skirmish that introduces new foes or signals future trouble.                                                                                          | 1–3 Fear  |
+| **Standard**   | A substantial battle with a notable objective; perilous travel that tests might and wit; a tense social encounter seeking crucial information or aid.                            | 2–4 Fear  |
+| **Major**      | A large battle with a Solo or Leader adversary; a character-defining scene with a significant change to a character’s personal story (such as revelation, growth, and betrayal). | 4–8 Fear  |
+| **Climactic**  | A major confrontation with the villain of a story arc; an epic set piece battle; a judicial duel to determine an important NPC’s fate.                                           | 6–12 Fear |
 
 If you find yourself with a **large amount of Fear**, consider:
 
@@ -150,14 +157,14 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 
 ### AGILITY
 
-| **Roll** | **Sprint**                                                              | **Leap**                                                                    | **Maneuver**                                                      |
+| **Roll** | **SPRINT**                                                              | **LEAP**                                                                    | **MANEUVER**                                                      |
 | :------: | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-|    **5**     | Sprint within Close range across an open field with an enemy present.   | Make a running jump of half your height (about 3 feet for a human).         | Walk slowly across a narrow beam.                                 |
-|    **10**    | Sprint within Far range across an open field with an enemy present.     | Make a running jump of your height (about 6 feet for a human).              | Walk quickly across a narrow beam.                                |
-|    **15**    | Sprint within Close range across rough terrain with an enemy present.   | Make a running jump of double your height (about 12 feet for a human).      | Run across a narrow beam.                                         |
-|    **20**    | Sprint within Close range through an active battle of multiple enemies. | Make a running jump of three times your height (about 18 feet for a human). | Run across a narrow beam in heavy wind.                           |
-|    **25**    | Sprint within Far range through a pitched battle in rough terrain.      | Make a running jump of five times your height (about 30 feet for a human).  | Run across a very narrow beam in an active rainstorm.             |
-|    **30**    | Sprint across the heads of your enemies in a pitched battle.            | Make a running jump of ten times your height (about 60 feet for a human).   | Run across an inch-wide, oil-slicked beam in an active rainstorm. |
+|  **5**   | Sprint within Close range across an open field with an enemy present.   | Make a running jump of half your height (about 3 feet for a human).         | Walk slowly across a narrow beam.                                 |
+|  **10**  | Sprint within Far range across an open field with an enemy present.     | Make a running jump of your height (about 6 feet for a human).              | Walk quickly across a narrow beam.                                |
+|  **15**  | Sprint within Close range across rough terrain with an enemy present.   | Make a running jump of double your height (about 12 feet for a human).      | Run across a narrow beam.                                         |
+|  **20**  | Sprint within Close range through an active battle of multiple enemies. | Make a running jump of three times your height (about 18 feet for a human). | Run across a narrow beam in heavy wind.                           |
+|  **25**  | Sprint within Far range through a pitched battle in rough terrain.      | Make a running jump of five times your height (about 30 feet for a human).  | Run across a very narrow beam in an active rainstorm.             |
+|  **30**  | Sprint across the heads of your enemies in a pitched battle.            | Make a running jump of ten times your height (about 60 feet for a human).   | Run across an inch-wide, oil-slicked beam in an active rainstorm. |
 
 ### STRENGTH
 
@@ -222,7 +229,7 @@ To viscerally convey how a PC’s actions or circumstances affect their ability 
 
 By default, adversaries don’t normally make action rolls except for attack rolls and any unique actions described in their stat blocks. Any other action an adversary attempts simply succeeds without an action roll; if you want an adversary’s action to have a chance of failure, have any relevant PCs make reaction rolls instead.
 
-However, for especially dramatic or difficult tasks that the PCs can’t influence, you can give an adversary an action roll anyway. For an adversary’s action roll, roll a d20. If the result is equal to or greater than the action’s Difficulty, the action succeeds—otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary’s stat block to the total. Use the same procedure when an adversary makes a reaction roll.
+However, for especially dramatic or difficult tasks that the PCs can’t influence, you can give an adversary an **action roll** anyway. For an adversary’s action roll, roll a d20. If the result is equal to or greater than the action’s Difficulty, the action succeeds—otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary’s stat block to the total. Use the same procedure when an adversary makes a **reaction roll**.
 
 ### ADVERSARY ADVANTAGE & DISADVANTAGE
 
@@ -234,36 +241,36 @@ When an adversary attacks a PC, the GM rolls a d20 and adds the adversary’s At
 
 On a success, the adversary deals the damage listed in their stat block to the target.
 
-When an adversary’s action lets the GM make an attack against multiple targets, they make one attack roll and compare it to each target’s Evasion separately.
+When an adversary’s action lets the GM make an **attack against multiple targets**, they make one attack roll and compare it to each target’s Evasion separately.
 
 ## COUNTDOWNS
 
-Countdowns represent a period of time or series of events preceding a future effect. A countdown begins at a starting value. When a countdown advances, it’s reduced by 1. The countdown’s effect is triggered when the countdown reaches 0.
+**Countdowns** represent a period of time or series of events preceding a future effect. A countdown begins at a starting value. When a countdown **advances**, it’s reduced by 1. The countdown’s effect is triggered when the countdown reaches 0.
 
 > *Note: You can track countdowns by “spinning down” dice or ticking off boxes.*
 
-Standard countdowns advance every time a player makes an action roll. If an adversary or environment ability refers to a “Countdown [n],” then it means a standard countdown with a starting value of n.
+**Standard countdowns** advance every time a player makes an action roll. If an adversary or environment ability refers to a “Countdown [n],” then it means a standard countdown with a starting value of n.
 
-Dynamic countdowns advance by up to 3 depending on the outcomes of action rolls. **Consequence countdowns** are dynamic countdowns to negative effects. **Progress countdowns** are dynamic countdowns to positive effects. Dynamic countdowns advance according to this chart:
+**Dynamic countdowns** advance by up to 3 depending on the outcomes of action rolls. **Consequence countdowns** are dynamic countdowns to negative effects. **Progress countdowns** are dynamic countdowns to positive effects. Dynamic countdowns advance according to this chart:
 
 ## DYNAMIC COUNTDOWN ADVANCEMENT
 
-| **Roll Result**   | **Progress Advancement** | **Consequence Advancement** |
-| ----------------- | ------------------------ | --------------------------- |
-| **Failure with Fear** | No advancement           | Tick down 3                 |
-| **Failure with Hope** | No advancement           | Tick down 2                 |
-| **Success with Fear** | Tick down 1              | Tick down 1                 |
-| **Success with Hope** | Tick down 2              | No advancement              |
-| **Critical Success**  | Tick down 3              | No advancement              |
+| **Roll Result**       | **Progress Advancement** | **Consequence Advancement** |
+| --------------------- | ------------------------ | --------------------------- |
+| Failure with Fear | No advancement           | Tick down 3                 |
+| Failure with Hope | No advancement           | Tick down 2                 |
+| Success with Fear | Tick down 1              | Tick down 1                 |
+| Success with Hope | Tick down 2              | No advancement              |
+| Critical Success  | Tick down 3              | No advancement              |
 
 ### ADVANCED COUNTDOWN FEATURES
 
-- **Countdowns with randomized starting values**
+- Countdowns with **randomized starting values.**
 - **Loop countdowns** that reset to their starting value after their countdown effect is triggered.
-- **Increasing countdowns** that increase their starting value by 1 every time they loop.
-- **Decreasing countdowns** that decrease their starting value by 1 every time they loop.
-- **Linked progress and consequence countdowns** that simultaneously advance according to the same action roll outcomes.
-- **Long-term countdowns** that advance after rests instead of action rolls.
+- **Increasing** countdowns that increase their starting value by 1 every time they loop.
+- **Decreasing** countdowns that decrease their starting value by 1 every time they loop.
+- **Linked** progress and consequence countdowns that simultaneously advance according to the same action roll outcomes.
+- **Long-term countdowns** that advance after **rests** instead of action rolls.
 
 ## GIVING OUT GOLD, EQUIPMENT, AND LOOT
 
@@ -275,7 +282,7 @@ If you don’t wish to track gold, then when PCs go shopping for new items let t
 
 Otherwise, set the prices of goods and services by adjusting the entries in the Average Costs table to reflect your campaign setting:
 
-| **Goods and Services**                         | **Price**        |
+|                                            |              |
 | ------------------------------------------ | ------------ |
 | Meals for a party of adventurers per night | 1 Handful    |
 | Standard inn room per night                | 1 Handful    |
@@ -304,31 +311,31 @@ If you want an important NPC to mechanically interact with the system, you can g
 
 ### ARCANE HOLD
 
-- **Choice:** When the battle begins, choose a favored PC.
-- **Trigger:** The first time during a battle the favored PC is within Close range and hit with an attack.
-- **Effect:** Make an attack roll with a +6 modifier against the adversary. On a success, the target is temporarily Restrained by tendrils of powerful magic.
+- ***Choice:*** When the battle begins, choose a favored PC.
+- ***Trigger:*** The first time during a battle the favored PC is within Close range and hit with an attack.
+- ***Effect:*** Make an attack roll with a +6 modifier against the adversary. On a success, the target is temporarily Restrained by tendrils of powerful magic.
 
 ### VOLLEY OF ARROWS
 
-- **Trigger:** A battle begins and this NPC is involved.
-- **Effect:** Activate a countdown (Loop 3). It ticks down when a PC misses an attack. When it triggers, this NPC releases a volley of arrows at a target of the PCs’ choice, dealing 2d8+3 physical damage.
+- ***Trigger:*** A battle begins and this NPC is involved.
+- ***Effect:*** Activate a countdown (Loop 3). It ticks down when a PC misses an attack. When it triggers, this NPC releases a volley of arrows at a target of the PCs’ choice, dealing 2d8+3 physical damage.
 
 ### MENTOR
 
-- **Choice:** When the battle begins, choose a protégé PC.
-- **Trigger:** Your protégé is within Close range and fails an attack roll.
-- **Effect:** Move into Melee range with the PC and give them advice or guidance. The next attack roll they make has advantage.
+- ***Choice:*** When the battle begins, choose a protégé PC.
+- ***Trigger:*** Your protégé is within Close range and fails an attack roll.
+- ***Effect:*** Move into Melee range with the PC and give them advice or guidance. The next attack roll they make has advantage.
 
 ### REGROUP
 
-- **Choice:** When a battle begins, choose a point within Far range.
-- **Trigger:** All PCs have marked all of their Armor Slots.
-- **Effect:** Teleport all PCs and this NPC to the chosen spot and clear an Armor Slot on each target.
+- ***Choice:*** When a battle begins, choose a point within Far range.
+- ***Trigger:*** All PCs have marked all of their Armor Slots.
+- ***Effect:*** Teleport all PCs and this NPC to the chosen spot and clear an Armor Slot on each target.
 
 ### INTO THE NIGHT
 
-- **Trigger:** The PCs start a long rest with this NPC.
-- **Effect:** Roll 1d4. On a 2 or less, this NPC steals 1 handful of gold from the party while they are sleeping, then disappears into the night.
+- ***Trigger:*** The PCs start a long rest with this NPC.
+- ***Effect:*** Roll 1d4. On a 2 or less, this NPC steals 1 handful of gold from the party while they are sleeping, then disappears into the night.
 
 ## OPTIONAL GM MECHANICS
 

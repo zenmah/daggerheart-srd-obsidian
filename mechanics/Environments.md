@@ -49,10 +49,10 @@ When you need to quickly adjust a stat block to a different tier, you can simply
 
 ## BENCHMARK STATISTICS FOR ENVIRONMENTS BY TIER
 
-| Environment Statistic | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
-|-----------------------|-----------------|-----------------|-----------------|-----------------|
-| Damage Dice | 1d6+1 to 1d8+3 | 2d6+3 to 2d10+2 | 3d8+3 to 3d10+1 | 4d8+3 to 4d10+10|
-| Difficulty | 11 | 14 | 17 | 20 |
+| **Environment Statistic** | **Tier 1**         | **Tier 2**          | **Tier 3**          | **Tier 4**           |
+| --------------------- | -------------- | --------------- | --------------- | ---------------- |
+| Damage Dice           | 1d6+1 to 1d8+3 | 2d6+3 to 2d10+2 | 3d8+3 to 3d10+1 | 4d8+3 to 4d10+10 |
+| Difficulty            | 11             | 14              | 17              | 20               |
 
 ## ENVIRONMENT STAT BLOCKS BY TIER
 

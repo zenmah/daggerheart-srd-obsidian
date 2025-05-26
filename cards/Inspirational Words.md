@@ -1,7 +1,7 @@
 # INSPIRATIONAL WORDS
 
-**Level 1 Grace Ability**  
-**Recall Cost:** 1
+> **Level 1 Grace Ability**  
+> **Recall Cost:** 1
 
 Your speech is imbued with power. After a long rest, place a number of tokens on this card equal to your Presence. When you speak with an ally, you can spend a token from this card to give them one benefit from the following options:
 

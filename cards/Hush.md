@@ -1,7 +1,7 @@
 # HUSH
 
-**Level 5 Midnight Spell**  
-**Recall Cost:** 1
+> **Level 5 Midnight Spell**  
+> **Recall Cost:** 1
 
 Make a Spellcast Roll against a target within Close range. On a success, spend a Hope to conjure suppressive magic around the target that encompasses everything within Very Close range of them and follows them as they move.
 

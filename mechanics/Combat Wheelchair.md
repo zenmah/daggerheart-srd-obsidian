@@ -38,31 +38,31 @@ All combat wheelchairs are equipped as Primary Weapons. There are three models o
 
 Though tough, these wheelchairs have light frames that allow the chair to move with your character in more acrobatic ways. These models are best suited to adventurers who rely on speed and flexibility.
 
-| NAME | TIER | TRAIT | RANGE | DAMAGE | BURDEN | FEATURE |
-|-------------------------------|------|--------|-------|---------|-----------|-------------------------------------------------------------------------|
-| Light-Frame Wheelchair | 1 | Agility| Melee | d8 phy | One-Handed| Quick: When you make an attack, you can mark a Stress to target another creature within range. |
-| Improved Light-Frame Wheelchair| 2 | Agility| Melee | d8+3 phy| One-Handed| Quick: When you make an attack, you can mark a Stress to target another creature within range. |
-| Advanced Light-Frame Wheelchair| 3 | Agility| Melee | d8+6 phy| One-Handed| Quick: When you make an attack, you can mark a Stress to target another creature within range. |
-| Legendary Light-Frame Wheelchair| 4 | Agility| Melee | d8+9 phy| One-Handed| Quick: When you make an attack, you can mark a Stress to target another creature within range. |
+| **NAME**                             | **TIER** | **TRAIT** | **RANGE** | **DAMAGE** | **BURDEN** | **FEATURE**                                                                                          |
+| ------------------------------------ | -------- | --------- | --------- | ---------- | ---------- | ---------------------------------------------------------------------------------------------------- |
+| **Light-Frame Wheelchair**           | 1        | Agility   | Melee     | d8 phy     | One-Handed | ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range. |
+| **Improved Light-Frame Wheelchair**  | 2        | Agility   | Melee     | d8+3 phy   | One-Handed | ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range. |
+| **Advanced Light-Frame Wheelchair**  | 3        | Agility   | Melee     | d8+6 phy   | One-Handed | ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range. |
+| **Legendary Light-Frame Wheelchair** | 4        | Agility   | Melee     | d8+9 phy   | One-Handed | ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range. |
 
 ### HEAVY FRAME MODELS
 
 These wheelchairs have bulky and heavier frames, allowing the chair to lend its weight to your character’s attacks. It also makes them a bigger target.
 
-| NAME | TIER | TRAIT | RANGE | DAMAGE | BURDEN | FEATURE |
-|-------------------------------|------|--------|-------|---------|-----------|-------------------|
-| Heavy-Frame Wheelchair | 1 | Strength | Melee | d12+3 phy | Two-Handed | Heavy: -1 to Evasion |
-| Improved Heavy-Frame Wheelchair | 2 | Strength | Melee | d12+6 phy | Two-Handed | Heavy: -1 to Evasion |
-| Advanced Heavy-Frame Wheelchair | 3 | Strength | Melee | d12+9 phy | Two-Handed | Heavy: -1 to Evasion |
-| Legendary Heavy-Frame Wheelchair | 4 | Strength | Melee | d12+12 phy | Two-Handed | Heavy: -1 to Evasion |
+| **NAME**                             | **TIER** | **TRAIT** | **RANGE** | **DAMAGE** | **BURDEN** | **FEATURE**                |
+| ------------------------------------ | -------- | --------- | --------- | ---------- | ---------- | -------------------------- |
+| **Heavy-Frame Wheelchair**           | 1        | Strength  | Melee     | d12+3 phy  | Two-Handed | ***Heavy:*** -1 to Evasion |
+| **Improved Heavy-Frame Wheelchair**  | 2        | Strength  | Melee     | d12+6 phy  | Two-Handed | ***Heavy:*** -1 to Evasion |
+| **Advanced Heavy-Frame Wheelchair**  | 3        | Strength  | Melee     | d12+9 phy  | Two-Handed | ***Heavy:*** -1 to Evasion |
+| **Legendary Heavy-Frame Wheelchair** | 4        | Strength  | Melee     | d12+12 phy | Two-Handed | ***Heavy:*** -1 to Evasion |
 
 ### ARCANE FRAME MODELS
 
 These wheelchairs have frames that are attuned to your character and their magic, allowing them to channel their spells through the chair. Unlike other primary magic weapons, the arcane-frame model doesn’t specify a trait to use when making an attack with it. Instead, you use the Spellcast trait indicated by your subclass.
 
-| NAME | TIER | TRAIT | RANGE | DAMAGE | BURDEN | FEATURE |
-|-------------------------------|------|--------|-------|---------|-----------|-------------------------|
-| Arcane-Frame Wheelchair | 1 | Spellcast | Far | d6 mag | One-Handed | Reliable: +1 to attack rolls |
-| Improved Arcane-Frame Wheelchair | 2 | Spellcast | Far | d6+3 mag | One-Handed | Reliable: +1 to attack rolls |
-| Advanced Arcane-Frame Wheelchair | 3 | Spellcast | Far | d6+6 mag | One-Handed | Reliable: +1 to attack rolls |
-| Legendary Arcane-Frame Wheelchair | 4 | Spellcast | Far | d6+9 mag | One-Handed | Reliable: +1 to attack rolls |
+| **NAME**                              | **TIER** | **TRAIT** | **RANGE** | **DAMAGE** | **BURDEN** | **FEATURE**                        |
+| ------------------------------------- | -------- | --------- | --------- | ---------- | ---------- | ---------------------------------- |
+| **Arcane-Frame Wheelchair**           | 1        | Spellcast | Far       | d6 mag     | One-Handed | ***Reliable:*** +1 to attack rolls |
+| **Improved Arcane-Frame Wheelchair**  | 2        | Spellcast | Far       | d6+3 mag   | One-Handed | ***Reliable:*** +1 to attack rolls |
+| **Advanced Arcane-Frame Wheelchair**  | 3        | Spellcast | Far       | d6+6 mag   | One-Handed | ***Reliable:*** +1 to attack rolls |
+| **Legendary Arcane-Frame Wheelchair** | 4        | Spellcast | Far       | d6+9 mag   | One-Handed | ***Reliable:*** +1 to attack rolls |

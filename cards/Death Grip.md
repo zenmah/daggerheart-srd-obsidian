@@ -1,7 +1,7 @@
 # DEATH GRIP
 
-**Level 4 Sage Spell**  
-**Recall Cost:** 1
+> **Level 4 Sage Spell**  
+> **Recall Cost:** 1
 
 Make a Spellcast Roll against a target within Close range and choose one of the following options:
 

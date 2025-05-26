@@ -1,7 +1,7 @@
 # VICIOUS ENTANGLE
 
-**Level 1 Sage Spell**  
-**Recall Cost:** 1
+> **Level 1 Sage Spell**  
+> **Recall Cost:** 1
 
 Make a Spellcast Roll against a target within Far range. On a success, roots and vines reach out from the ground, dealing 1d8+1 physical damage and temporarily Restraining the target.
 

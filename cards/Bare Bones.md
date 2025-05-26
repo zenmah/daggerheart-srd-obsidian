@@ -1,7 +1,7 @@
 # BARE BONES
 
-**Level 1 Valor Ability**  
-**Recall Cost:** 0
+> **Level 1 Valor Ability**  
+> **Recall Cost:** 0
 
 When you choose not to equip armor, you have a base Armor Score of 3 + your Strength and use the following as your base damage thresholds:
 

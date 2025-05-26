@@ -1,6 +1,6 @@
 # THE WITHERWILD
 
-*When an invading nation attacks an ancient forest deity, a virulent overgrowth spreads throughout the land.*
+***When an invading nation attacks an ancient forest deity, a virulent overgrowth spreads throughout the land.***
 
 *Designed by Carlos Cisco, Rowan Hall, & Spenser Starke*
 

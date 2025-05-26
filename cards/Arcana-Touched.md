@@ -1,7 +1,7 @@
 # ARCANA-TOUCHED
 
-**Level 7 Arcana Ability**  
-**Recall Cost:** 2
+> **Level 7 Arcana Ability**  
+> **Recall Cost:** 2
 
 When 4 or more of the domain cards in your loadout are from the Arcana domain, gain the following benefits:
 

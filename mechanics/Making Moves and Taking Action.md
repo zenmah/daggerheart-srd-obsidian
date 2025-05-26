@@ -118,13 +118,13 @@ If you critically succeed on a reaction roll, you don’t clear a Stress or gain
 
 ### GROUP ACTION ROLLS
 
-When multiple PCs take action together, the party chooses one PC to lead the action. Each other player then describes how their character collaborates on the task. The leader makes an action roll as usual, while the other players make reaction rolls using whichever traits they and the GM decide fit best.
+When multiple PCs take action together, the party chooses one PC to **lead the action**. Each other player then describes how their character collaborates on the task. The leader makes an action roll as usual, while the other players make reaction rolls using whichever traits they and the GM decide fit best.
 
 The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a –1 penalty for each these reaction rolls that failed.
 
 ### TAG TEAM ROLLS
 
-Each player can, once per session, initiate a Tag Team Roll between their character and another PC by spending 3 Hope. The players work with one another to describe how they combine their actions in a unique and exciting way. Both players make separate action rolls; before resolving the roll’s outcome, choose one of the rolls to apply to both actions. On a roll with Hope, all PCs involved gain a Hope. On a roll with Fear, the GM gains a Fear token for each PC involved.
+Each player can, once per session, initiate a **Tag Team Roll** between their character and another PC by spending 3 Hope. The players work with one another to describe how they combine their actions in a unique and exciting way. Both players make separate action rolls; before resolving the roll’s outcome, choose one of the rolls to apply to both actions. On a roll with Hope, all PCs involved gain a Hope. On a roll with Fear, the GM gains a Fear token for each PC involved.
 
 On a successful Tag Team attack roll, both players roll damage and add the totals together to determine the damage dealt, which is resolved as if it came from a single source. If the attacks deal different types of damage, the players choose which type to deal.
 
@@ -147,7 +147,7 @@ Advantage and disadvantage dice cancel each out, one-for-one, when they would be
 
 ## HOPE & FEAR
 
-Hope and Fear are metacurrencies representing the cosmic forces that shape the events of your table’s story. Hope powers PC abilities and features, while Fear powers the abilities of the GM and the adversaries and environments they control.
+**Hope** and **Fear** are metacurrencies representing the cosmic forces that shape the events of your table’s story. Hope powers PC abilities and features, while Fear powers the abilities of the GM and the adversaries and environments they control.
 
 ### HOPE
 
@@ -155,13 +155,13 @@ Every PC starts with 2 Hope at character creation and gains more throughout play
 
 Players can spend Hope to:
 
-- **Help an Ally**
+- **Help an Ally**  
   When you Help an Ally who is making an action roll, describe how you do so and roll an advantage die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total.
-- **Utilize an Experience**
+- **Utilize an Experience**  
   When you Utilize an Experience on a relevant roll, add its modifier to the result. You can spend multiple Hope to utilize multiple Experiences.
-- **Initiate a Tag Team Roll**
+- **Initiate a Tag Team Roll**  
   Spend 3 Hope to initiate a Tag Team roll, combining the actions of two PCs into one impressive act of synergy. When you make a Tag Team roll, both players roll their own rolls and choose which set of results to apply to the outcome.
-- **Activate a Hope Feature**
+- **Activate a Hope Feature**  
   A Hope Feature is any effect that allows (or requires) you to spend a specified amount of Hope to activate it. Class Hope features are class-specific features, detailed on your character sheet, that cost 3 Hope to activate.
 
 > ***Note:*** *When using a Hope Feature, if you rolled with Hope for that action, the Hope you gain from that roll can be spent on that feature (or toward it, if it requires spending multiple Hope).*

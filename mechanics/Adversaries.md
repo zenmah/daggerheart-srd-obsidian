@@ -6,15 +6,15 @@ All the information required to run an adversary is contained in their stat bloc
 
 ### NAME
 
-Each stat block has a unique name. Abilities that affect adversaries with a certain name include all adversaries who use that stat block, regardless of their in-story name.
+Each stat block has a unique **name**. Abilities that affect adversaries with a certain name include all adversaries who use that stat block, regardless of their in-story name.
 
 ### TIER
 
-Each adversary is designed to oppose PCs of a certain tier. If you confront the party with an adversary from another tier, adjust their stats.
+Each adversary is designed to oppose PCs of a certain **tier**. If you confront the party with an adversary from another tier, adjust their stats.
 
 ### TYPE
 
-The adversary’s type appears alongside their tier. An adversary’s type represents the role they play in a conflict. The adversary types are:
+The adversary’s type appears alongside their tier. An adversary’s **type** represents the role they play in a conflict. The adversary types are:
 
 - **Bruisers:** tough; deliver powerful attacks.
 - **Hordes:** groups of identical creatures acting together as a single unit.
@@ -45,7 +45,7 @@ When you attack with the adversary, apply this bonus or penalty to your attack r
 
 ### STANDARD ATTACK
 
-A description of the adversary’s primary mode of inflicting harm on the PCs. It includes the attack’s name, its effective range, and the damage it deals on a success. Using an adversary’s standard attack is a GM move.
+A description of the adversary’s primary mode of inflicting harm on the PCs. It includes the attack’s **name**, its effective **range**, and the **damage** it deals on a success. Using an adversary’s **standard attack** is a GM move.
 
 ### EXPERIENCE (OPTIONAL)
 
@@ -74,7 +74,7 @@ The GM can spend a Fear to add an adversary’s relevant Experience to raise the
 
 ### FEATURE(S)
 
-There are three kinds of adversary features: actions, reactions, and passives. Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
+There are three kinds of adversary features: **actions, reactions, and passives.** Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
 
 - **Actions:** a special attack or other unique action that the adversary can perform when the spotlight is on them.
 - **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
@@ -122,23 +122,23 @@ High-impact effects that cost a Fear to activate.
 
 ## BUILDING BALANCED ENCOUNTERS
 
-When planning a battle, start with [(3 x the number of PCs in combat) + 2] Battle Points and make the following adjustments:
+When planning a battle, start with **[(3 x the number of PCs in combat) + 2] Battle Points** and make the following adjustments:
 
-- -1 for an easier or shorter fight
-- -2 if you’re using 2 or more Solo adversaries
-- -2 if you add +1d4 (or a static +2) to all adversaries’ damage rolls
-- +1 if you choose an adversary from a lower tier
-- +1 if you don’t include any Bruisers, Hordes, Leaders, or Solos
-- +2 for a harder or longer fight
+- **-1** for an easier or shorter fight
+- **-2** if you’re using 2 or more Solo adversaries
+- **-2** if you add +1d4 (or a static +2) to all adversaries’ damage rolls
+- **+1** if you choose an adversary from a lower tier
+- **+1** if you don’t include any Bruisers, Hordes, Leaders, or Solos
+- **+2** for a harder or longer fight
 
 Then spend your Battle Points to add an adversary to the encounter:
 
-- Spend 1 point for each group of Minions equal to the size of the party.
-- Spend 1 point for each Social or Support adversary.
-- Spend 2 points for each Horde, Ranged, Skulk, or Standard adversary.
-- Spend 3 points for each Leader adversary.
-- Spend 4 points for each Bruiser adversary.
-- Spend 5 points for each Solo adversary.
+- **Spend 1 point** for each group of Minions equal to the size of the party.
+- **Spend 1 point** for each Social or Support adversary.
+- **Spend 2 points** for each Horde, Ranged, Skulk, or Standard adversary.
+- **Spend 3 points** for each Leader adversary.
+- **Spend 4 points** for each Bruiser adversary.
+- **Spend 5 points** for each Solo adversary.
 
 ## DEFEATED ADVERSARIES
 
@@ -146,12 +146,12 @@ When an adversary marks their last Hit Point, they are defeated: incapacitated, 
 
 ## ADVERSARY STAT BLOCK BENCHMARKS
 
-| ADVERSARY STATISTIC | TIER 1 | TIER 2 | TIER 3 | TIER 4 |
-|---------------------|--------|--------|--------|--------|
-| Attack Modifier | +1 | +2 | +3 | +4 |
-| Damage Dice | 1d6+2 to 1d12+4 | 2d6+3 to 2d12+4 | 3d8+3 to 3d12+5 | 4d8+10 to 4d12+15 |
-| Difficulty | 11 | 14 | 17 | 20 |
-| Damage Thresholds | Major 7/Severe 12 | Major 10/Severe 20 | Major 20/Severe 32 | Major 25/Severe 45 |
+| **ADVERSARY STATISTIC** | **TIER 1**                 | **TIER 2**                  | **TIER 3**                  | **TIER 4**                  |
+| ------------------- | ---------------------- | ----------------------- | ----------------------- | ----------------------- |
+| Attack Modifier     | +1                     | +2                      | +3                      | +4                      |
+| Damage Dice         | 1d6+2 to 1d12+4        | 2d6+3 to 2d12+4         | 3d8+3 to 3d12+5         | 4d8+10 to 4d12+15       |
+| Difficulty          | 11                     | 14                      | 17                      | 20                      |
+| Damage Thresholds   | Major 7 /<br>Severe 12 | Major 10 /<br>Severe 20 | Major 20 /<br>Severe 32 | Major 25 /<br>Severe 45 |
 
 ## ADVERSARIES BY TIER
 

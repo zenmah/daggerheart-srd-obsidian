@@ -2,7 +2,7 @@
 
 ### SYSTEM REFERENCE DOCUMENT 1.0
 
-SRD Writer: Rob Hebert | Technical Editor: Shawn Banerjee | Layout: Matt Paquette & Co. | Producer: Madigan Hunt
+**SRD Writer: Rob Hebert | Technical Editor: Shawn Banerjee | Layout: Matt Paquette & Co. | Producer: Madigan Hunt**
 
 This document, including the Witherwild Campaign Frame, is considered Public Game Content per the Darrington Press Community Gaming License. Please read the Darrington Press Community Gaming License before using this material.
 
@@ -12,7 +12,7 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 ## INTRODUCTION
 
-**Welcome to DAGGERHEART**, *a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.*
+**Welcome to DAGGERHEART,** *a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.*
 
 ---
 
@@ -20,13 +20,13 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 ### INTRODUCTION
 
-- [What Is This?](contents/What%20Is%20This.md)
+- [What Is This](contents/What%20Is%20This.md)
 - [The Basics](contents/The%20Basics.md)
 
 ### STARTING A CAMPAIGN
 
-- [Session Zero](contents/Session%20Zero.md) *(currently missing from SRD)*
-- [Setting Creation](contents/Setting%20Creation.md) *(currently missing from SRD)*
+- [Session Zero](contents/Session%20Zero.md) *(currently missing from SRD 1.0)*
+- [Setting Creation](contents/Setting%20Creation.md) *(currently missing from SRD 1.0)*
 
 ### [CHARACTER CREATION](contents/Character%20Creation.md)
 
@@ -47,7 +47,7 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 - [Combat](mechanics/Combat.md)
 - [Stress](mechanics/Stress.md)
 - [Attacking](mechanics/Attacking.md)
-- [Maps, Range & Movement](mechanics/Maps,%20Range,%20and%20Movement.md)
+- [Maps, Range, and Movement](mechanics/Maps,%20Range,%20and%20Movement.md)
 - [Conditions](mechanics/Conditions.md)
 - [Downtime](mechanics/Downtime.md)
 - [Death](mechanics/Death.md)
@@ -66,7 +66,7 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 - [GM Guidance](contents/GM%20Guidance.md)
 - [Core GM Mechanics](mechanics/Core%20GM%20Mechanics.md)
-- [Adversaries](mechanics/Adversaries.md) 
+- [Adversaries](mechanics/Adversaries.md)
 - [Environments](mechanics/Environments.md)
 - [Additional GM Guidance](contents/Additional%20GM%20Guidance.md)
 - [Campaign Frames](contents/Campaign%20Frames.md)

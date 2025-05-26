@@ -1,7 +1,7 @@
 # CHAMPION’S EDGE
 
-**Level 5 Blade Ability**  
-**Recall Cost:** 1
+> **Level 5 Blade Ability**  
+> **Recall Cost:** 1
 
 When you critically succeed on an attack, you can spend up to 3 Hope and choose one of the following options for each Hope spent:
 

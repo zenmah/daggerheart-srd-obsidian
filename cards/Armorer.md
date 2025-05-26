@@ -1,7 +1,7 @@
 # ARMORER
 
-**Level 5 Valor Ability**  
-**Recall Cost:** 1
+> **Level 5 Valor Ability**  
+> **Recall Cost:** 1
 
 While you’re wearing armor, gain a +1 bonus to your Armor Score.
 

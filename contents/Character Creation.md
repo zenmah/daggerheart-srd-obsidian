@@ -4,16 +4,14 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 > ***Note:*** *You can fill in your character’s name, pronouns, and Character Description details at any point of the character creation process.*
 
-## STEP 1: CHOOSE A CLASS
+## STEP 1: CHOOSE A CLASS AND SUBCLASS
 
-**Classes** are role-based archetypes that determine which class features and domain cards a PC gains access to throughout the campaign. There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.
+**Classes** are role-based archetypes that determine which class features and **domain cards** a PC gains access to throughout the campaign. There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.
 
 - Select a class and take its corresponding **character sheet** and **character guide** printouts. These sheets are for recording your PC’s details; you’ll update and reference them throughout the campaign.
 - Every class begins with one or more unique **class feature(s)**, described in the front of each class’s character sheet. If your class feature prompts you to make a selection, do so now.
 
-**Choose a Subclass.**
-
-**Subclasses** further refine a class archetype and reinforce its expression by granting access to unique subclass features. Each class comprises two subclasses. Select one of your class’s subclasses and take its Foundation card.
+**Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features**. Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
 
 ## STEP 2: CHOOSE YOUR HERITAGE
 
@@ -61,7 +59,7 @@ Choose and equip one set of **armor** from the Tier 1 Armor Table, then record i
 - Add your character’s level to your equipped armor’s **Base Score** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
 - Record your **Armor Score** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **Base Score** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
 
-Add the following items to the Inventory fields on your character sheet:
+Add the following items to the **Inventory** fields on your character sheet:
 
 - A torch, 50 feet of rope, basic supplies, and a handful of gold (mark one box in the left-hand column of your character sheet titled “Gold > Handfuls”)
 - EITHER a Minor Health Potion (clear 1d4 Hit Points) OR a Minor Stamina Potion (clear 1d4 Stress)
