@@ -1,6 +1,7 @@
 # DEMON OF DESPAIR
 
-**Tier 3 Skulk:** *A cloaked one-creature with long limbs, seeping shadows.*  
+***Tier 3 Skulk***  
+*A cloaked one-creature with long limbs, seeping shadows.*  
 **Motives & Tactics:** Make fear contagious, stick to the shadows, undermine resolve
 
 > **Difficulty:** 17 | **Thresholds:** 18/35 | **HP:** 6 | **Stress:** 5  

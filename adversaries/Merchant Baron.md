@@ -1,6 +1,7 @@
 # MERCHANT BARON
 
-**Tier 2 Social:** *An accomplished merchant with a large operation under their command.*  
+***Tier 2 Social***  
+*An accomplished merchant with a large operation under their command.*  
 **Motives & Tactics:** Abusive power, gather resources, mobilize minions
 
 > **Difficulty:** 15 | **Thresholds:** 9/19 | **HP:** 5 | **Stress:** 3  

@@ -1,6 +1,7 @@
 # CHAOS SKULL
 
-**Tier 2 Ranged:** *A floating humanoid skull animated by scintillating magic.*  
+***Tier 2 Ranged***  
+*A floating humanoid skull animated by scintillating magic.*  
 **Motives & Tactics:** Cackle, consume magic, serve creator
 
 > **Difficulty:** 15 | **Thresholds:** 8/16 | **HP:** 5 | **Stress:** 4  

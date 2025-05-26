@@ -1,6 +1,7 @@
 # HALLOWED SOLDIER
 
-**Tier 4 Minion:** *Souls of the faithful, lifted up with divine weaponry.*  
+***Tier 4 Minion***  
+*Souls of the faithful, lifted up with divine weaponry.*  
 **Motives & Tactics:** Obey, outmaneuver, punish, swarm
 
 > **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 2  

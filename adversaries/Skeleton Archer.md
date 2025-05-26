@@ -1,6 +1,7 @@
 # SKELETON ARCHER
 
-**Tier 1 Ranged:** *A fragile skeleton with a shortbow and arrows.*  
+***Tier 1 Ranged***  
+*A fragile skeleton with a shortbow and arrows.*  
 **Motives & Tactics:** Perforate distracted targets, play dead, steal skin
 
 > **Difficulty:** 9 | **Thresholds:** 4/7 | **HP:** 3 | **Stress:** 2  

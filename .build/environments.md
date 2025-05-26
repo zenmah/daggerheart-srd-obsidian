@@ -1,6 +1,7 @@
 # {{ Name }}
 
-**{{ Tier }}:** *{{ Description }}*  
+***{{ Tier }}***  
+*{{ Description }}*  
 **Impulses:** {{ Impulses }}
 
 > **Difficulty:** {{ Difficulty }}  

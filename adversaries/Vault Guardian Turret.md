@@ -1,6 +1,7 @@
 # VAULT GUARDIAN TURRET
 
-**Tier 3 Ranged:** *A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.*  
+***Tier 3 Ranged***  
+*A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.*  
 **Motives & Tactics:** Concentrate fire, lock down, mark, protect
 
 > **Difficulty:** 16 | **Thresholds:** 20/32 | **HP:** 5 | **Stress:** 4  

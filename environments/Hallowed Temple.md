@@ -1,6 +1,7 @@
 # HALLOWED TEMPLE
 
-**Tier 2 Social:** *A bustling yet well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph.*  
+***Tier 2 Social***  
+*A bustling yet well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph.*  
 **Impulses:** Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful
 
 > **Difficulty:** 13  

@@ -1,6 +1,7 @@
 # SHAMBLING ZOMBIE
 
-**Tier 1 Standard:** *An animated corpse that moves shakily, driven only by hunger.*  
+***Tier 1 Standard***  
+*An animated corpse that moves shakily, driven only by hunger.*  
 **Motives & Tactics:** Devour, hungry, mob enemy, shred flesh
 
 > **Difficulty:** 10 | **Thresholds:** 4/6 | **HP:** 4 | **Stress:** 1  

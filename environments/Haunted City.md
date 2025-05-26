@@ -1,6 +1,7 @@
 # HAUNTED CITY
 
-**Tier 2 Exploration:** *An abandoned city populated by the restless spirits of eras past.*  
+***Tier 2 Exploration***  
+*An abandoned city populated by the restless spirits of eras past.*  
 **Impulses:** Misdirect and disorient, replay apocalypses both public and personal
 
 > **Difficulty:** 14  

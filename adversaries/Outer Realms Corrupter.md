@@ -1,6 +1,7 @@
 # OUTER REALMS CORRUPTER
 
-**Tier 4 Support:** *A shifting, formless mass seemingly made of chromatic light.*  
+***Tier 4 Support***  
+*A shifting, formless mass seemingly made of chromatic light.*  
 **Motives & Tactics:** Confuse, distract, overwhelm
 
 > **Difficulty:** 19 | **Thresholds:** 27/47 | **HP:** 4 | **Stress:** 3  

@@ -1,6 +1,7 @@
 # TINY RED OOZE
 
-**Tier 1 Skulk:** *A small moving mound of translucent flaming red slime.*  
+***Tier 1 Skulk***  
+*A small moving mound of translucent flaming red slime.*  
 **Motives & Tactics:** Blaze, camouflage
 
 > **Difficulty:** 11 | **Thresholds:** 5/None | **HP:** 2 | **Stress:** 1  

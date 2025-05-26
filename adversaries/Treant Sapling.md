@@ -1,6 +1,7 @@
 # TREANT SAPLING
 
-**Tier 3 Minion:** *A small, sentient tree sapling.*  
+***Tier 3 Minion***  
+*A small, sentient tree sapling.*  
 **Motives & Tactics:** Blend in, preserve the forest, pummel, surround
 
 > **Difficulty:** 14 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  

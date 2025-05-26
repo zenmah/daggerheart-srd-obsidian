@@ -1,6 +1,7 @@
 # GIANT EAGLE
 
-**Tier 2 Skulk:** *A giant bird of prey with blood-stained talons.*  
+***Tier 2 Skulk***  
+*A giant bird of prey with blood-stained talons.*  
 **Motives & Tactics:** Hunt prey, stay mobile, strike decisively
 
 > **Difficulty:** 14 | **Thresholds:** 8/19 | **HP:** 4 | **Stress:** 4  

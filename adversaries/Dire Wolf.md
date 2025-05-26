@@ -1,6 +1,7 @@
 # DIRE WOLF
 
-**Tier 1 Skulk:** *A large wolf with menacing teeth, seldom encountered alone.*  
+***Tier 1 Skulk***  
+*A large wolf with menacing teeth, seldom encountered alone.*  
 **Motives & Tactics:** Defend territory, harry, protect pack, surround, trail
 
 > **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 3  

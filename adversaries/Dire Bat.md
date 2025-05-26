@@ -1,6 +1,7 @@
 # DIRE BAT
 
-**Tier 3 Skulk:** *A winged pet endlessly loyal to their vampire owner.*  
+***Tier 3 Skulk***  
+*A winged pet endlessly loyal to their vampire owner.*  
 **Motives & Tactics:** Dive-bomb, hide, protect leader
 
 > **Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3  

@@ -1,6 +1,7 @@
 # FALLEN WARLORD: REALM-BREAKER
 
-**Tier 4 Solo:** *A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*  
+***Tier 4 Solo***  
+*A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*  
 **Motives & Tactics:** Corrupt, dominate, punish, break the weak
 
 > **Difficulty:** 20 | **Thresholds:** 36/66 | **HP:** 8 | **Stress:** 5  

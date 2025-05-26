@@ -1,6 +1,7 @@
 # SPECTRAL GUARDIAN
 
-**Tier 2 Standard:** *A ghostly fighter with spears and swords, anchored by duty.*  
+***Tier 2 Standard***  
+*A ghostly fighter with spears and swords, anchored by duty.*  
 **Motives & Tactics:** Move through solid objects, protect treasure, rehash old battles
 
 > **Difficulty:** 15 | **Thresholds:** 7/15 | **HP:** 4 | **Stress:** 3  

@@ -1,6 +1,7 @@
 # CHAOS REALM
 
-**Tier 4 Traversal:** *An otherworldly space where the laws of reality are unstable and dangerous.*  
+***Tier 4 Traversal***  
+*An otherworldly space where the laws of reality are unstable and dangerous.*  
 **Impulses:** Annihilate certainty, consume power, defy logic
 
 > **Difficulty:** 20  

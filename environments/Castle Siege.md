@@ -1,6 +1,7 @@
 # CASTLE SIEGE
 
-**Tier 3 Event:** *An active siege with an attacking force fighting to gain entry to a fortified castle.*  
+***Tier 3 Event***  
+*An active siege with an attacking force fighting to gain entry to a fortified castle.*  
 **Impulses:** Bleed out the will to fight, breach the walls, build tension
 
 > **Difficulty:** 17  

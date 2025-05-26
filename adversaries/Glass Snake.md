@@ -1,6 +1,7 @@
 # GLASS SNAKE
 
-**Tier 1 Standard:** *A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.*  
+***Tier 1 Standard***  
+*A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.*  
 **Motives & Tactics:** Climb, feed, keep distance, scare
 
 > **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 5 | **Stress:** 3  

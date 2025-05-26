@@ -1,6 +1,7 @@
 # {{ Name }}
 
-**Tier {{ Tier }} {{ Type }}:** *{{ Description }}*  
+***Tier {{ Tier }} {{ Type }}***  
+*{{ Description }}*  
 **Motives & Tactics:** {{ Motives_and_Tactics }}
 
 > **Difficulty:** {{ Difficulty }} | **Thresholds:** {{ Thresholds }} | **HP:** {{ HP }} | **Stress:** {{ Stress }}  

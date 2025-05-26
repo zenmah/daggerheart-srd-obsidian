@@ -1,6 +1,7 @@
 # JAGGED KNIFE SNIPER
 
-**Tier 1 Ranged:** *A lanky bandit striking from cover with a shortbow.*  
+***Tier 1 Ranged***  
+*A lanky bandit striking from cover with a shortbow.*  
 **Motives & Tactics:** Ambush, hide, profit, reposition
 
 > **Difficulty:** 13 | **Thresholds:** 4/7 | **HP:** 3 | **Stress:** 2  

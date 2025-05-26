@@ -1,6 +1,7 @@
 # ABANDONED GROVE
 
-**Tier 1 Exploration:** *A former druidic grove lying fallow and fully reclaimed by nature.*  
+***Tier 1 Exploration***  
+*A former druidic grove lying fallow and fully reclaimed by nature.*  
 **Impulses:** Draw in the curious, echo the past
 
 > **Difficulty:** 11  

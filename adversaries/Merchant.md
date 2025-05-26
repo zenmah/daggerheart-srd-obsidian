@@ -1,6 +1,7 @@
 # MERCHANT
 
-**Tier 1 Social:** *A finely dressed trader with a keen eye for financial gain.*  
+***Tier 1 Social***  
+*A finely dressed trader with a keen eye for financial gain.*  
 **Motives & Tactics:** Buy low and sell high, create demand, inflate prices, seek profit
 
 > **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 3  

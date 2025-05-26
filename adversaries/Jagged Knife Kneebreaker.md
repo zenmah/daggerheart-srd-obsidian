@@ -1,6 +1,7 @@
 # JAGGED KNIFE KNEEBREAKER
 
-**Tier 1 Bruiser:** *An imposing brawler carrying a large club.*  
+***Tier 1 Bruiser***  
+*An imposing brawler carrying a large club.*  
 **Motives & Tactics:** Grapple, intimidate, profit, steal
 
 > **Difficulty:** 12 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 4  

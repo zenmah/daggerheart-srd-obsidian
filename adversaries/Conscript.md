@@ -1,6 +1,7 @@
 # CONSCRIPT
 
-**Tier 2 Minion:** *A poorly trained civilian pressed into war.*  
+***Tier 2 Minion***  
+*A poorly trained civilian pressed into war.*  
 **Motives & Tactics:** Follow orders, gang up, survive
 
 > **Difficulty:** 12 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  

@@ -1,6 +1,7 @@
 # JAGGED KNIFE BANDIT
 
-**Tier 1 Standard:** *A cunning criminal in a cloak bearing one of the gang’s iconic knives.*  
+***Tier 1 Standard***  
+*A cunning criminal in a cloak bearing one of the gang’s iconic knives.*  
 **Motives & Tactics:** Escape, profit, steal, throw smoke
 
 > **Difficulty:** 12 | **Thresholds:** 8/14 | **HP:** 5 | **Stress:** 3  

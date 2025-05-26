@@ -1,6 +1,7 @@
 # RED OOZE
 
-**Tier 1 Skulk:** *A moving mound of translucent flaming red slime.*  
+***Tier 1 Skulk***  
+*A moving mound of translucent flaming red slime.*  
 **Motives & Tactics:** Camouflage, consume and multiply, ignite, start fires
 
 > **Difficulty:** 10 | **Thresholds:** 6/11 | **HP:** 5 | **Stress:** 3  

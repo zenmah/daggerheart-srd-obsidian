@@ -1,6 +1,7 @@
 # PITCHED BATTLE
 
-**Tier 3 Event:** *A massive combat between two large groups of armed combatants.*  
+***Tier 3 Event***  
+*A massive combat between two large groups of armed combatants.*  
 **Impulses:** Seize people, land, and wealth, spill blood for greed and glory
 
 > **Difficulty:** 17  

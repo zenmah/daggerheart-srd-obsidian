@@ -1,6 +1,7 @@
 # HEAD GUARD
 
-**Tier 1 Leader:** *A seasoned guard with a mace, a whistle, and a bellowing voice.*  
+***Tier 1 Leader***  
+*A seasoned guard with a mace, a whistle, and a bellowing voice.*  
 **Motives & Tactics:** Arrest, close gates, pin down, seek glory
 
 > **Difficulty:** 15 | **Thresholds:** 7/13 | **HP:** 7 | **Stress:** 3  

@@ -1,6 +1,7 @@
 # BEAR
 
-**Tier 1 Bruiser:** *A large bear with thick fur and powerful claws.*  
+***Tier 1 Bruiser***  
+*A large bear with thick fur and powerful claws.*  
 **Motives & Tactics:** Climb, defend territory, pummel, track
 
 > **Difficulty:** 14 | **Thresholds:** 9/17 | **HP:** 7 | **Stress:** 2  

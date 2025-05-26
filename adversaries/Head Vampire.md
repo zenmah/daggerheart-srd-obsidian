@@ -1,6 +1,7 @@
 # HEAD VAMPIRE
 
-**Tier 3 Leader:** *A captivating undead dressed in aristocratic finery.*  
+***Tier 3 Leader***  
+*A captivating undead dressed in aristocratic finery.*  
 **Motives & Tactics:** Create thralls, charm, command, fly, intimidate
 
 > **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6  

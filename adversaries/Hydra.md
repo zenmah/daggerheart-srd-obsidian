@@ -1,6 +1,7 @@
 # HYDRA
 
-**Tier 3 Solo:** *A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.*  
+***Tier 3 Solo***  
+*A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.*  
 **Motives & Tactics:** Devour, regenerate, terrify
 
 > **Difficulty:** 18 | **Thresholds:** 19/35 | **HP:** 10 | **Stress:** 5  

@@ -1,6 +1,7 @@
 # PIRATE RAIDERS
 
-**Tier 1 Horde (3/HP):** *Seafaring scoundrels moving in a ravaging pack.*  
+***Tier 1 Horde (3/HP)***  
+*Seafaring scoundrels moving in a ravaging pack.*  
 **Motives & Tactics:** Gang up, plunder, overwhelm
 
 > **Difficulty:** 12 | **Thresholds:** 5/11 | **HP:** 4 | **Stress:** 3  

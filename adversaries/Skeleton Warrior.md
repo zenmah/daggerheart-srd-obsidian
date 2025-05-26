@@ -1,6 +1,7 @@
 # SKELETON WARRIOR
 
-**Tier 1 Standard:** *A dirt-covered skeleton armed with a rusted blade.*  
+***Tier 1 Standard***  
+*A dirt-covered skeleton armed with a rusted blade.*  
 **Motives & Tactics:** Feign death, gang up, steal skin
 
 > **Difficulty:** 10 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 2  

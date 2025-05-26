@@ -1,6 +1,7 @@
 # GORGON
 
-**Tier 2 Solo:** *A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed.*  
+***Tier 2 Solo***  
+*A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed.*  
 **Motives & Tactics:** Corner, hit-and-run, petrify, seek vengeance
 
 > **Difficulty:** 15 | **Thresholds:** 13/25 | **HP:** 9 | **Stress:** 3  

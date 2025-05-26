@@ -1,6 +1,7 @@
 # GREATER EARTH ELEMENTAL
 
-**Tier 3 Bruiser:** *A living landslide of boulders and dust, as large as a house.*  
+***Tier 3 Bruiser***  
+*A living landslide of boulders and dust, as large as a house.*  
 **Motives & Tactics:** Avalanche, knock over, pummel
 
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 10 | **Stress:** 4  

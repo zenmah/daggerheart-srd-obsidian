@@ -1,6 +1,7 @@
 # MORTAL HUNTER
 
-**Tier 2 Leader:** *An undead figure wearing a heavy leather coat, with searching eyes and a cruelly cut demeanor.*  
+***Tier 2 Leader***  
+*An undead figure wearing a heavy leather coat, with searching eyes and a cruelly cut demeanor.*  
 **Motives & Tactics:** Devour, hunt, track
 
 > **Difficulty:** 16 | **Thresholds:** 15/27 | **HP:** 6 | **Stress:** 4  

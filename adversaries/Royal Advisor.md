@@ -1,6 +1,7 @@
 # ROYAL ADVISOR
 
-**Tier 2 Social:** *A high-ranking courtier with the ear of the local nobility.*  
+***Tier 2 Social***  
+*A high-ranking courtier with the ear of the local nobility.*  
 **Motives & Tactics:** Curry favor, manufacture evidence, scheme
 
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 3 | **Stress:** 3  

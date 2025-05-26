@@ -1,6 +1,7 @@
 # RAGING RIVER
 
-**Tier 1 Traversal:** *A swift-moving river without a bridge crossing, deep enough to sweep away most people.*  
+***Tier 1 Traversal***  
+*A swift-moving river without a bridge crossing, deep enough to sweep away most people.*  
 **Impulses:** Bar crossing, carry away the unready, divide the land
 
 > **Difficulty:** 10  

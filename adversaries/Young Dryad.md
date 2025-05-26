@@ -1,6 +1,7 @@
 # YOUNG DRYAD
 
-**Tier 1 Leader:** *An imperious tree-person leading their forest’s defenses.*  
+***Tier 1 Leader***  
+*An imperious tree-person leading their forest’s defenses.*  
 **Motives & Tactics:** Command, nurture, prune the unwelcome
 
 > **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 2  

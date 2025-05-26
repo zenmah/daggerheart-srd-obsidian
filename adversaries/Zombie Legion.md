@@ -1,6 +1,7 @@
 # ZOMBIE LEGION
 
-**Tier 4 Horde (3/HP):** *A large pack of undead, still powerful despite their rotting flesh.*  
+***Tier 4 Horde (3/HP)***  
+*A large pack of undead, still powerful despite their rotting flesh.*  
 **Motives & Tactics:** Consume brain, shred flesh, surround
 
 > **Difficulty:** 17 | **Thresholds:** 25/45 | **HP:** 8 | **Stress:** 5  

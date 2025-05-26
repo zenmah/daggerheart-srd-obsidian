@@ -1,6 +1,7 @@
 # GIANT RAT
 
-**Tier 1 Minion:** *A cat-sized rodent skilled at scavenging and survival.*  
+***Tier 1 Minion***  
+*A cat-sized rodent skilled at scavenging and survival.*  
 **Motives & Tactics:** Burrow, hunger, scavenge, wear down
 
 > **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  

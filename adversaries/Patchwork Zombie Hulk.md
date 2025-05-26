@@ -1,6 +1,7 @@
 # PATCHWORK ZOMBIE HULK
 
-**Tier 1 Solo:** *A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling.*  
+***Tier 1 Solo***  
+*A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling.*  
 **Motives & Tactics:** Absorb corpses, flail, hunger, terrify
 
 > **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 10 | **Stress:** 3  

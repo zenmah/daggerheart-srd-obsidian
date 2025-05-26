@@ -1,6 +1,7 @@
 # PIRATE CAPTAIN
 
-**Tier 1 Leader:** *A charismatic sea dog with an impressive hat, eager to raid and plunder.*  
+***Tier 1 Leader***  
+*A charismatic sea dog with an impressive hat, eager to raid and plunder.*  
 **Motives & Tactics:** Command, make 'em walk the plank, plunder, raid
 
 > **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 5  

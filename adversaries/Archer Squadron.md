@@ -1,6 +1,7 @@
 # ARCHER SQUADRON
 
-**Tier 2 Horde (2/HP):** *A group of trained archers bearing massive bows.*  
+***Tier 2 Horde (2/HP)***  
+*A group of trained archers bearing massive bows.*  
 **Motives & Tactics:** Stick together, survive, volley fire
 
 > **Difficulty:** 13 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 3  

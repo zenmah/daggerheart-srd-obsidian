@@ -1,6 +1,7 @@
 # OUTER REALMS ABOMINATION
 
-**Tier 4 Bruiser:** *A chaotic mockery of life, constantly in flux.*  
+***Tier 4 Bruiser***  
+*A chaotic mockery of life, constantly in flux.*  
 **Motives & Tactics:** Confuse, demolish, devour, undermine
 
 > **Difficulty:** 19 | **Thresholds:** 35/71 | **HP:** 7 | **Stress:** 5  

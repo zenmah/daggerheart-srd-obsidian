@@ -1,6 +1,7 @@
 # HUGE GREEN OOZE
 
-**Tier 3 Skulk:** *A translucent green mound of acid taller than most humans.*  
+***Tier 3 Skulk***  
+*A translucent green mound of acid taller than most humans.*  
 **Motives & Tactics:** Camouflage, creep up, envelop, multiply
 
 > **Difficulty:** 15 | **Thresholds:** 15/30 | **HP:** 7 | **Stress:** 4  

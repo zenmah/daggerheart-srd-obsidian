@@ -1,6 +1,7 @@
 # CAVE OGRE
 
-**Tier 1 Solo:** *A massive humanoid who sees all sapient life as food.*  
+***Tier 1 Solo***  
+*A massive humanoid who sees all sapient life as food.*  
 **Motives & Tactics:** Bite off heads, feast, rip limbs, stomp, throw enemies
 
 > **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3  

@@ -1,6 +1,7 @@
 # GIANT BRAWLER
 
-**Tier 2 Bruiser:** *An especially muscular giant wielding a warhammer larger than a human.*  
+***Tier 2 Bruiser***  
+*An especially muscular giant wielding a warhammer larger than a human.*  
 **Motives & Tactics:** Make a living, overwhelm, slam, topple
 
 > **Difficulty:** 15 | **Thresholds:** 12/28 | **HP:** 7 | **Stress:** 4  

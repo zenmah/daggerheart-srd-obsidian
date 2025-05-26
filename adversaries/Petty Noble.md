@@ -1,6 +1,7 @@
 # PETTY NOBLE
 
-**Tier 1 Social:** *A richly dressed and adorned aristocrat brimming with hubris.*  
+***Tier 1 Social***  
+*A richly dressed and adorned aristocrat brimming with hubris.*  
 **Motives & Tactics:** Abuse power, gather resources, mobilize minions
 
 > **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 3 | **Stress:** 5  

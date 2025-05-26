@@ -1,6 +1,7 @@
 # MASKED THIEF
 
-**Tier 2 Skulk:** *A cunning thief with acrobatic skill and a flair for the dramatic.*  
+***Tier 2 Skulk***  
+*A cunning thief with acrobatic skill and a flair for the dramatic.*  
 **Motives & Tactics:** Evade, hide, pilfer, profit
 
 > **Difficulty:** 14 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 5  

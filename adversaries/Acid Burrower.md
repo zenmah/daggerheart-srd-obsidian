@@ -1,6 +1,7 @@
 # ACID BURROWER
 
-**Tier 1 Solo:** *A horse-sized insect with digging claws and acidic blood.*  
+***Tier 1 Solo***  
+*A horse-sized insect with digging claws and acidic blood.*  
 **Motives & Tactics:** Burrow, drag away, feed, reposition
 
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3  

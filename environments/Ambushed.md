@@ -1,6 +1,7 @@
 # AMBUSHED
 
-**Tier 1 Event:** *An ambush is set to catch an unsuspecting party off-guard.*  
+***Tier 1 Event***  
+*An ambush is set to catch an unsuspecting party off-guard.*  
 **Impulses:** Overwhelm, scatter, surround
 
 > **Difficulty:** Special (see “Relative Strength”)  

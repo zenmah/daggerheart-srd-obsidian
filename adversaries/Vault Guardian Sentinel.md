@@ -1,6 +1,7 @@
 # VAULT GUARDIAN SENTINEL
 
-**Tier 3 Bruiser:** *A dust-covered golden construct with boxy limbs and a huge mace for a hand.*  
+***Tier 3 Bruiser***  
+*A dust-covered golden construct with boxy limbs and a huge mace for a hand.*  
 **Motives & Tactics:** Destroy at any cost, expunge, protect
 
 > **Difficulty:** 17 | **Thresholds:** 21/40 | **HP:** 6 | **Stress:** 3  

@@ -1,6 +1,7 @@
 # SPY
 
-**Tier 2 Social:** *A skilled espionage agent with a knack for being in the right place to overhear secrets.*  
+***Tier 2 Social***  
+*A skilled espionage agent with a knack for being in the right place to overhear secrets.*  
 **Motives & Tactics:** Cut and run, disguise appearance, eavesdrop
 
 > **Difficulty:** 15 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 3  

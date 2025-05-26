@@ -1,6 +1,7 @@
 # SKELETON DREDGE
 
-**Tier 1 Minion:** *A clattering pile of bones.*  
+***Tier 1 Minion***  
+*A clattering pile of bones.*  
 **Motives & Tactics:** Fall apart, overwhelm, play dead, steal skin
 
 > **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  

@@ -1,6 +1,7 @@
 # BURNING HEART OF THE WOODS
 
-**Tier 3 Exploration:** *Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue.*  
+***Tier 3 Exploration***  
+*Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue.*  
 **Impulses:** Beat out an uncanny rhythm for all to follow, corrupt the woods
 
 > **Difficulty:** 16  

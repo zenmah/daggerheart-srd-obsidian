@@ -1,6 +1,7 @@
 # DEMON OF HUBRIS
 
-**Tier 3 Leader:** *A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.*  
+***Tier 3 Leader***  
+*A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.*  
 **Motives & Tactics:** Condescend, declare premature victory, prove superiority
 
 > **Difficulty:** 19 | **Thresholds:** 20/36 | **HP:** 7 | **Stress:** 5  

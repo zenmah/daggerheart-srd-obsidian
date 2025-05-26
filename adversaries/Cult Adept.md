@@ -1,6 +1,7 @@
 # CULT ADEPT
 
-**Tier 2 Support:** *An experienced mage wielding shadow and fear.*  
+***Tier 2 Support***  
+*An experienced mage wielding shadow and fear.*  
 **Motives & Tactics:** Curry favor, hinder foes, uncover knowledge
 
 > **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 6  

@@ -1,6 +1,7 @@
 # JUVENILE FLICKERFLY
 
-**Tier 2 Solo:** *A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.*  
+***Tier 2 Solo***  
+*A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.*  
 **Motives & Tactics:** Collect shiny things, hunt, swoop
 
 > **Difficulty:** 14 | **Thresholds:** 13/26 | **HP:** 10 | **Stress:** 5  

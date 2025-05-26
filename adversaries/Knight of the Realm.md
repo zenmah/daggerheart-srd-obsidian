@@ -1,6 +1,7 @@
 # KNIGHT OF THE REALM
 
-**Tier 2 Leader:** *A decorated soldier with heavy armor and a powerful steed.*  
+***Tier 2 Leader***  
+*A decorated soldier with heavy armor and a powerful steed.*  
 **Motives & Tactics:** Run down, seek glory, show dominance
 
 > **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  

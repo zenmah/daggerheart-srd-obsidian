@@ -1,6 +1,7 @@
 # YOUNG ICE DRAGON
 
-**Tier 3 Solo:** *A glacier-blue dragon with four powerful limbs and frost-tinged wings.*  
+***Tier 3 Solo***  
+*A glacier-blue dragon with four powerful limbs and frost-tinged wings.*  
 **Motives & Tactics:** Avalanche, defend lair, fly, freeze, defend what is mine, maul
 
 > **Difficulty:** 18 | **Thresholds:** 21/41 | **HP:** 10 | **Stress:** 6  

@@ -1,6 +1,7 @@
 # FALLEN SORCERER
 
-**Tier 4 Support:** *Warped mage bound by the bargains they made in life.*  
+***Tier 4 Support***  
+*Warped mage bound by the bargains they made in life.*  
 **Motives & Tactics:** Acquire, dishearten, dominate, torment
 
 > **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5  

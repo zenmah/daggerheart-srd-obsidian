@@ -1,6 +1,7 @@
 # CONSTRUCT
 
-**Tier 1 Solo:** *A roughly humanoid being of stone and steel, assembled and animated by magic.*  
+***Tier 1 Solo***  
+*A roughly humanoid being of stone and steel, assembled and animated by magic.*  
 **Motives & Tactics:** Destroy environment, serve creator, smash target, trample groups
 
 > **Difficulty:** 13 | **Thresholds:** 7/15 | **HP:** 9 | **Stress:** 4  

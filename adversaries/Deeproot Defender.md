@@ -1,6 +1,7 @@
 # DEEPROOT DEFENDER
 
-**Tier 1 Bruiser:** *A burly vegetable-person with grasping vines.*  
+***Tier 1 Bruiser***  
+*A burly vegetable-person with grasping vines.*  
 **Motives & Tactics:** Ambush, grab, protect, pummel
 
 > **Difficulty:** 10 | **Thresholds:** 8/14 | **HP:** 7 | **Stress:** 3  

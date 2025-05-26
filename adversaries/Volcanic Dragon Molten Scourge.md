@@ -1,6 +1,7 @@
 # VOLCANIC DRAGON: MOLTEN SCOURGE
 
-**Tier 4 Solo:** *Engaged by their wounds, the dragon bursts into molten lava.*  
+***Tier 4 Solo***  
+*Engaged by their wounds, the dragon bursts into molten lava.*  
 **Motives & Tactics:** Douse with lava, incinerate, repel invaders, respawn
 
 > **Difficulty:** 20 | **Thresholds:** 30/58 | **HP:** 7 | **Stress:** 5  

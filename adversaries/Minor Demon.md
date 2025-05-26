@@ -1,6 +1,7 @@
 # MINOR DEMON
 
-**Tier 1 Solo:** *A crimson-hued creature from the Circles Below, consumed by rage against all mortals.*  
+***Tier 1 Solo***  
+*A crimson-hued creature from the Circles Below, consumed by rage against all mortals.*  
 **Motives & Tactics:** Act erratically, corral targets, relish pain, torment
 
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 4  

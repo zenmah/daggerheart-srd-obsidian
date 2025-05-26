@@ -1,6 +1,7 @@
 # SPECTRAL CAPTAIN
 
-**Tier 2 Leader:** *A ghostly commander leading their troops beyond death.*  
+***Tier 2 Leader***  
+*A ghostly commander leading their troops beyond death.*  
 **Motives & Tactics:** Move through solid objects, rally troops, rehash old battles
 
 > **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  

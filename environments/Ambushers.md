@@ -1,6 +1,7 @@
 # AMBUSHERS
 
-**Tier 1 Event:** *An ambush is set by the PCs to catch unsuspecting adversaries off-guard.*  
+***Tier 1 Event***  
+*An ambush is set by the PCs to catch unsuspecting adversaries off-guard.*  
 **Impulses:** Escape, group up, protect the most vulnerable
 
 > **Difficulty:** Special (see “Relative Strength”)  

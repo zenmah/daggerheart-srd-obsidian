@@ -1,6 +1,7 @@
 # ELEMENTAL SPARK
 
-**Tier 3 Minion:** *A blazing mote of elemental fire.*  
+***Tier 3 Minion***  
+*A blazing mote of elemental fire.*  
 **Motives & Tactics:** Blast, consume, gain mass
 
 > **Difficulty:** 15 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
