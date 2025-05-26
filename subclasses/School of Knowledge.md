@@ -18,7 +18,7 @@ Knowledge
 
 ***Perfect Recall:*** Once per rest, when you recall a domain card in your vault, you can reduce its Recall Cost by 1.
 
-## MASTERY FEATURE
+## MASTERY FEATURES
 
 ***Brilliant:*** Take an additional domain card of your level or lower from a domain you have access to.
 

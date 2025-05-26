@@ -3,6 +3,12 @@ import os
 import re
 from jinja2 import Template
 from titlecase import titlecase
+from urllib.parse import quote
+
+
+# Register a custom filter
+def url_encode(value):
+    return quote(value, safe="")
 
 
 def normalize_key(key):
@@ -32,7 +38,8 @@ def process_csv_to_md(csv_file, template_file, output_dir, feature_count=7):
                     features.append({"name": fname.strip(), "desc": fdesc.strip()})
             row["features"] = features
             filename = safe_filename(row["Name"])
-            content = template.render(**row)
+            content = template.render(**row, url_encode=url_encode)
+            content = content.strip() + "\n"
             with open(f"{output_dir}/{filename}.md", "w", encoding="utf-8") as outfile:
                 outfile.write(content)
                 print(filename)
@@ -40,12 +47,15 @@ def process_csv_to_md(csv_file, template_file, output_dir, feature_count=7):
 
 # List your jobs: (csv, template, output_dir)
 jobs = [
-    ("csv/adversaries.csv", "md/adversaries.md", "adversaries"),
-    ("csv/environments.csv", "md/environments.md", "environments"),
     ("csv/abilities.csv", "md/abilities.md", "abilities"),
-    ("csv/consumables.csv", "md/consumables.md", "consumables"),
-    ("csv/items.csv", "md/items.md", "items"),
+    ("csv/adversaries.csv", "md/adversaries.md", "adversaries"),
     ("csv/armor.csv", "md/armor.md", "armor"),
+    ("csv/classes.csv", "md/classes.md", "classes"),
+    ("csv/communities.csv", "md/communities.md", "communities"),
+    ("csv/consumables.csv", "md/consumables.md", "consumables"),
+    ("csv/environments.csv", "md/environments.md", "environments"),
+    ("csv/items.csv", "md/items.md", "items"),
+    ("csv/subclasses.csv", "md/subclasses.md", "subclasses"),
     ("csv/weapons.csv", "md/weapons.md", "weapons"),
 ]
 

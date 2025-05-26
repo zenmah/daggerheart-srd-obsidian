@@ -31,15 +31,30 @@ You are a markdown to csv converter. As I send you markdown text, you must retur
 
 Name,Description,Domain 1,Domain 2,Evasion,HP,Items,Hope Feat Name,Hope Feat Text,Class Feat 1 Name,Class Feat 1 Text,Class Feat 2 Name,Class Feat 2 Text,Class Feat 3 Name,Class Feat 3 Text,Background Question 1,Background Question 2,Background Question 3,Connection 1,Connection 2,Connection 3
 
+## Subclasses CSV Prompt (GPT 4.1)
+
+You are a markdown to csv converter. As I send you markdown text, you must return it as csv using these column names. Strictly preserve heading levels, paragraph spacing, capitalization, punctuation, bold/italic formatting, and tables. Ignore subclass information. Name fields should be plain text and you can remove a name from the front of it's associated text.
+
+Name,Description,Spellcast Trait,Found 1 Name,Found 1 Text,Found 2 Name,Found 2 Text,Spec 1 Name,Spec 1 Text,Spec 2 Name,Spec 2 Text,Mast 1 Name,Mast 1 Text,Mast 2 Name,Mast 2 Text
+
+## Communities CSV Prompt (GPT 4.1)
+
+You are a markdown to csv converter. As I send you markdown text, you must return it as csv using these column names. Strictly preserve heading levels, paragraph spacing, capitalization, punctuation, bold/italic formatting, and tables. Ignore subclass information. Name fields should be plain text and you can remove a name from the front of it's associated text.
+
+Name,Description,Note,Feat Name,Feat Text
+
 ## Overwrite Tables
 
-    pipenv run python detable.py && \
-    rm -Rf ../adversaries && mv adversaries .. && \
-    rm -Rf ../environments && mv environments .. && \
+    pipenv run python downify.py && \
     rm -Rf ../abilities && mv abilities .. && \
-    rm -Rf ../consumables && mv consumables .. && \
-    rm -Rf ../items && mv items .. && \
+    rm -Rf ../adversaries && mv adversaries .. && \
     rm -Rf ../armor && mv armor .. && \
+    rm -Rf ../classes && mv classes .. && \
+    rm -Rf ../communities && mv communities .. && \
+    rm -Rf ../consumables && mv consumables .. && \
+    rm -Rf ../environments && mv environments .. && \
+    rm -Rf ../items && mv items .. && \
+    rm -Rf ../subclasses && mv subclasses .. && \
     rm -Rf ../weapons && mv weapons ..
 
 ## And So Much Cleanup...

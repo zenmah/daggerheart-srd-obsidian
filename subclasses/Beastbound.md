@@ -24,7 +24,7 @@ Take the Ranger Companion sheet. When you level up your character, choose a leve
 
 ***Loyal Friend:*** Once per long rest, when the damage from an attack would mark your companion’s last Stress or your last Hit Point and you’re within Close range of each other, you or your companion can rush to the other’s side and take that damage instead.
 
-## RANGER COMPANION
+# RANGER COMPANION
 
 When you choose the Beastbound Ranger subclass, take a companion sheet. This sheet is for tracking important information about your character’s companion and can be tucked beneath the right side of your character sheet for ease of viewing.
 
