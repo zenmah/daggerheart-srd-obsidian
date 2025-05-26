@@ -2,7 +2,7 @@
 
 *Players can choose one Tier 1 primary weapon during character creation. The GM can make other weapons available throughout the campaign as the PCs level up.*
 
-## TIER 1 (LEVEL%201)
+## TIER 1 (LEVEL 1)
 
 ### Physical Weapons
 
@@ -41,7 +41,7 @@
 | [Wand](../weapons/Wand.md)             | Knowledge | Far        | d6+1 mag   | One-Handed | —                                                                                                                   |
 | [Greatstaff](../weapons/Greatstaff.md)       | Knowledge | Very Far   | d6 mag     | Two-Handed | ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.                |
 
-## TIER 2 (LEVELS%202–4)
+## TIER 2 (LEVELS 2–4)
 
 ### Physical Weapons
 
@@ -98,7 +98,7 @@
 | [Wand of Enthrallment](../weapons/Wand%20of%20Enthrallment.md)           | Presence  | Far        | d6+4 mag   | One-Handed | ***Persuasive:*** Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result.                                                                          |
 | [Keeper’s Staff](../weapons/Keepers%20Staff.md)                          | Knowledge | Far        | d6+4 mag   | Two-Handed | ***Reliable:*** +1 to attack rolls                                                                                                                                                  |
 
-## TIER 3 (LEVELS%205–7)
+## TIER 3 (LEVELS 5–7)
 
 ### Physical Weapons
 
@@ -134,9 +134,9 @@
 
 *All magic weapons require a Spellcast trait*
 
-***(currently%20missing%20from%20SRD%201.0)***
+***(currently missing from SRD 1.0)***
 
-## TIER 4 (LEVELS%208–10)
+## TIER 4 (LEVELS 8–10)
 
 ### Physical Weapons
 
