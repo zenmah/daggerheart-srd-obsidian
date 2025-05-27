@@ -8,7 +8,6 @@ theme:
     primary: indigo
     accent: indigo
   favicon: favicon.png
-  icon:
-    logo: fontawesome/solid/fire-flame-curved
+  logo: favicon.png
 extra_css:
   - extra.css
