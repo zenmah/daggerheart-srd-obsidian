@@ -4,25 +4,15 @@ Midnight is the domain of shadows and secrecy. Whether by clever tricks, deft ma
 
 ## DOMAIN CARDS
 
-- [Pick and Pull](../abilities/Pick%20and%20Pull.md)
-- [Rain of Blades](../abilities/Rain%20of%20Blades.md)
-- [Uncanny Disguise](../abilities/Uncanny%20Disguise.md)
-- [Midnight Spirit](../abilities/Midnight%20Spirit.md)
-- [Shadowwind](../abilities/Shadowwind.md)
-- [Chokehold](../abilities/Chokehold.md)
-- [Veil of Night](../abilities/Veil%20of%20Night.md)
-- [Stealth Expertise](../abilities/Stealth%20Expertise.md)
-- [Glyph of Nightfall](../abilities/Glyph%20of%20Nightfall.md)
-- [Hush](../abilities/Hush.md)
-- [Phantom Retreat](../abilities/Phantom%20Retreat.md)
-- [Dark Whispers](../abilities/Dark%20Whispers.md)
-- [Mass Disguise](../abilities/Mass%20Disguise.md)
-- [Midnight-Touched](../abilities/Midnight-Touched.md)
-- [Vanishing Dodge](../abilities/Vanishing%20Dodge.md)
-- [Shadowhunter](../abilities/Shadowhunter.md)
-- [Spellcharge](../abilities/Spellcharge.md)
-- [Night Terror](../abilities/Night%20Terror.md)
-- [Twilight Toll](../abilities/Twilight%20Toll.md)
-- [Eclipse](../abilities/Eclipse.md)
-- [Specter of The Dark](../abilities/Specter%20of%20the%20Dark.md)
-- [Gifted Tracker](../abilities/Gifted%20Tracker.md)
+| **Level** | **Option 1**                                             | **Option 2**                                                     | **Option 3**                                           |
+| :-------: | -------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
+|   **1**   | [Pick and Pull](../abilities/Pick%20and%20Pull.md)       | [Rain of Blades](../abilities/Rain%20of%20Blades.md)             | [Uncanny Disguise](../abilities/Uncanny%20Disguise.md) |
+|   **2**   | [Midnight Spirit](../abilities/Midnight%20Spirit.md)     | [Shadowwind](../abilities/Shadowwind.md)                         |                                                        |
+|   **3**   | [Chokehold](../abilities/Chokehold.md)                   | [Veil of Night](../abilities/Veil%20of%20Night.md)               |                                                        |
+|   **4**   | [Stealth Expertise](../abilities/Stealth%20Expertise.md) | [Glyph of Nightfall](../abilities/Glyph%20of%20Nightfall.md)     |                                                        |
+|   **5**   | [Hush](../abilities/Hush.md)                             | [Phantom Retreat](../abilities/Phantom%20Retreat.md)             |                                                        |
+|   **6**   | [Dark Whispers](../abilities/Dark%20Whispers.md)         | [Mass Disguise](../abilities/Mass%20Disguise.md)                 |                                                        |
+|   **7**   | [Midnight-Touched](../abilities/Midnight-Touched.md)     | [Vanishing Dodge](../abilities/Vanishing%20Dodge.md)             |                                                        |
+|   **8**   | [Shadowhunter](../abilities/Shadowhunter.md)             | [Spellcharge](../abilities/Spellcharge.md)                       |                                                        |
+|   **9**   | [Night Terror](../abilities/Night%20Terror.md)           | [Twilight Toll](../abilities/Twilight%20Toll.md)                 |                                                        |
+|  **10**   | [Eclipse](../abilities/Eclipse.md)                       | [Specter of The Dark](../abilities/Specter%20of%20the%20Dark.md) |                                                        |
