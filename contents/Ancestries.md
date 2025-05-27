@@ -17,10 +17,10 @@ If you’d like to make a character who combines more than one ancestry, see “
 **The 18 Ancestries are:**
 
 - [Clank](../ancestries/Clank.md)
-- [Dracona](../ancestries/Dracona.md)
+- [Drakona](../ancestries/Drakona.md)
 - [Dwarf](../ancestries/Dwarf.md)
 - [Elf](../ancestries/Elf.md)
-- [Farie](../ancestries/Farie.md)
+- [Faerie](../ancestries/Faerie.md)
 - [Faun](../ancestries/Faun.md)
 - [Firbolg](../ancestries/Firbolg.md)
 - [Fungril](../ancestries/Fungril.md)
@@ -32,7 +32,7 @@ If you’d like to make a character who combines more than one ancestry, see “
 - [Infernis](../ancestries/Infernis.md)
 - [Katari](../ancestries/Katari.md)
 - [Orc](../ancestries/Orc.md)
-- [Ribbit](../ancestries/Ribbit.md)
+- [Ribbet](../ancestries/Ribbet.md)
 - [Simiah](../ancestries/Simiah.md)
 
 ## MIXED ANCESTRY
