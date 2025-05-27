@@ -1,6 +1,6 @@
-# DAGGERHEART
+# DAGGERHEART SRD
 
-**Welcome to DAGGERHEART,** *a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.*
+***Welcome to DAGGERHEART,*** *a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.*
 
 ## SYSTEM REFERENCE DOCUMENT 1.0
 
@@ -78,3 +78,7 @@ This repository includes materials from the Daggerheart System Reference Documen
 Daggerheart and all related marks are trademarks of Critical Role, LLC and used with permission. This project is not affiliated with, endorsed, or sponsored by Critical Role or Darrington Press.
 
 For full license terms, see: https://www.daggerheart.com/
+
+---
+
+[https://seansbox.github.io/daggerheart-srd/](https://seansbox.github.io/daggerheart-srd/)
