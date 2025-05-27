@@ -1,4 +1,4 @@
-﻿# Abandoned Grove
+﻿# ABANDONED GROVE
 
 ***Tier 1 Exploration***  
 *A former druidic grove lying fallow and fully reclaimed by nature.*  

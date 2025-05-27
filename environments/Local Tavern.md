@@ -1,4 +1,4 @@
-﻿# Local Tavern
+﻿# LOCAL TAVERN
 
 ***Tier 1 Social***  
 *A lively tavern that serves as the social hub for its town.*  

@@ -1,4 +1,4 @@
-﻿# Hallowed Temple
+﻿# HALLOWED TEMPLE
 
 ***Tier 2 Social***  
 *A bustling yet well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph.*  

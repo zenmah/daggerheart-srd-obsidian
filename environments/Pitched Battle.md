@@ -1,4 +1,4 @@
-﻿# Pitched Battle
+﻿# PITCHED BATTLE
 
 ***Tier 3 Event***  
 *A massive combat between two large groups of armed combatants.*  
