@@ -53,6 +53,8 @@ Name,Description,Note,Feat Name,Feat Text
 
 ## Generate JSON Data and Markdown Pages
 
+    pipenv install
+    pipenv run python checknewlines.py
     pipenv run python jsonify.py
     pipenv run python downify.py
 
