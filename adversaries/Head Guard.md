@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 7/13 | **HP:** 7 | **Stress:** 3  
 > **ATK:** +4 | **Mace:** Melee | 1d10+4 phy  
+> **Experience:** Commander +2, Local Knowledge +2
 
 ## FEATURES
 

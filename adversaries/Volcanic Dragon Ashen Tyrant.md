@@ -6,6 +6,7 @@
 
 > **Difficulty:** 18 | **Thresholds:** 29/55 | **HP:** 8 | **Stress:** 5  
 > **ATK:** +10 | **Claws and Teeth:** Close | 4d12+15 phy  
+> **Experience:** Hunt from Above +5
 
 ## FEATURES
 

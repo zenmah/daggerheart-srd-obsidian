@@ -6,6 +6,7 @@
 
 > **Difficulty:** 18 | **Thresholds:** 35/58 | **HP:** 11 | **Stress:** 5  
 > **ATK:** +8 | **Heart-Shattering Sword:** Very Close | 4d12+13 phy  
+> **Experience:** Conquest +3, History +2, Intimidation +3
 
 ## FEATURES
 

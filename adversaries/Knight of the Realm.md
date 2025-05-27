@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  
 > **ATK:** +4 | **Longsword:** Melee | 2d10+4 phy  
+> **Experience:** Ancient Knowledge +3, High Society +2, Tactics +2
 
 ## FEATURES
 

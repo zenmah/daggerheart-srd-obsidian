@@ -6,6 +6,7 @@
 
 > **Difficulty:** 17 | **Thresholds:** 17/30 | **HP:** 6 | **Stress:** 6  
 > **ATK:** +4 | **Psychic Assault:** Far | 3d8+3 mag  
+> **Experience:** Manipulation +3
 
 ## FEATURES
 

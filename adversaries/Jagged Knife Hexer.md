@@ -6,6 +6,7 @@
 
 > **Difficulty:** 13 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 4  
 > **ATK:** +2 | **Staff:** Far | 1d6+2 mag  
+> **Experience:** Magical Knowledge +2
 
 ## FEATURES
 

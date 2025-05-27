@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 3  
 > **ATK:** +2 | **Toothy Maw:** Very Close | 2d12+1 phy  
+> **Experience:** Sense of Smell +3
 
 ## FEATURES
 

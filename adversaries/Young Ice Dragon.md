@@ -6,6 +6,7 @@
 
 > **Difficulty:** 18 | **Thresholds:** 21/41 | **HP:** 10 | **Stress:** 6  
 > **ATK:** +7 | **Bite and Claws:** Close | 4d10 phy  
+> **Experience:** Protect What Is Mine +3
 
 ## FEATURES
 

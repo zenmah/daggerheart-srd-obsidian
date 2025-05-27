@@ -6,6 +6,7 @@
 
 > **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 3  
 > **ATK:** -4 | **Club:** Melee | 1d4+1 phy  
+> **Experience:** Shrewd Negotiator +3
 
 ## FEATURES
 

@@ -6,6 +6,7 @@
 
 > **Difficulty:** 10 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 2  
 > **ATK:** +1 | **Longbow:** Far | 1d8+3 phy  
+> **Experience:** Local Knowledge +3
 
 ## FEATURES
 

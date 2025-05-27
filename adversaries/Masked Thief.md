@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 5  
 > **ATK:** +3 | **Backsword:** Melee | 2d8+3 phy  
+> **Experience:** Acrobatics +3
 
 ## FEATURES
 

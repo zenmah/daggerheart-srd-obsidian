@@ -1,42 +1,34 @@
-# {{ Name|upper }}
+# {{ name|upper }}
 
-{{ Description }}
+{{ description }}
 
-> **• DOMAINS:** [{{ Domain_1 }}](../domains/{{ url_encode(Domain_1) }}.md) & [{{ Domain_2 }}](../domains/{{ url_encode(Domain_2) }}.md)  
-> **• STARTING EVASION:** {{ Evasion }}  
-> **• STARTING HIT POINTS:** {{ HP }}  
-> **• CLASS ITEMS:** {{ Items }}
+> **• DOMAINS:** [{{ domain_1 }}](../domains/{{ url_encode(domain_1) }}.md) & [{{ domain_2 }}](../domains/{{ url_encode(domain_2) }}.md)  
+> **• STARTING EVASION:** {{ evasion }}  
+> **• STARTING HIT POINTS:** {{ hp }}  
+> **• CLASS ITEMS:** {{ items }}
 
-## {{ Name|upper }}’S HOPE FEATURE
+## {{ name|upper }}’S HOPE FEATURE
 
-***{{ Hope_Feat_Name }}:*** {{ Hope_Feat_Text }}
+***{{ hope_feat_name }}:*** {{ hope_feat_text }}
 
-## CLASS FEATURE{% if Class_Feat_2_Name %}S{% endif %}
+## CLASS FEATURE{% if class_feats|length > 1 %}S{% endif %}
+{% for feat in class_feats %}
+***{{ feat.name }}:*** {{ feat.text }}
+{% endfor %}
+## {{ name|upper }} SUBCLASSES
 
-***{{ Class_Feat_1_Name }}:*** {{ Class_Feat_1_Text }}{% if Class_Feat_2_Name %}
-
-***{{ Class_Feat_2_Name }}:*** {{ Class_Feat_2_Text }}{% endif %}{% if Class_Feat_3_Name %}
-
-***{{ Class_Feat_3_Name }}:*** {{ Class_Feat_3_Text }}{% endif %}
-
-## {{ Name|upper }} SUBCLASSES
-
-Choose either the **[{{ Subclass_1 }}](../subclasses/{{ url_encode(Subclass_1) }}.md)** or **[{{ Subclass_2 }}](../subclasses/{{ url_encode(Subclass_2) }}.md)** subclass.
+Choose either the **[{{ subclass_1 }}](../subclasses/{{ url_encode(subclass_1) }}.md)** or **[{{ subclass_2 }}](../subclasses/{{ url_encode(subclass_2) }}.md)** subclass.
 
 ## BACKGROUND QUESTIONS
 
 *Answer any of the following background questions. You can also create your own questions.*
-
-- {{ Background_Question_1 }}
-- {{ Background_Question_2 }}
-- {{ Background_Question_3 }}
+{% for background in backgrounds %}
+- {{ background.question }}{% endfor %}
 
 ## CONNECTIONS
 
 *Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
+{% for connection in connections %}
+- {{ connection.question }}{% endfor %}
 
-- {{ Connection_1 }}
-- {{ Connection_2 }}
-- {{ Connection_3 }}
-
-{{ Extras }}
+{{ extras }}

@@ -6,6 +6,7 @@
 
 > **Difficulty:** 20 | **Thresholds:** 36/66 | **HP:** 8 | **Stress:** 5  
 > **ATK:** +7 | **Barbed Whip:** Close | 4d8+7 phy  
+> **Experience:** Conquest +3, History +2, Intimidation +3
 
 ## FEATURES
 

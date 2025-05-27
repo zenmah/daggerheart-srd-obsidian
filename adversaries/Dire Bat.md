@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +2 | **Claws and Teeth:** Melee | 2d6+7 phy  
+> **Experience:** Bloodthirsty +3
 
 ## FEATURES
 

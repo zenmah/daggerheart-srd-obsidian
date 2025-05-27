@@ -1,4 +1,4 @@
-# AMBUSHERS
+# Ambushers
 
 ***Tier 1 Event***  
 *An ambush is set by the PCs to catch unsuspecting adversaries off-guard.*  

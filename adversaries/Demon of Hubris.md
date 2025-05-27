@@ -6,6 +6,7 @@
 
 > **Difficulty:** 19 | **Thresholds:** 20/36 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +4 | **Perfect Spear:** Very Close | 3d10 phy  
+> **Experience:** Manipulation +2
 
 ## FEATURES
 

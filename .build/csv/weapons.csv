@@ -1,4 +1,4 @@
-﻿Name,Primary or Secondary,Tier,Physical or Magical,Trait,Range,Damage,Burden,Feat Name,Feat Description
+﻿Name,Primary or Secondary,Tier,Physical or Magical,Trait,Range,Damage,Burden,Feat Name,Feat Text
 Broadsword,Primary,1,Physical,Agility,Melee,d8 phy,One-Handed,Reliable,+1 to attack rolls
 Longsword,Primary,1,Physical,Agility,Melee,d8+3 phy,Two-Handed,,
 Battleaxe,Primary,1,Physical,Strength,Melee,d10+3 phy,Two-Handed,,

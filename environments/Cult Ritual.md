@@ -1,4 +1,4 @@
-# CULT RITUAL
+# Cult Ritual
 
 ***Tier 2 Event***  
 *A fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green.*  

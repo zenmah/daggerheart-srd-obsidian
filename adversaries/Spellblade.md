@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 8/14 | **HP:** 6 | **Stress:** 3  
 > **ATK:** +3 | **Empowered Longsword:** Melee | 1d8+4 phy/mag  
+> **Experience:** Magical Knowledge +2
 
 ## FEATURES
 

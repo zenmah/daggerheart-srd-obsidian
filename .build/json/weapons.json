@@ -9,7 +9,7 @@
     "damage": "d8 phy",
     "burden": "One-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Longsword",
@@ -41,7 +41,7 @@
     "damage": "d10+3 phy",
     "burden": "Two-Handed",
     "feat_name": "Massive",
-    "feat_description": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Mace",
@@ -63,7 +63,7 @@
     "damage": "d12+3 phy",
     "burden": "Two-Handed",
     "feat_name": "Heavy",
-    "feat_description": "-1 to Evasion"
+    "feat_text": "-1 to Evasion"
   },
   {
     "name": "Dagger",
@@ -105,7 +105,7 @@
     "damage": "d8 phy",
     "burden": "One-Handed",
     "feat_name": "Quick",
-    "feat_description": "When you make an attack, you can mark a Stress to target another creature within range."
+    "feat_text": "When you make an attack, you can mark a Stress to target another creature within range."
   },
   {
     "name": "Halberd",
@@ -117,7 +117,7 @@
     "damage": "d10+2 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Spear",
@@ -129,7 +129,7 @@
     "damage": "d10+2 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Shortbow",
@@ -161,7 +161,7 @@
     "damage": "d8+3 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Arcane Gauntlets",
@@ -213,7 +213,7 @@
     "damage": "d8 mag",
     "burden": "One-Handed",
     "feat_name": "Returning",
-    "feat_description": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+    "feat_text": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
   },
   {
     "name": "Shortstaff",
@@ -245,7 +245,7 @@
     "damage": "d6 mag",
     "burden": "Two-Handed",
     "feat_name": "Versatile",
-    "feat_description": "This weapon can also be used with these statistics—Presence, Melee, d8."
+    "feat_text": "This weapon can also be used with these statistics—Presence, Melee, d8."
   },
   {
     "name": "Wand",
@@ -267,7 +267,7 @@
     "damage": "d6 mag",
     "burden": "Two-Handed",
     "feat_name": "Powerful",
-    "feat_description": "On a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Improved Broadsword",
@@ -279,7 +279,7 @@
     "damage": "d8+3 phy",
     "burden": "One-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Improved Longsword",
@@ -311,7 +311,7 @@
     "damage": "d10+6 phy",
     "burden": "Two-Handed",
     "feat_name": "Massive",
-    "feat_description": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Improved Mace",
@@ -333,7 +333,7 @@
     "damage": "d12+6 phy",
     "burden": "Two-Handed",
     "feat_name": "Heavy",
-    "feat_description": "-1 to Evasion"
+    "feat_text": "-1 to Evasion"
   },
   {
     "name": "Improved Dagger",
@@ -375,7 +375,7 @@
     "damage": "d8+3 phy",
     "burden": "One-Handed",
     "feat_name": "Quick",
-    "feat_description": "When you make an attack, you can mark a Stress to target another creature within range."
+    "feat_text": "When you make an attack, you can mark a Stress to target another creature within range."
   },
   {
     "name": "Improved Halberd",
@@ -387,7 +387,7 @@
     "damage": "d10+5 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Improved Spear",
@@ -399,7 +399,7 @@
     "damage": "d10+5 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Improved Shortbow",
@@ -431,7 +431,7 @@
     "damage": "d8+6 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Gilded Falchion",
@@ -443,7 +443,7 @@
     "damage": "d10+4 phy",
     "burden": "One-Handed",
     "feat_name": "Powerful",
-    "feat_description": "On a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Knuckle Blades",
@@ -455,7 +455,7 @@
     "damage": "d10+6 phy",
     "burden": "One-Handed",
     "feat_name": "Brutal",
-    "feat_description": "When you roll the maximum value on a damage die, roll an additional damage die."
+    "feat_text": "When you roll the maximum value on a damage die, roll an additional damage die."
   },
   {
     "name": "Urok Broadsword",
@@ -467,7 +467,7 @@
     "damage": "d8+3 phy",
     "burden": "One-Handed",
     "feat_name": "Deadly",
-    "feat_description": "When you deal Severe damage, the target must mark an additional HP."
+    "feat_text": "When you deal Severe damage, the target must mark an additional HP."
   },
   {
     "name": "Bladed Whip",
@@ -479,7 +479,7 @@
     "damage": "d8+3 phy",
     "burden": "One-Handed",
     "feat_name": "Quick",
-    "feat_description": "When you make an attack, you can mark a Stress to target another creature within range."
+    "feat_text": "When you make an attack, you can mark a Stress to target another creature within range."
   },
   {
     "name": "Steelforged Halberd",
@@ -491,7 +491,7 @@
     "damage": "d8+4 phy",
     "burden": "Two-Handed",
     "feat_name": "Scary",
-    "feat_description": "On a successful attack, the target must mark a Stress."
+    "feat_text": "On a successful attack, the target must mark a Stress."
   },
   {
     "name": "War Scythe",
@@ -503,7 +503,7 @@
     "damage": "d8+5 phy",
     "burden": "Two-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Blunderbuss",
@@ -515,7 +515,7 @@
     "damage": "d8+6 phy",
     "burden": "Two-Handed",
     "feat_name": "Reloading",
-    "feat_description": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+    "feat_text": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
   },
   {
     "name": "Greatbow",
@@ -527,7 +527,7 @@
     "damage": "d6+6 phy",
     "burden": "Two-Handed",
     "feat_name": "Powerful",
-    "feat_description": "On a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Finehair Bow",
@@ -539,7 +539,7 @@
     "damage": "d6+5 phy",
     "burden": "Two-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Improved Arcane Gauntlets",
@@ -591,7 +591,7 @@
     "damage": "d8+3 mag",
     "burden": "One-Handed",
     "feat_name": "Returning",
-    "feat_description": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+    "feat_text": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
   },
   {
     "name": "Improved Shortstaff",
@@ -623,7 +623,7 @@
     "damage": "d6+3 mag",
     "burden": "Two-Handed",
     "feat_name": "Versatile",
-    "feat_description": "This weapon can also be used with these statistics—Presence, Melee, d8+3."
+    "feat_text": "This weapon can also be used with these statistics—Presence, Melee, d8+3."
   },
   {
     "name": "Improved Wand",
@@ -645,7 +645,7 @@
     "damage": "d6+3 mag",
     "burden": "Two-Handed",
     "feat_name": "Powerful",
-    "feat_description": "On a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Ego Blade",
@@ -657,7 +657,7 @@
     "damage": "d12+4 mag",
     "burden": "One-Handed",
     "feat_name": "Pompous",
-    "feat_description": "You must have a Presence of 0 or lower to use this weapon."
+    "feat_text": "You must have a Presence of 0 or lower to use this weapon."
   },
   {
     "name": "Casting Sword",
@@ -669,7 +669,7 @@
     "damage": "d10+4 mag",
     "burden": "Two-Handed",
     "feat_name": "Versatile",
-    "feat_description": "This weapon can also be used with these statistics—Knowledge, Far, d6+3."
+    "feat_text": "This weapon can also be used with these statistics—Knowledge, Far, d6+3."
   },
   {
     "name": "Devouring Dagger",
@@ -681,7 +681,7 @@
     "damage": "d8+4 mag",
     "burden": "One-Handed",
     "feat_name": "Scary",
-    "feat_description": "On a successful attack, the target must mark a Stress."
+    "feat_text": "On a successful attack, the target must mark a Stress."
   },
   {
     "name": "Hammer of Exota",
@@ -693,7 +693,7 @@
     "damage": "d8+6 mag",
     "burden": "Two-Handed",
     "feat_name": "Eruptive",
-    "feat_description": "On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage."
+    "feat_text": "On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage."
   },
   {
     "name": "Yutari Bloodbow",
@@ -705,7 +705,7 @@
     "damage": "d6+4 mag",
     "burden": "Two-Handed",
     "feat_name": "Brutal",
-    "feat_description": "When you roll the maximum value on a damage die, roll an additional damage die."
+    "feat_text": "When you roll the maximum value on a damage die, roll an additional damage die."
   },
   {
     "name": "Elder Bow",
@@ -717,7 +717,7 @@
     "damage": "d6+4 mag",
     "burden": "Two-Handed",
     "feat_name": "Powerful",
-    "feat_description": "On a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Scepter of Elias",
@@ -729,7 +729,7 @@
     "damage": "d6+3 mag",
     "burden": "One-Handed",
     "feat_name": "Invigorating",
-    "feat_description": "On a successful attack, roll a d4. On a result of 4, clear a Stress."
+    "feat_text": "On a successful attack, roll a d4. On a result of 4, clear a Stress."
   },
   {
     "name": "Wand of Enthrallment",
@@ -741,7 +741,7 @@
     "damage": "d6+4 mag",
     "burden": "One-Handed",
     "feat_name": "Persuasive",
-    "feat_description": "Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result."
+    "feat_text": "Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result."
   },
   {
     "name": "Keeper’s Staff",
@@ -753,7 +753,7 @@
     "damage": "d6+4 mag",
     "burden": "Two-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Advanced Broadsword",
@@ -765,7 +765,7 @@
     "damage": "d8+6 phy",
     "burden": "One-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Advanced Longsword",
@@ -797,7 +797,7 @@
     "damage": "d10+9 phy",
     "burden": "Two-Handed",
     "feat_name": "Massive",
-    "feat_description": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Advanced Mace",
@@ -819,7 +819,7 @@
     "damage": "d12+9 phy",
     "burden": "Two-Handed",
     "feat_name": "Heavy",
-    "feat_description": "-1 to Evasion"
+    "feat_text": "-1 to Evasion"
   },
   {
     "name": "Advanced Dagger",
@@ -861,7 +861,7 @@
     "damage": "d8+6 phy",
     "burden": "One-Handed",
     "feat_name": "Quick",
-    "feat_description": "When you make an attack, you can mark a Stress to target another creature within range."
+    "feat_text": "When you make an attack, you can mark a Stress to target another creature within range."
   },
   {
     "name": "Advanced Halberd",
@@ -873,7 +873,7 @@
     "damage": "d10+8 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Advanced Spear",
@@ -885,7 +885,7 @@
     "damage": "d10+8 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Advanced Shortbow",
@@ -917,7 +917,7 @@
     "damage": "d8+9 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Flickerfly Blade",
@@ -929,7 +929,7 @@
     "damage": "d8+5 phy",
     "burden": "One-Handed",
     "feat_name": "Sharpening",
-    "feat_description": "Gain a bonus to your damage rolls equal to your Agility."
+    "feat_text": "Gain a bonus to your damage rolls equal to your Agility."
   },
   {
     "name": "Bravesword",
@@ -941,7 +941,7 @@
     "damage": "d12+7 phy",
     "burden": "Two-Handed",
     "feat_name": "Brave",
-    "feat_description": "-1 to Evasion; +3 to Severe damage threshold"
+    "feat_text": "-1 to Evasion; +3 to Severe damage threshold"
   },
   {
     "name": "Hammer of Wrath",
@@ -953,7 +953,7 @@
     "damage": "d10+7 phy",
     "burden": "Two-Handed",
     "feat_name": "Devastating",
-    "feat_description": "Before you make an attack roll, you can mark a Stress to use a d20 as your damage die."
+    "feat_text": "Before you make an attack roll, you can mark a Stress to use a d20 as your damage die."
   },
   {
     "name": "Labrys Axe",
@@ -965,7 +965,7 @@
     "damage": "d10+7 phy",
     "burden": "Two-Handed",
     "feat_name": "Protective",
-    "feat_description": "+1 to Armor Score"
+    "feat_text": "+1 to Armor Score"
   },
   {
     "name": "Meridian Cutlass",
@@ -977,7 +977,7 @@
     "damage": "d10+5 phy",
     "burden": "One-Handed",
     "feat_name": "Dueling",
-    "feat_description": "When there are no other creatures within Close range of the target, gain advantage on your attack roll against them."
+    "feat_text": "When there are no other creatures within Close range of the target, gain advantage on your attack roll against them."
   },
   {
     "name": "Retractable Saber",
@@ -989,7 +989,7 @@
     "damage": "d10+7 phy",
     "burden": "One-Handed",
     "feat_name": "Retractable",
-    "feat_description": "The blade can be hidden in the hilt to avoid detection."
+    "feat_text": "The blade can be hidden in the hilt to avoid detection."
   },
   {
     "name": "Double Flail",
@@ -1001,7 +1001,7 @@
     "damage": "d10+8 phy",
     "burden": "Two-Handed",
     "feat_name": "Powerful",
-    "feat_description": "On a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Talon Blades",
@@ -1013,7 +1013,7 @@
     "damage": "d10+7 phy",
     "burden": "Two-Handed",
     "feat_name": "Brutal",
-    "feat_description": "When you roll the maximum value on a damage die, roll an additional damage die."
+    "feat_text": "When you roll the maximum value on a damage die, roll an additional damage die."
   },
   {
     "name": "Black Powder Revolver",
@@ -1025,7 +1025,7 @@
     "damage": "d6+8 phy",
     "burden": "One-Handed",
     "feat_name": "Reloading",
-    "feat_description": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+    "feat_text": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
   },
   {
     "name": "Spiked Bow",
@@ -1037,7 +1037,7 @@
     "damage": "d6+7 phy",
     "burden": "Two-Handed",
     "feat_name": "Versatile",
-    "feat_description": "This weapon can also be used with these statistics—Agility, Melee, d10+5."
+    "feat_text": "This weapon can also be used with these statistics—Agility, Melee, d10+5."
   },
   {
     "name": "Legendary Broadsword",
@@ -1049,7 +1049,7 @@
     "damage": "d8+9 phy",
     "burden": "One-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Legendary Longsword",
@@ -1081,7 +1081,7 @@
     "damage": "d10+12 phy",
     "burden": "Two-Handed",
     "feat_name": "Massive",
-    "feat_description": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "-1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Legendary Mace",
@@ -1103,7 +1103,7 @@
     "damage": "d12+12 phy",
     "burden": "Two-Handed",
     "feat_name": "Heavy",
-    "feat_description": "-1 to Evasion"
+    "feat_text": "-1 to Evasion"
   },
   {
     "name": "Legendary Dagger",
@@ -1145,7 +1145,7 @@
     "damage": "d8+9 phy",
     "burden": "One-Handed",
     "feat_name": "Quick",
-    "feat_description": "When you make an attack, you can mark a Stress to target another creature within range."
+    "feat_text": "When you make an attack, you can mark a Stress to target another creature within range."
   },
   {
     "name": "Legendary Halberd",
@@ -1157,7 +1157,7 @@
     "damage": "d10+11 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Legendary Spear",
@@ -1169,7 +1169,7 @@
     "damage": "d10+11 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Legendary Shortbow",
@@ -1201,7 +1201,7 @@
     "damage": "d8+12 phy",
     "burden": "Two-Handed",
     "feat_name": "Cumbersome",
-    "feat_description": "-1 to Finesse"
+    "feat_text": "-1 to Finesse"
   },
   {
     "name": "Dual-Ended Sword",
@@ -1213,7 +1213,7 @@
     "damage": "d10+9 phy",
     "burden": "Two-Handed",
     "feat_name": "Quick",
-    "feat_description": "When you make an attack, you can mark a Stress to target another creature within range."
+    "feat_text": "When you make an attack, you can mark a Stress to target another creature within range."
   },
   {
     "name": "Impact Gauntlet",
@@ -1225,7 +1225,7 @@
     "damage": "d10+11 phy",
     "burden": "One-Handed",
     "feat_name": "Concussive",
-    "feat_description": "On a successful attack, you can spend a Hope to knock the target back to Far range."
+    "feat_text": "On a successful attack, you can spend a Hope to knock the target back to Far range."
   },
   {
     "name": "Sledge Axe",
@@ -1237,7 +1237,7 @@
     "damage": "d12+13 phy",
     "burden": "Two-Handed",
     "feat_name": "Destructive",
-    "feat_description": "-1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress."
+    "feat_text": "-1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress."
   },
   {
     "name": "Curved Dagger",
@@ -1249,7 +1249,7 @@
     "damage": "d8+9 phy",
     "burden": "One-Handed",
     "feat_name": "Serrated",
-    "feat_description": "When you roll a 1 on a damage die, it deals 8 damage instead."
+    "feat_text": "When you roll a 1 on a damage die, it deals 8 damage instead."
   },
   {
     "name": "Extended Polearm",
@@ -1261,7 +1261,7 @@
     "damage": "d8+10 phy",
     "burden": "Two-Handed",
     "feat_name": "Long",
-    "feat_description": "This weapon’s attack targets all adversaries in a line within range."
+    "feat_text": "This weapon’s attack targets all adversaries in a line within range."
   },
   {
     "name": "Swinging Ropeblade",
@@ -1273,7 +1273,7 @@
     "damage": "d8+9 phy",
     "burden": "One-Handed",
     "feat_name": "Grappling",
-    "feat_description": "On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you."
+    "feat_text": "On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you."
   },
   {
     "name": "Ricochet Axes",
@@ -1285,7 +1285,7 @@
     "damage": "d6+11 phy",
     "burden": "Two-Handed",
     "feat_name": "Bouncing",
-    "feat_description": "Mark 1 or more Stress to hit that many targets in range of the attack."
+    "feat_text": "Mark 1 or more Stress to hit that many targets in range of the attack."
   },
   {
     "name": "Aantari Bow",
@@ -1297,7 +1297,7 @@
     "damage": "d6+11 phy",
     "burden": "Two-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Hand Cannon",
@@ -1309,7 +1309,7 @@
     "damage": "d6+12 phy",
     "burden": "One-Handed",
     "feat_name": "Reloading",
-    "feat_description": "After you make an attack, roll a d6. On a 1, you must mark a Stress to reload this weapon before you can fire it again."
+    "feat_text": "After you make an attack, roll a d6. On a 1, you must mark a Stress to reload this weapon before you can fire it again."
   },
   {
     "name": "Legendary Arcane Gauntlets",
@@ -1361,7 +1361,7 @@
     "damage": "d8+9 mag",
     "burden": "One-Handed",
     "feat_name": "Returning",
-    "feat_description": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+    "feat_text": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
   },
   {
     "name": "Legendary Shortstaff",
@@ -1393,7 +1393,7 @@
     "damage": "d6+9 mag",
     "burden": "Two-Handed",
     "feat_name": "Versatile",
-    "feat_description": "This weapon can also be used with these statistics—Presence, Melee, d8+6."
+    "feat_text": "This weapon can also be used with these statistics—Presence, Melee, d8+6."
   },
   {
     "name": "Legendary Wand",
@@ -1415,7 +1415,7 @@
     "damage": "d6+9 mag",
     "burden": "Two-Handed",
     "feat_name": "Powerful",
-    "feat_description": "On a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Sword of Light and Flame",
@@ -1427,7 +1427,7 @@
     "damage": "d10+11 mag",
     "burden": "Two-Handed",
     "feat_name": "Hot",
-    "feat_description": "This weapon cuts through solid material."
+    "feat_text": "This weapon cuts through solid material."
   },
   {
     "name": "Siphoning Gauntlets",
@@ -1439,7 +1439,7 @@
     "damage": "d10+9 mag",
     "burden": "Two-Handed",
     "feat_name": "Lifestealing",
-    "feat_description": "On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress."
+    "feat_text": "On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress."
   },
   {
     "name": "Midas Scythe",
@@ -1451,7 +1451,7 @@
     "damage": "d10+9 mag",
     "burden": "Two-Handed",
     "feat_name": "Greedy",
-    "feat_description": "Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll."
+    "feat_text": "Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll."
   },
   {
     "name": "Floating Bladeshards",
@@ -1463,7 +1463,7 @@
     "damage": "d8+9 mag",
     "burden": "One-Handed",
     "feat_name": "Powerful",
-    "feat_description": "On a successful attack, roll an additional damage die and discard the lowest result."
+    "feat_text": "On a successful attack, roll an additional damage die and discard the lowest result."
   },
   {
     "name": "Bloodstaff",
@@ -1475,7 +1475,7 @@
     "damage": "d20+7 mag",
     "burden": "Two-Handed",
     "feat_name": "Painful",
-    "feat_description": "Each time you make a successful attack, you must mark a Stress."
+    "feat_text": "Each time you make a successful attack, you must mark a Stress."
   },
   {
     "name": "Thistlebow",
@@ -1487,7 +1487,7 @@
     "damage": "d6+13 mag",
     "burden": "Two-Handed",
     "feat_name": "Reliable",
-    "feat_description": "+1 to attack rolls"
+    "feat_text": "+1 to attack rolls"
   },
   {
     "name": "Wand of Essek",
@@ -1499,7 +1499,7 @@
     "damage": "d8+13 mag",
     "burden": "One-Handed",
     "feat_name": "Timebending",
-    "feat_description": "You can choose the target of your attack after making your attack roll."
+    "feat_text": "You can choose the target of your attack after making your attack roll."
   },
   {
     "name": "Magus Revolver",
@@ -1511,7 +1511,7 @@
     "damage": "d6+13 mag",
     "burden": "One-Handed",
     "feat_name": "Reloading",
-    "feat_description": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+    "feat_text": "After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
   },
   {
     "name": "Fusion Gloves",
@@ -1523,7 +1523,7 @@
     "damage": "d6+9 mag",
     "burden": "Two-Handed",
     "feat_name": "Bonded",
-    "feat_description": "Gain a bonus to your damage rolls equal to your level."
+    "feat_text": "Gain a bonus to your damage rolls equal to your level."
   },
   {
     "name": "Shortsword",
@@ -1535,7 +1535,7 @@
     "damage": "d8 phy",
     "burden": "One-Handed",
     "feat_name": "Paired",
-    "feat_description": "+2 to primary weapon damage to targets within Melee range"
+    "feat_text": "+2 to primary weapon damage to targets within Melee range"
   },
   {
     "name": "Round Shield",
@@ -1547,7 +1547,7 @@
     "damage": "d4 phy",
     "burden": "One-Handed",
     "feat_name": "Protective",
-    "feat_description": "+1 to Armor Score"
+    "feat_text": "+1 to Armor Score"
   },
   {
     "name": "Tower Shield",
@@ -1559,7 +1559,7 @@
     "damage": "d6 phy",
     "burden": "One-Handed",
     "feat_name": "Barrier",
-    "feat_description": "+2 to Armor Score; -1 to Evasion"
+    "feat_text": "+2 to Armor Score; -1 to Evasion"
   },
   {
     "name": "Small Dagger",
@@ -1571,7 +1571,7 @@
     "damage": "d8 phy",
     "burden": "One-Handed",
     "feat_name": "Paired",
-    "feat_description": "+2 to primary weapon damage to targets within Melee range"
+    "feat_text": "+2 to primary weapon damage to targets within Melee range"
   },
   {
     "name": "Whip",
@@ -1583,7 +1583,7 @@
     "damage": "d6 phy",
     "burden": "One-Handed",
     "feat_name": "Startling",
-    "feat_description": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+    "feat_text": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
   },
   {
     "name": "Grappler",
@@ -1595,7 +1595,7 @@
     "damage": "d6 phy",
     "burden": "One-Handed",
     "feat_name": "Hooked",
-    "feat_description": "On a successful attack, you can pull the target into Melee range."
+    "feat_text": "On a successful attack, you can pull the target into Melee range."
   },
   {
     "name": "Hand Crossbow",
@@ -1617,7 +1617,7 @@
     "damage": "d8+2 phy",
     "burden": "One-Handed",
     "feat_name": "Paired",
-    "feat_description": "+3 to primary weapon damage to targets within Melee range"
+    "feat_text": "+3 to primary weapon damage to targets within Melee range"
   },
   {
     "name": "Improved Round Shield",
@@ -1629,7 +1629,7 @@
     "damage": "d4+2 phy",
     "burden": "One-Handed",
     "feat_name": "Protective",
-    "feat_description": "+2 to Armor Score"
+    "feat_text": "+2 to Armor Score"
   },
   {
     "name": "Improved Tower Shield",
@@ -1641,7 +1641,7 @@
     "damage": "d6+2 phy",
     "burden": "One-Handed",
     "feat_name": "Barrier",
-    "feat_description": "+3 to Armor Score; -1 to Evasion"
+    "feat_text": "+3 to Armor Score; -1 to Evasion"
   },
   {
     "name": "Improved Small Dagger",
@@ -1653,7 +1653,7 @@
     "damage": "d8+2 phy",
     "burden": "One-Handed",
     "feat_name": "Paired",
-    "feat_description": "+3 to primary weapon damage to targets within Melee range"
+    "feat_text": "+3 to primary weapon damage to targets within Melee range"
   },
   {
     "name": "Improved Whip",
@@ -1665,7 +1665,7 @@
     "damage": "d6+2 phy",
     "burden": "One-Handed",
     "feat_name": "Startling",
-    "feat_description": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+    "feat_text": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
   },
   {
     "name": "Improved Grappler",
@@ -1677,7 +1677,7 @@
     "damage": "d6+2 phy",
     "burden": "One-Handed",
     "feat_name": "Hooked",
-    "feat_description": "On a successful attack, you can pull the target into Melee range."
+    "feat_text": "On a successful attack, you can pull the target into Melee range."
   },
   {
     "name": "Improved Hand Crossbow",
@@ -1699,7 +1699,7 @@
     "damage": "d6+2 phy",
     "burden": "One-Handed",
     "feat_name": "Double Duty",
-    "feat_description": "+1 to Armor Score; +1 to primary weapon damage within Melee range"
+    "feat_text": "+1 to Armor Score; +1 to primary weapon damage within Melee range"
   },
   {
     "name": "Parrying Dagger",
@@ -1711,7 +1711,7 @@
     "damage": "d6+2 phy",
     "burden": "One-Handed",
     "feat_name": "Parry",
-    "feat_description": "When you are attacked, roll this weapon’s damage dice. If any of the attacker’s damage dice rolled the same value as your dice, the matching results are discarded from the attacker’s damage dice before the damage you take is totaled."
+    "feat_text": "When you are attacked, roll this weapon’s damage dice. If any of the attacker’s damage dice rolled the same value as your dice, the matching results are discarded from the attacker’s damage dice before the damage you take is totaled."
   },
   {
     "name": "Returning Axe",
@@ -1723,7 +1723,7 @@
     "damage": "d6+4 phy",
     "burden": "One-Handed",
     "feat_name": "Returning",
-    "feat_description": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+    "feat_text": "When this weapon is thrown within its range, it appears in your hand immediately after the attack."
   },
   {
     "name": "Advanced Shortsword",
@@ -1735,7 +1735,7 @@
     "damage": "d8+4 phy",
     "burden": "One-Handed",
     "feat_name": "Paired",
-    "feat_description": "+4 to primary weapon damage to targets within Melee range"
+    "feat_text": "+4 to primary weapon damage to targets within Melee range"
   },
   {
     "name": "Advanced Round Shield",
@@ -1747,7 +1747,7 @@
     "damage": "d4+4 phy",
     "burden": "One-Handed",
     "feat_name": "Protective",
-    "feat_description": "+3 to Armor Score"
+    "feat_text": "+3 to Armor Score"
   },
   {
     "name": "Advanced Tower Shield",
@@ -1759,7 +1759,7 @@
     "damage": "d6+4 phy",
     "burden": "One-Handed",
     "feat_name": "Barrier",
-    "feat_description": "+4 to Armor Score; –1 to Evasion"
+    "feat_text": "+4 to Armor Score; –1 to Evasion"
   },
   {
     "name": "Advanced Small Dagger",
@@ -1771,7 +1771,7 @@
     "damage": "d8+4 phy",
     "burden": "One-Handed",
     "feat_name": "Paired",
-    "feat_description": "+4 to primary weapon damage to targets within Melee range"
+    "feat_text": "+4 to primary weapon damage to targets within Melee range"
   },
   {
     "name": "Advanced Whip",
@@ -1783,7 +1783,7 @@
     "damage": "d6+4 phy",
     "burden": "One-Handed",
     "feat_name": "Startling",
-    "feat_description": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+    "feat_text": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
   },
   {
     "name": "Advanced Grappler",
@@ -1795,7 +1795,7 @@
     "damage": "d6+4 phy",
     "burden": "One-Handed",
     "feat_name": "Hooked",
-    "feat_description": "On a successful attack, you can pull the target into Melee range."
+    "feat_text": "On a successful attack, you can pull the target into Melee range."
   },
   {
     "name": "Advanced Hand Crossbow",
@@ -1817,7 +1817,7 @@
     "damage": "d4+4 phy",
     "burden": "One-Handed",
     "feat_name": "Deflecting",
-    "feat_description": "When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
+    "feat_text": "When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
   },
   {
     "name": "Powered Gauntlet",
@@ -1829,7 +1829,7 @@
     "damage": "d6+4 phy",
     "burden": "One-Handed",
     "feat_name": "Charged",
-    "feat_description": "Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack."
+    "feat_text": "Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack."
   },
   {
     "name": "Hand Sling",
@@ -1841,7 +1841,7 @@
     "damage": "d6+4 phy",
     "burden": "One-Handed",
     "feat_name": "Versatile",
-    "feat_description": "This weapon can also be used with these statistics—Finesse, Close, d8+4."
+    "feat_text": "This weapon can also be used with these statistics—Finesse, Close, d8+4."
   },
   {
     "name": "Legendary Shortsword",
@@ -1853,7 +1853,7 @@
     "damage": "d8+6 phy",
     "burden": "One-Handed",
     "feat_name": "Paired",
-    "feat_description": "+5 to primary weapon damage to targets within Melee range"
+    "feat_text": "+5 to primary weapon damage to targets within Melee range"
   },
   {
     "name": "Legendary Round Shield",
@@ -1865,7 +1865,7 @@
     "damage": "d4+6 phy",
     "burden": "One-Handed",
     "feat_name": "Protective",
-    "feat_description": "+4 to Armor Score"
+    "feat_text": "+4 to Armor Score"
   },
   {
     "name": "Legendary Tower Shield",
@@ -1877,7 +1877,7 @@
     "damage": "d6+6 phy",
     "burden": "One-Handed",
     "feat_name": "Barrier",
-    "feat_description": "+5 to Armor Score; –1 to Evasion."
+    "feat_text": "+5 to Armor Score; –1 to Evasion."
   },
   {
     "name": "Legendary Small Dagger",
@@ -1889,7 +1889,7 @@
     "damage": "d8+6 phy",
     "burden": "One-Handed",
     "feat_name": "Paired",
-    "feat_description": "+5 to primary weapon damage to targets within Melee range"
+    "feat_text": "+5 to primary weapon damage to targets within Melee range"
   },
   {
     "name": "Legendary Whip",
@@ -1901,7 +1901,7 @@
     "damage": "d6+6 phy",
     "burden": "One-Handed",
     "feat_name": "Startling",
-    "feat_description": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+    "feat_text": "Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
   },
   {
     "name": "Legendary Grappler",
@@ -1913,7 +1913,7 @@
     "damage": "d6+6 phy",
     "burden": "One-Handed",
     "feat_name": "Hooked",
-    "feat_description": "On a successful attack, you can pull the target into Melee range."
+    "feat_text": "On a successful attack, you can pull the target into Melee range."
   },
   {
     "name": "Legendary Hand Crossbow",
@@ -1935,7 +1935,7 @@
     "damage": "d4+6 phy",
     "burden": "One-Handed",
     "feat_name": "Sheltering",
-    "feat_description": "When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage."
+    "feat_text": "When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage."
   },
   {
     "name": "Knuckle Claws",
@@ -1947,7 +1947,7 @@
     "damage": "d6+8 phy",
     "burden": "One-Handed",
     "feat_name": "Doubled Up",
-    "feat_description": "When you make an attack with your primary weapon, you can deal damage to another target within Melee range."
+    "feat_text": "When you make an attack with your primary weapon, you can deal damage to another target within Melee range."
   },
   {
     "name": "Primer Shard",
@@ -1959,6 +1959,6 @@
     "damage": "d4 phy",
     "burden": "One-Handed",
     "feat_name": "Locked On",
-    "feat_description": "On a successful attack, your next attack against the same target with your primary weapon automatically succeeds."
+    "feat_text": "On a successful attack, your next attack against the same target with your primary weapon automatically succeeds."
   }
 ]

@@ -6,6 +6,7 @@
 
 > **Difficulty:** 17 | **Thresholds:** 15/29 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +2 | **Hungry Maw:** Melee | 3d6+5 mag  
+> **Experience:** Manipulation +3
 
 ## FEATURES
 

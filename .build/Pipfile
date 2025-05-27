@@ -11,6 +11,7 @@ pillow = "*"
 mdformat = "*"
 jinja2 = "*"
 titlecase = "*"
+inflect = "*"
 
 [dev-packages]
 

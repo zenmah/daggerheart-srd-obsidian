@@ -6,6 +6,7 @@
 
 > **Difficulty:** 10 | **Thresholds:** 8/15 | **HP:** 7 | **Stress:** 4  
 > **ATK:** +2 | **Slam:** Very Close | 1d12+3 phy  
+> **Experience:** Collateral Damage +2, Throw +4
 
 ## FEATURES
 

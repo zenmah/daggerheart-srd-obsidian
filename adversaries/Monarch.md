@@ -6,6 +6,7 @@
 
 > **Difficulty:** 16 | **Thresholds:** 16/32 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +0 | **Warhammer:** Melee | 3d6+3 phy  
+> **Experience:** History +3, Nobility +3
 
 ## FEATURES
 

@@ -1,4 +1,4 @@
-# BUSTLING MARKETPLACE
+# Bustling Marketplace
 
 ***Tier 1 Social***  
 *The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes.*  

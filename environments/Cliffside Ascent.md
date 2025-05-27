@@ -1,4 +1,4 @@
-# CLIFFSIDE ASCENT
+# Cliffside Ascent
 
 ***Tier 1 Traversal***  
 *A steep, rocky cliffside tall enough to make traversal dangerous.*  

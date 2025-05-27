@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 9/19 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +2 | **Rapier:** Melee | 1d6+2 phy  
+> **Experience:** Nobility +2, Trade +2
 
 ## FEATURES
 

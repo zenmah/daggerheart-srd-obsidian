@@ -1,7 +1,7 @@
-# {{ Name|upper }}
+# {{ name|upper }}
 
-**Base Thresholds:** {{ Base_Thresholds }}; **Base Score:** {{ Base_Score }}
+**Base Thresholds:** {{ base_thresholds }}; **Base Score:** {{ base_score }}
 
-**Feature:** {{ Feature }}
+**Feature:** {% if feat_name %}***{{ feat_name }}:*** {{ feat_text }}{% else %}—{% endif %}
 
-*Armor - Tier {{ Tier }}*
+*Armor - Tier {{ tier }}*

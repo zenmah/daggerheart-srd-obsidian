@@ -6,6 +6,7 @@
 
 > **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 3 | **Stress:** 3  
 > **ATK:** +1 | **Javelin:** Close | 1d6+2 phy  
+> **Experience:** Camouflage +2
 
 ## FEATURES
 

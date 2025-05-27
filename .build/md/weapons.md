@@ -1,7 +1,7 @@
-# {{ Name|upper }}
+# {{ name|upper }}
 
-**Trait:** {{ Trait }}; **Range:** {{ Range }}; **Damage:** {{ Damage }}; **Burden:** {{ Burden }}
+**Trait:** {{ trait }}; **Range:** {{ range }}; **Damage:** {{ damage }}; **Burden:** {{ burden }}
 
-**Feature:** {% if Feat_Name %}***{{ Feat_Name }}:*** {{ Feat_Description }}{% else %}-{% endif %}
+**Feature:** {% if feat_name %}***{{ feat_name }}:*** {{ feat_text }}{% else %}—{% endif %}
 
-*{{ Primary_or_Secondary }} Weapon - Tier {{ Tier }}*
+*{{ primary_or_secondary }} Weapon - Tier {{ tier }}*

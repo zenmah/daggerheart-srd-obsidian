@@ -6,6 +6,7 @@
 
 > **Difficulty:** 16 | **Thresholds:** 24/38 | **HP:** 8 | **Stress:** 5  
 > **ATK:** +4 | **Deadfall Shortbow:** Far | 3d10+1 phy  
+> **Experience:** Forest Knowledge +4
 
 ## FEATURES
 

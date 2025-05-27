@@ -6,6 +6,7 @@
 
 > **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +1 | **Massive Fists:** Melee | 2d6 phy  
+> **Experience:** Sailor +2
 
 ## FEATURES
 

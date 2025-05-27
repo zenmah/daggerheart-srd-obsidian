@@ -1,27 +1,21 @@
-# {{ Name|upper }}
+# {{ name|upper }}
 
-{{ Description }}
-{% if Spellcast_Trait %}
+{{ description }}
+{% if spellcast_trait %}
 ## SPELLCAST TRAIT
 
-{{ Spellcast_Trait }}
+{{ spellcast_trait }}
 {% endif %}
-## FOUNDATION FEATURE{% if Found_2_Name %}S{% endif %}
-
-***{{ Found_1_Name }}:*** {{ Found_1_Text }}{% if Found_2_Name %}
-
-***{{ Found_2_Name }}:*** {{ Found_2_Text }}{% endif %}
-
-## SPECIALIZATION FEATURE{% if Spec_2_Name %}S{% endif %}
-
-***{{ Spec_1_Name }}:*** {{ Spec_1_Text }}{% if Spec_2_Name %}
-
-***{{ Spec_2_Name }}:*** {{ Spec_2_Text }}{% endif %}
-
-## MASTERY FEATURE{% if Mast_2_Name %}S{% endif %}
-
-***{{ Mast_1_Name }}:*** {{ Mast_1_Text }}{% if Mast_2_Name %}
-
-***{{ Mast_2_Name }}:*** {{ Mast_2_Text }}{% endif %}
-
-{{ Extras }}
+## FOUNDATION FEATURE{% if foundations|length > 1 %}S{% endif %}
+{% for feat in foundations %}
+***{{ feat.name }}:*** {{ feat.text }}
+{% endfor %}
+## SPECIALIZATION FEATURE{% if specializations|length > 1 %}S{% endif %}
+{% for feat in specializations %}
+***{{ feat.name }}:*** {{ feat.text }}
+{% endfor %}
+## MASTERY FEATURE{% if masteries|length > 1 %}S{% endif %}
+{% for feat in masteries %}
+***{{ feat.name }}:*** {{ feat.text }}
+{% endfor %}
+{{ extras }}

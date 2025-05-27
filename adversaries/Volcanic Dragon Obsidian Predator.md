@@ -6,6 +6,7 @@
 
 > **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 phy  
+> **Experience:** Hunt from Above +5
 
 ## FEATURES
 

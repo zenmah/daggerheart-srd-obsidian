@@ -6,6 +6,7 @@
 
 > **Difficulty:** 20 | **Thresholds:** 38/68 | **HP:** 11 | **Stress:** 10  
 > **ATK:** +8 | **Psychic Attack:** Far | 4d8+9 mag  
+> **Experience:** Boundless Knowledge +4
 
 ## FEATURES
 

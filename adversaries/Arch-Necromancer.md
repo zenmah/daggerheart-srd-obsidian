@@ -6,6 +6,7 @@
 
 > **Difficulty:** 21 | **Thresholds:** 33/66 | **HP:** 9 | **Stress:** 8  
 > **ATK:** +6 | **Necrotic Blast:** Far | 4d12+8 mag  
+> **Experience:** Forbidden Knowledge +3, Wisdom of Centuries +3
 
 ## FEATURES
 

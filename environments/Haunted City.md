@@ -1,4 +1,4 @@
-# HAUNTED CITY
+# Haunted City
 
 ***Tier 2 Exploration***  
 *An abandoned city populated by the restless spirits of eras past.*  

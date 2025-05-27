@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 3  
 > **ATK:** -2 | **Dagger:** Melee | 2d6+3 phy  
+> **Experience:** Espionage +3
 
 ## FEATURES
 

@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 12/25 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +5 | **Serrated Dagger:** Close | 2d10+2 phy  
+> **Experience:** Command +3, Intrusion +3
 
 ## FEATURES
 

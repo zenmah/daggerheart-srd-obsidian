@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 13/25 | **HP:** 9 | **Stress:** 3  
 > **ATK:** +4 | **Sinew Shortbow:** Far | 2d20+3 mag  
+> **Experience:** Instinct +3
 
 ## FEATURES
 

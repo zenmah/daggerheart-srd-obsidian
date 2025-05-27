@@ -1,4 +1,4 @@
-# DIVINE USURPATION
+# Divine Usurpation
 
 ***Tier 4 Event***  
 *A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves.*  

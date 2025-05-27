@@ -6,6 +6,7 @@
 
 > **Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8  
 > **ATK:** +7 | **Tentacles:** Close | 4d12+10 phy  
+> **Experience:** Swimming +3
 
 ## FEATURES
 

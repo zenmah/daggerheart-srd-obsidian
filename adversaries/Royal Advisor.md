@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 3 | **Stress:** 3  
 > **ATK:** -3 | **Wand:** Far | 1d4+3 phy  
+> **Experience:** Administration +3, Courtier +3
 
 ## FEATURES
 

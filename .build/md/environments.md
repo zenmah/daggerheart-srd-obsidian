@@ -1,13 +1,13 @@
-# {{ Name }}
+# {{ name }}
 
-***Tier {{ Tier }} {{ Type }}***  
-*{{ Description }}*  
-**Impulses:** {{ Impulses }}
+***Tier {{ tier }} {{ type }}***  
+*{{ description }}*  
+**Impulses:** {{ impulses }}
 
-> **Difficulty:** {{ Difficulty }}  
-> **Potential Adversaries:** {{ Potential_Adversaries }}
+> **Difficulty:** {{ difficulty }}  
+> **Potential Adversaries:** {{ potential_adversaries }}
 
 ## FEATURES
-{% for feature in features %}
-***{{ feature.name }}:*** {{ feature.desc }}
+{% for feat in feats %}
+***{{ feat.name }}:*** {{ feat.text }}
 {% endfor %}

@@ -1,4 +1,4 @@
-# NECROMANCER’S OSSUARY
+# Necromancer’s Ossuary
 
 ***Tier 4 Exploration***  
 *A dusty crypt with a library, twisting corridors, and abundant sarcophagi; spattered with the blood of ill-fated invaders.*  

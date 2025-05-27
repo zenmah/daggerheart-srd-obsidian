@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 15/30 | **HP:** 7 | **Stress:** 4  
 > **ATK:** +3 | **Ooze Appendage:** Melee | 3d8+1 mag  
+> **Experience:** Blend In +3
 
 ## FEATURES
 

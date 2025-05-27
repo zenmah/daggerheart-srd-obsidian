@@ -6,6 +6,7 @@
 
 > **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 mag  
+> **Experience:** Ancient Knowledge +2
 
 ## FEATURES
 

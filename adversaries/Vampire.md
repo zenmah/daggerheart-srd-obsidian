@@ -6,6 +6,7 @@
 
 > **Difficulty:** 16 | **Thresholds:** 18/35 | **HP:** 5 | **Stress:** 4  
 > **ATK:** +3 | **Rapier:** Melee | 3d8 phy  
+> **Experience:** Nocturnal Hunter +3
 
 ## FEATURES
 

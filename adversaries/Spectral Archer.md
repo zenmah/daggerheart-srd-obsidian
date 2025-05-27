@@ -6,6 +6,7 @@
 
 > **Difficulty:** 13 | **Thresholds:** 6/14 | **HP:** 3 | **Stress:** 3  
 > **ATK:** +3 | **Longbow:** Far | 2d10+2 phy  
+> **Experience:** Ancient Knowledge +2
 
 ## FEATURES
 

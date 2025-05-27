@@ -6,6 +6,7 @@
 
 > **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 4 | **Stress:** 2  
 > **ATK:** 0 | **Scythe:** Melee | 1d8+1 phy  
+> **Experience:** Tracker +2
 
 ## FEATURES
 

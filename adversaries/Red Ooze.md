@@ -6,6 +6,7 @@
 
 > **Difficulty:** 10 | **Thresholds:** 6/11 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +1 | **Ooze Appendage:** Melee | 1d8+3 mag  
+> **Experience:** Camouflage +3
 
 ## FEATURES
 

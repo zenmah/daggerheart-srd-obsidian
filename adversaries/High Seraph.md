@@ -6,6 +6,7 @@
 
 > **Difficulty:** 20 | **Thresholds:** 37/70 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +8 | **Holy Sword:** Very Close | 4d10+10 phy  
+> **Experience:** Divine Knowledge +3
 
 ## FEATURES
 

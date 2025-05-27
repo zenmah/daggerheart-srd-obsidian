@@ -6,6 +6,7 @@
 
 > **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 7 | **Stress:** 4  
 > **ATK:** +3 | **Sigil-Laden Staff:** Far | 2d12 mag  
+> **Experience:** Coercion +2, Fallen Lore +2
 
 ## FEATURES
 

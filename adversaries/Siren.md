@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +2 | **Distended Jaw Bite:** Melee | 2d6+3 phy  
+> **Experience:** Song Repertoire +3
 
 ## FEATURES
 

@@ -6,6 +6,7 @@
 
 > **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 5 | **Stress:** 2  
 > **ATK:** +1 | **Longsword:** Melee | 1d6+1 phy  
+> **Experience:** Local Knowledge +3
 
 ## FEATURES
 

@@ -6,6 +6,7 @@
 
 > **Difficulty:** 9 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** -2 | **Daggers:** Melee | 2 phy  
+> **Experience:** Thief +2
 
 ## FEATURES
 
