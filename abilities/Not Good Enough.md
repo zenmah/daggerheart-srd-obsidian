@@ -1,4 +1,4 @@
-# NOT GOOD ENOUGH
+﻿# NOT GOOD ENOUGH
 
 > **Level 1 Blade Ability**  
 > **Recall Cost:** 1

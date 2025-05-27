@@ -1,4 +1,4 @@
-# HEAD VAMPIRE
+﻿# HEAD VAMPIRE
 
 ***Tier 3 Leader***  
 *A captivating undead dressed in aristocratic finery.*  

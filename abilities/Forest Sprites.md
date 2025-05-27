@@ -1,4 +1,4 @@
-# FOREST SPRITES
+﻿# FOREST SPRITES
 
 > **Level 8 Sage Spell**  
 > **Recall Cost:** 2

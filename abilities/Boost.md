@@ -1,4 +1,4 @@
-# BOOST
+﻿# BOOST
 
 > **Level 4 Bone Ability**  
 > **Recall Cost:** 1

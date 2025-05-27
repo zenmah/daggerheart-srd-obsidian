@@ -1,4 +1,4 @@
-# BARE BONES
+﻿# BARE BONES
 
 > **Level 1 Valor Ability**  
 > **Recall Cost:** 0

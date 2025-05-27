@@ -1,4 +1,4 @@
-# YUTARI BLOODBOW
+﻿# YUTARI BLOODBOW
 
 **Trait:** Finesse; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
 

@@ -1,4 +1,4 @@
-# STUNNING SUNLIGHT
+﻿# STUNNING SUNLIGHT
 
 > **Level 8 Splendor Spell**  
 > **Recall Cost:** 2

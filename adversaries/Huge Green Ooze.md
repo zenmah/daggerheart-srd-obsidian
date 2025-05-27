@@ -1,4 +1,4 @@
-# HUGE GREEN OOZE
+﻿# HUGE GREEN OOZE
 
 ***Tier 3 Skulk***  
 *A translucent green mound of acid taller than most humans.*  

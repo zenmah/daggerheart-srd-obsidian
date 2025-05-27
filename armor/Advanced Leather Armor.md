@@ -1,4 +1,4 @@
-# ADVANCED LEATHER ARMOR
+﻿# ADVANCED LEATHER ARMOR
 
 **Base Thresholds:** 11 / 27; **Base Score:** 5
 

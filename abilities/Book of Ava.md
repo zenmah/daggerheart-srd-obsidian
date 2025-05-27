@@ -1,4 +1,4 @@
-# BOOK OF AVA
+﻿# BOOK OF AVA
 
 > **Level 1 Codex Grimoire**  
 > **Recall Cost:** 2

@@ -1,4 +1,4 @@
-# LEGENDARY GRAPPLER
+﻿# LEGENDARY GRAPPLER
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d6+6 phy; **Burden:** One-Handed
 

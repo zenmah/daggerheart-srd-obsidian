@@ -1,4 +1,4 @@
-# GET BACK UP
+﻿# GET BACK UP
 
 > **Level 1 Blade Ability**  
 > **Recall Cost:** 1

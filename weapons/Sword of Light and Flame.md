@@ -1,4 +1,4 @@
-# SWORD OF LIGHT AND FLAME
+﻿# SWORD OF LIGHT AND FLAME
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+11 mag; **Burden:** Two-Handed
 

@@ -1,4 +1,4 @@
-# RUNE WARD
+﻿# RUNE WARD
 
 > **Level 1 Arcana Spell**  
 > **Recall Cost:** 0

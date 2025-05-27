@@ -1,4 +1,4 @@
-# IMPROVED GREATSTAFF
+﻿# IMPROVED GREATSTAFF
 
 **Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+3 mag; **Burden:** Two-Handed
 

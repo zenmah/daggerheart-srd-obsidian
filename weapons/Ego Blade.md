@@ -1,4 +1,4 @@
-# EGO BLADE
+﻿# EGO BLADE
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d12+4 mag; **Burden:** One-Handed
 

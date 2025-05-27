@@ -1,4 +1,4 @@
-# DUAL-ENDED SWORD
+﻿# DUAL-ENDED SWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
 

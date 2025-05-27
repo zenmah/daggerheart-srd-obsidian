@@ -1,4 +1,4 @@
-# HALLOWED SOLDIER
+﻿# HALLOWED SOLDIER
 
 ***Tier 4 Minion***  
 *Souls of the faithful, lifted up with divine weaponry.*  

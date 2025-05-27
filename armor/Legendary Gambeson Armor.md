@@ -1,4 +1,4 @@
-# LEGENDARY GAMBESON ARMOR
+﻿# LEGENDARY GAMBESON ARMOR
 
 **Base Thresholds:** 11 / 32; **Base Score:** 6
 

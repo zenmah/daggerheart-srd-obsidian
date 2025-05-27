@@ -1,4 +1,4 @@
-# UNLEASH CHAOS
+﻿# UNLEASH CHAOS
 
 > **Level 1 Arcana Spell**  
 > **Recall Cost:** 1

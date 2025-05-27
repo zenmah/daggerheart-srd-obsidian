@@ -1,4 +1,4 @@
-# IMPROVED SCEPTER
+﻿# IMPROVED SCEPTER
 
 **Trait:** Presence; **Range:** Far; **Damage:** d6+3 mag; **Burden:** Two-Handed
 

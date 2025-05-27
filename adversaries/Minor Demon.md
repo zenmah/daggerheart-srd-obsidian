@@ -1,4 +1,4 @@
-# MINOR DEMON
+﻿# MINOR DEMON
 
 ***Tier 1 Solo***  
 *A crimson-hued creature from the Circles Below, consumed by rage against all mortals.*  

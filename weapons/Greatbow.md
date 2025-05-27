@@ -1,4 +1,4 @@
-# GREATBOW
+﻿# GREATBOW
 
 **Trait:** Strength; **Range:** Far; **Damage:** d6+6 phy; **Burden:** Two-Handed
 

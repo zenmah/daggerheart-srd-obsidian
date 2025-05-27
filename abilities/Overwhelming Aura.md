@@ -1,4 +1,4 @@
-# OVERWHELMING AURA
+﻿# OVERWHELMING AURA
 
 > **Level 9 Splendor Spell**  
 > **Recall Cost:** 2

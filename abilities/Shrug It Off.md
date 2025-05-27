@@ -1,4 +1,4 @@
-# SHRUG IT OFF
+﻿# SHRUG IT OFF
 
 > **Level 7 Valor Ability**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# MINOR TREANT
+﻿# MINOR TREANT
 
 ***Tier 1 Minion***  
 *An ambulatory sapling rising up to defend their forest.*  

@@ -1,4 +1,4 @@
-# VEIL OF NIGHT
+﻿# VEIL OF NIGHT
 
 > **Level 3 Midnight Spell**  
 > **Recall Cost:** 1

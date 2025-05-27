@@ -1,4 +1,4 @@
-# DIVINATION
+﻿# DIVINATION
 
 > **Level 4 Splendor Spell**  
 > **Recall Cost:** 1

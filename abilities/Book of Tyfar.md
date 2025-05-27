@@ -1,4 +1,4 @@
-# BOOK OF TYFAR
+﻿# BOOK OF TYFAR
 
 > **Level 1 Codex Grimoire**  
 > **Recall Cost:** 2

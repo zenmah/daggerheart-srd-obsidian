@@ -1,4 +1,4 @@
-# EARTHQUAKE
+﻿# EARTHQUAKE
 
 > **Level 9 Arcana Spell**  
 > **Recall Cost:** 2

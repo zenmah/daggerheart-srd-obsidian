@@ -1,4 +1,4 @@
-# ARCHER SQUADRON
+﻿# ARCHER SQUADRON
 
 ***Tier 2 Horde (2/HP)***  
 *A group of trained archers bearing massive bows.*  

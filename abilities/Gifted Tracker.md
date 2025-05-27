@@ -1,4 +1,4 @@
-# GIFTED TRACKER
+﻿# GIFTED TRACKER
 
 > **Level 1 Sage Ability**  
 > **Recall Cost:** 0

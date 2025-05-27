@@ -1,4 +1,4 @@
-# BEAR
+﻿# BEAR
 
 ***Tier 1 Bruiser***  
 *A large bear with thick fur and powerful claws.*  

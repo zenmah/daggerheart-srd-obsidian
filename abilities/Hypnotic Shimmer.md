@@ -1,4 +1,4 @@
-# HYPNOTIC SHIMMER
+﻿# HYPNOTIC SHIMMER
 
 > **Level 3 Grace Spell**  
 > **Recall Cost:** 1

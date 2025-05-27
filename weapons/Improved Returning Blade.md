@@ -1,4 +1,4 @@
-# IMPROVED RETURNING BLADE
+﻿# IMPROVED RETURNING BLADE
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d8+3 mag; **Burden:** One-Handed
 

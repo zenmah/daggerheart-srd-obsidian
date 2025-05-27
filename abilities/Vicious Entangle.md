@@ -1,4 +1,4 @@
-# VICIOUS ENTANGLE
+﻿# VICIOUS ENTANGLE
 
 > **Level 1 Sage Spell**  
 > **Recall Cost:** 1

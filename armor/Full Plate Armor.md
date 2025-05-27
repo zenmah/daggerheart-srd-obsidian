@@ -1,4 +1,4 @@
-# FULL PLATE ARMOR
+﻿# FULL PLATE ARMOR
 
 **Base Thresholds:** 8 / 17; **Base Score:** 4
 

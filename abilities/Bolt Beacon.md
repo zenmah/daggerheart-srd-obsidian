@@ -1,4 +1,4 @@
-# BOLT BEACON
+﻿# BOLT BEACON
 
 > **Level 1 Splendor Spell**  
 > **Recall Cost:** 1

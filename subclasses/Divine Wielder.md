@@ -1,4 +1,4 @@
-# DIVINE WIELDER
+﻿# DIVINE WIELDER
 
 Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon.
 

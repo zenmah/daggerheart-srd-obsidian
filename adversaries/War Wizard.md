@@ -1,4 +1,4 @@
-# WAR WIZARD
+﻿# WAR WIZARD
 
 ***Tier 2 Ranged***  
 *A battle-hardened mage trained in destructive magic.*  

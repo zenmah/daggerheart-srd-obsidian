@@ -1,4 +1,4 @@
-# SCHOOL OF WAR
+﻿# SCHOOL OF WAR
 
 Play the School of War if you want to utilize trained magic for violence.
 

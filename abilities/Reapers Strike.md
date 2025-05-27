@@ -1,4 +1,4 @@
-# REAPER’S STRIKE
+﻿# REAPER’S STRIKE
 
 > **Level 9 Blade Ability**  
 > **Recall Cost:** 3

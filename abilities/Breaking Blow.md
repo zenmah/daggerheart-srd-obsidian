@@ -1,4 +1,4 @@
-# BREAKING BLOW
+﻿# BREAKING BLOW
 
 > **Level 8 Bone Ability**  
 > **Recall Cost:** 3

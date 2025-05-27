@@ -1,4 +1,4 @@
-# MINOTAUR WRECKER
+﻿# MINOTAUR WRECKER
 
 ***Tier 2 Bruiser***  
 *A massive bull-headed hybrid with a quick temper.*  

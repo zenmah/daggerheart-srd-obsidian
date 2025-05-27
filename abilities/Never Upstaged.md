@@ -1,4 +1,4 @@
-# NEVER UPSTAGED
+﻿# NEVER UPSTAGED
 
 > **Level 6 Grace Ability**  
 > **Recall Cost:** 2

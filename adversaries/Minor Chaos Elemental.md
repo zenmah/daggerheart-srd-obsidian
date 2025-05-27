@@ -1,4 +1,4 @@
-# MINOR CHAOS ELEMENTAL
+﻿# MINOR CHAOS ELEMENTAL
 
 ***Tier 1 Solo***  
 *A coruscating mass of uncontrollable magic.*  

@@ -1,4 +1,4 @@
-# BLINK OUT
+﻿# BLINK OUT
 
 > **Level 4 Arcana Spell**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# RISE UP
+﻿# RISE UP
 
 > **Level 6 Valor Ability**  
 > **Recall Cost:** 2

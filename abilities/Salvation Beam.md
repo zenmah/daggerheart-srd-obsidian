@@ -1,4 +1,4 @@
-# SALVATION BEAM
+﻿# SALVATION BEAM
 
 > **Level 9 Splendor Spell**  
 > **Recall Cost:** 2

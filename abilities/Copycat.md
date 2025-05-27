@@ -1,4 +1,4 @@
-# COPYCAT
+﻿# COPYCAT
 
 > **Level 9 Grace Spell**  
 > **Recall Cost:** 3

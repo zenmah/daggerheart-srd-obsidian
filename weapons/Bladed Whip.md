@@ -1,4 +1,4 @@
-# BLADED WHIP
+﻿# BLADED WHIP
 
 **Trait:** Agility; **Range:** Very Close; **Damage:** d8+3 phy; **Burden:** One-Handed
 

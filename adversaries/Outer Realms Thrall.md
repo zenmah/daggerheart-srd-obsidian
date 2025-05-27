@@ -1,4 +1,4 @@
-# OUTER REALMS THRALL
+﻿# OUTER REALMS THRALL
 
 ***Tier 4 Minion***  
 *A vaguely humanoid form stripped of memory and identity.*  

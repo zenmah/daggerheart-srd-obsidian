@@ -1,4 +1,4 @@
-# MENDING TOUCH
+﻿# MENDING TOUCH
 
 > **Level 1 Splendor Spell**  
 > **Recall Cost:** 1

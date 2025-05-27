@@ -1,4 +1,4 @@
-# MANIFEST WALL
+﻿# MANIFEST WALL
 
 > **Level 5 Codex Spell**  
 > **Recall Cost:** 2

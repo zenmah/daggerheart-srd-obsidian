@@ -1,4 +1,4 @@
-# FORCEFUL PUSH
+﻿# FORCEFUL PUSH
 
 > **Level 1 Valor Ability**  
 > **Recall Cost:** 0

@@ -1,4 +1,4 @@
-# ADVANCED ROUND SHIELD
+﻿# ADVANCED ROUND SHIELD
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d4+4 phy; **Burden:** One-Handed
 

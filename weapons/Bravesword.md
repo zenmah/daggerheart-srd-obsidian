@@ -1,4 +1,4 @@
-# BRAVESWORD
+﻿# BRAVESWORD
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d12+7 phy; **Burden:** Two-Handed
 

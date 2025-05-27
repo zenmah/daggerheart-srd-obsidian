@@ -1,4 +1,4 @@
-# SPLENDOR-TOUCHED
+﻿# SPLENDOR-TOUCHED
 
 > **Level 7 Splendor Ability**  
 > **Recall Cost:** 2

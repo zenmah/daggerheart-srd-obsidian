@@ -1,4 +1,4 @@
-# IMPROVED GRAPPLER
+﻿# IMPROVED GRAPPLER
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d6+2 phy; **Burden:** One-Handed
 

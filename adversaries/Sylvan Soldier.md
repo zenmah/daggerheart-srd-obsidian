@@ -1,4 +1,4 @@
-# SYLVAN SOLDIER
+﻿# SYLVAN SOLDIER
 
 ***Tier 1 Standard***  
 *A faerie warrior adorned in armor made of leaves and bark.*  

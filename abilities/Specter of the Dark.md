@@ -1,4 +1,4 @@
-# SPECTER OF THE DARK
+﻿# SPECTER OF THE DARK
 
 > **Level 10 Midnight Spell**  
 > **Recall Cost:** 1

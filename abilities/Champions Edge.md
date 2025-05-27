@@ -1,4 +1,4 @@
-# CHAMPION’S EDGE
+﻿# CHAMPION’S EDGE
 
 > **Level 5 Blade Ability**  
 > **Recall Cost:** 1

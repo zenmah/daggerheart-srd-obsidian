@@ -1,4 +1,4 @@
-# COURTESAN
+﻿# COURTESAN
 
 ***Tier 2 Social***  
 *An accomplished manipulator and master of the social arts.*  

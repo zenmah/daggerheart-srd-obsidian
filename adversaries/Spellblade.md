@@ -1,4 +1,4 @@
-# SPELLBLADE
+﻿# SPELLBLADE
 
 ***Tier 1 Leader***  
 *A mercenary combining swordplay and magic to deadly effect.*  

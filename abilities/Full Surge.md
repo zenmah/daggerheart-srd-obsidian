@@ -1,4 +1,4 @@
-# FULL SURGE
+﻿# FULL SURGE
 
 > **Level 8 Valor Ability**  
 > **Recall Cost:** 1

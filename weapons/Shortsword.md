@@ -1,4 +1,4 @@
-# SHORTSWORD
+﻿# SHORTSWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
 

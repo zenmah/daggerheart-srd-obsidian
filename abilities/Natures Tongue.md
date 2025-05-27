@@ -1,4 +1,4 @@
-# NATURE’S TONGUE
+﻿# NATURE’S TONGUE
 
 > **Level 1 Sage Ability**  
 > **Recall Cost:** 0

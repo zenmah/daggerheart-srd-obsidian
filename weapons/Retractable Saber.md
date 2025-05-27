@@ -1,4 +1,4 @@
-# RETRACTABLE SABER
+﻿# RETRACTABLE SABER
 
 **Trait:** Presence; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** One-Handed
 

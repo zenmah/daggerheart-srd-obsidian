@@ -1,4 +1,4 @@
-# SHADOWHUNTER
+﻿# SHADOWHUNTER
 
 > **Level 8 Midnight Ability**  
 > **Recall Cost:** 2

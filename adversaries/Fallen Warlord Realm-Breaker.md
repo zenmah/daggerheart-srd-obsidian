@@ -1,4 +1,4 @@
-# FALLEN WARLORD: REALM-BREAKER
+﻿# FALLEN WARLORD: REALM-BREAKER
 
 ***Tier 4 Solo***  
 *A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*  

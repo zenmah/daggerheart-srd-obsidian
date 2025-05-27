@@ -1,4 +1,4 @@
-# GIANT SCORPION
+﻿# GIANT SCORPION
 
 ***Tier 1 Bruiser***  
 *A human-sized insect with tearing claws and a stinging tail.*  

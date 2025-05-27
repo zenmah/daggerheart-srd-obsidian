@@ -1,4 +1,4 @@
-# JAGGED KNIFE LIEUTENANT
+﻿# JAGGED KNIFE LIEUTENANT
 
 ***Tier 1 Leader***  
 *A seasoned bandit in quality leathers with a strong voice and cunning eyes.*  

@@ -1,4 +1,4 @@
-# DEMON OF HUBRIS
+﻿# DEMON OF HUBRIS
 
 ***Tier 3 Leader***  
 *A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.*  

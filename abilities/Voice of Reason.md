@@ -1,4 +1,4 @@
-# VOICE OF REASON
+﻿# VOICE OF REASON
 
 > **Level 3 Splendor Ability**  
 > **Recall Cost:** 1

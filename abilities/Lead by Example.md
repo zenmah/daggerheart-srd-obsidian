@@ -1,4 +1,4 @@
-# LEAD BY EXAMPLE
+﻿# LEAD BY EXAMPLE
 
 > **Level 9 Valor Ability**  
 > **Recall Cost:** 3

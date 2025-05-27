@@ -1,4 +1,4 @@
-# SMALL DAGGER
+﻿# SMALL DAGGER
 
 **Trait:** Finesse; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
 

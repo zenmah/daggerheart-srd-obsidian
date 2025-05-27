@@ -1,4 +1,4 @@
-# DIRE BAT
+﻿# DIRE BAT
 
 ***Tier 3 Skulk***  
 *A winged pet endlessly loyal to their vampire owner.*  

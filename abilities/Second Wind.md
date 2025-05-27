@@ -1,4 +1,4 @@
-# SECOND WIND
+﻿# SECOND WIND
 
 > **Level 3 Splendor Ability**  
 > **Recall Cost:** 2

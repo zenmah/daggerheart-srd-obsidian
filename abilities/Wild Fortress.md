@@ -1,4 +1,4 @@
-# WILD FORTRESS
+﻿# WILD FORTRESS
 
 > **Level 5 Sage Spell**  
 > **Recall Cost:** 1

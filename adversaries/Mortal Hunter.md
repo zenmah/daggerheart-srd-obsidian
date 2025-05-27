@@ -1,4 +1,4 @@
-# MORTAL HUNTER
+﻿# MORTAL HUNTER
 
 ***Tier 2 Leader***  
 *An undead figure wearing a heavy leather coat, with searching eyes and a cruelly cut demeanor.*  

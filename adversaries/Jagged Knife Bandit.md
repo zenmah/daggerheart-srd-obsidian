@@ -1,4 +1,4 @@
-# JAGGED KNIFE BANDIT
+﻿# JAGGED KNIFE BANDIT
 
 ***Tier 1 Standard***  
 *A cunning criminal in a cloak bearing one of the gang’s iconic knives.*  

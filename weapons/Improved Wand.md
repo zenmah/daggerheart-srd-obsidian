@@ -1,4 +1,4 @@
-# IMPROVED WAND
+﻿# IMPROVED WAND
 
 **Trait:** Knowledge; **Range:** Far; **Damage:** d6+4 mag; **Burden:** One-Handed
 

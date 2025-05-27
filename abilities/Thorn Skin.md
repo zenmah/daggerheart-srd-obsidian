@@ -1,4 +1,4 @@
-# THORN SKIN
+﻿# THORN SKIN
 
 > **Level 5 Sage Spell**  
 > **Recall Cost:** 1

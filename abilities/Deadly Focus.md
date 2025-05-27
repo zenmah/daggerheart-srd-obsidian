@@ -1,4 +1,4 @@
-# DEADLY FOCUS
+﻿# DEADLY FOCUS
 
 > **Level 4 Blade Ability**  
 > **Recall Cost:** 2

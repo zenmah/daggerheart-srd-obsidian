@@ -1,4 +1,4 @@
-# BLADED GUARD
+﻿# BLADED GUARD
 
 ***Tier 1 Standard***  
 *An armored guard bearing a sword and shield painted in the settlement’s colors.*  

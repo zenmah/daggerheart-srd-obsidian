@@ -1,4 +1,4 @@
-# MIDNIGHT SPIRIT
+﻿# MIDNIGHT SPIRIT
 
 > **Level 2 Midnight Spell**  
 > **Recall Cost:** 1

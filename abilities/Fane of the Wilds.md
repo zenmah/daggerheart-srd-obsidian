@@ -1,4 +1,4 @@
-# FANE OF THE WILDS
+﻿# FANE OF THE WILDS
 
 > **Level 9 Sage Ability**  
 > **Recall Cost:** 2

@@ -1,4 +1,4 @@
-# SIGIL OF RETRIBUTION
+﻿# SIGIL OF RETRIBUTION
 
 > **Level 6 Codex Spell**  
 > **Recall Cost:** 2

@@ -1,4 +1,4 @@
-# ORACLE OF DOOM
+﻿# ORACLE OF DOOM
 
 ***Tier 4 Solo***  
 *A towering immortal and incarnation of fate, cursed to only see bad outcomes.*  

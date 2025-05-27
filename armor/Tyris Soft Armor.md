@@ -1,4 +1,4 @@
-# TYRIS SOFT ARMOR
+﻿# TYRIS SOFT ARMOR
 
 **Base Thresholds:** 8 / 18; **Base Score:** 5
 

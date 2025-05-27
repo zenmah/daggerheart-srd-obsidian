@@ -1,4 +1,4 @@
-# HALLOWED ARCHER
+﻿# HALLOWED ARCHER
 
 ***Tier 4 Ranged***  
 *Spirit soldiers with sanctified bows.*  

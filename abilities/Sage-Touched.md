@@ -1,4 +1,4 @@
-# SAGE-TOUCHED
+﻿# SAGE-TOUCHED
 
 > **Level 7 Sage Ability**  
 > **Recall Cost:** 2

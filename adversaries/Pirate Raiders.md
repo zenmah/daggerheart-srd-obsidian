@@ -1,4 +1,4 @@
-# PIRATE RAIDERS
+﻿# PIRATE RAIDERS
 
 ***Tier 1 Horde (3/HP)***  
 *Seafaring scoundrels moving in a ravaging pack.*  

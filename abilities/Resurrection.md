@@ -1,4 +1,4 @@
-# RESURRECTION
+﻿# RESURRECTION
 
 > **Level 10 Splendor Spell**  
 > **Recall Cost:** 2

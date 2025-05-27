@@ -1,4 +1,4 @@
-# BODY BASHER
+﻿# BODY BASHER
 
 > **Level 2 Valor Ability**  
 > **Recall Cost:** 1

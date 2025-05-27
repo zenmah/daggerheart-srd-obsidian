@@ -1,4 +1,4 @@
-# RAGE UP
+﻿# RAGE UP
 
 > **Level 6 Blade Ability**  
 > **Recall Cost:** 1

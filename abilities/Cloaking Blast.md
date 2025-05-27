@@ -1,4 +1,4 @@
-# CLOAKING BLAST
+﻿# CLOAKING BLAST
 
 > **Level 7 Arcana Spell**  
 > **Recall Cost:** 2

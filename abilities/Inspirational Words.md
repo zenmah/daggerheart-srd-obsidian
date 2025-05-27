@@ -1,4 +1,4 @@
-# INSPIRATIONAL WORDS
+﻿# INSPIRATIONAL WORDS
 
 > **Level 1 Grace Ability**  
 > **Recall Cost:** 1

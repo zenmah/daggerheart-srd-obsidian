@@ -1,4 +1,4 @@
-# HEALING STRIKE
+﻿# HEALING STRIKE
 
 > **Level 7 Splendor Spell**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# CULT FANG
+﻿# CULT FANG
 
 ***Tier 2 Skulk***  
 *A professional killer-turned-cultist.*  

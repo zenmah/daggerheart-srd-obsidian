@@ -1,4 +1,4 @@
-# RETURNING AXE
+﻿# RETURNING AXE
 
 **Trait:** Agility; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
 

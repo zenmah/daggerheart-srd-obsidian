@@ -1,4 +1,4 @@
-# ROTTED ZOMBIE
+﻿# ROTTED ZOMBIE
 
 ***Tier 1 Minion***  
 *A decaying corpse ambling toward their prey.*  

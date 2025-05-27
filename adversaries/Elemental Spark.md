@@ -1,4 +1,4 @@
-# ELEMENTAL SPARK
+﻿# ELEMENTAL SPARK
 
 ***Tier 3 Minion***  
 *A blazing mote of elemental fire.*  

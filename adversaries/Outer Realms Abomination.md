@@ -1,4 +1,4 @@
-# OUTER REALMS ABOMINATION
+﻿# OUTER REALMS ABOMINATION
 
 ***Tier 4 Bruiser***  
 *A chaotic mockery of life, constantly in flux.*  

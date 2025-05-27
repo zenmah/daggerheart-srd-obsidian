@@ -1,4 +1,4 @@
-# VALOR-TOUCHED
+﻿# VALOR-TOUCHED
 
 > **Level 7 Valor Ability**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# WRANGLE
+﻿# WRANGLE
 
 > **Level 8 Bone Ability**  
 > **Recall Cost:** 1

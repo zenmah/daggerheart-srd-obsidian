@@ -1,4 +1,4 @@
-# SCRAMBLE
+﻿# SCRAMBLE
 
 > **Level 3 Blade Ability**  
 > **Recall Cost:** 1

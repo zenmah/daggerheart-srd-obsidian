@@ -1,4 +1,4 @@
-# CULT ADEPT
+﻿# CULT ADEPT
 
 ***Tier 2 Support***  
 *An experienced mage wielding shadow and fear.*  

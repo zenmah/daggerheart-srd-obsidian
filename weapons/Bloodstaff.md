@@ -1,4 +1,4 @@
-# BLOODSTAFF
+﻿# BLOODSTAFF
 
 **Trait:** Instinct; **Range:** Far; **Damage:** d20+7 mag; **Burden:** Two-Handed
 

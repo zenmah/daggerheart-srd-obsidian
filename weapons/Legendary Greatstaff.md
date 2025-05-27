@@ -1,4 +1,4 @@
-# LEGENDARY GREATSTAFF
+﻿# LEGENDARY GREATSTAFF
 
 **Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
 

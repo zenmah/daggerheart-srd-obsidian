@@ -1,4 +1,4 @@
-# BRAWNY ZOMBIE
+﻿# BRAWNY ZOMBIE
 
 ***Tier 1 Bruiser***  
 *A large corpse, decay-bloated and angry.*  

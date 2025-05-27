@@ -1,4 +1,4 @@
-# FORAGER
+﻿# FORAGER
 
 > **Level 6 Sage Ability**  
 > **Recall Cost:** 1

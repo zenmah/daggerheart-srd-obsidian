@@ -1,4 +1,4 @@
-# PICK AND PULL
+﻿# PICK AND PULL
 
 > **Level 1 Midnight Ability**  
 > **Recall Cost:** 0

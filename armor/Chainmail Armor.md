@@ -1,4 +1,4 @@
-# CHAINMAIL ARMOR
+﻿# CHAINMAIL ARMOR
 
 **Base Thresholds:** 7 / 15; **Base Score:** 4
 

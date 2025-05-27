@@ -1,4 +1,4 @@
-# ENDLESS CHARISMA
+﻿# ENDLESS CHARISMA
 
 > **Level 7 Grace Ability**  
 > **Recall Cost:** 1

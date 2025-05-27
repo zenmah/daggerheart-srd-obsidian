@@ -1,4 +1,4 @@
-# GREATER EARTH ELEMENTAL
+﻿# GREATER EARTH ELEMENTAL
 
 ***Tier 3 Bruiser***  
 *A living landslide of boulders and dust, as large as a house.*  

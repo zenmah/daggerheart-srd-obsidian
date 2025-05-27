@@ -1,4 +1,4 @@
-# BOOK OF SITIL
+﻿# BOOK OF SITIL
 
 > **Level 2 Codex Grimoire**  
 > **Recall Cost:** 2

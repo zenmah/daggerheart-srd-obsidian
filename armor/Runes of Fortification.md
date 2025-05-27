@@ -1,4 +1,4 @@
-# RUNES OF FORTIFICATION
+﻿# RUNES OF FORTIFICATION
 
 **Base Thresholds:** 17 / 43; **Base Score:** 6
 

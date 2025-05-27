@@ -1,4 +1,4 @@
-# ZONE OF PROTECTION
+﻿# ZONE OF PROTECTION
 
 > **Level 6 Splendor Spell**  
 > **Recall Cost:** 2

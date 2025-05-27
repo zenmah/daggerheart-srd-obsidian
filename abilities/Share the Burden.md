@@ -1,4 +1,4 @@
-# SHARE THE BURDEN
+﻿# SHARE THE BURDEN
 
 > **Level 6 Grace Spell**  
 > **Recall Cost:** 0

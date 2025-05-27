@@ -1,4 +1,4 @@
-# SCHOOL OF KNOWLEDGE
+﻿# SCHOOL OF KNOWLEDGE
 
 Play the School of Knowledge if you want a keen understanding of the world around you.
 

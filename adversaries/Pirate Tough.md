@@ -1,4 +1,4 @@
-# PIRATE TOUGH
+﻿# PIRATE TOUGH
 
 ***Tier 1 Bruiser***  
 *A thickly muscled and tattooed pirate with melon-sized fists.*  

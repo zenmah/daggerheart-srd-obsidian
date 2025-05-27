@@ -1,4 +1,4 @@
-# HYDRA
+﻿# HYDRA
 
 ***Tier 3 Solo***  
 *A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.*  

@@ -1,4 +1,4 @@
-# HIGH SERAPH
+﻿# HIGH SERAPH
 
 ***Tier 4 Leader***  
 *A divine champion, head of a hallowed host of warriors who enforce their god’s will.*  

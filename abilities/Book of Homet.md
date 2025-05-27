@@ -1,4 +1,4 @@
-# BOOK OF HOMET
+﻿# BOOK OF HOMET
 
 > **Level 7 Codex Grimoire**  
 > **Recall Cost:** 0

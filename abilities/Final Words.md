@@ -1,4 +1,4 @@
-# FINAL WORDS
+﻿# FINAL WORDS
 
 > **Level 2 Splendor Spell**  
 > **Recall Cost:** 1

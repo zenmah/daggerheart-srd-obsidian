@@ -1,4 +1,4 @@
-# DEMONIC HOUND PACK
+﻿# DEMONIC HOUND PACK
 
 ***Tier 2 Horde (1/HP)***  
 *Unnatural hounds lit from within by hellfire.*  

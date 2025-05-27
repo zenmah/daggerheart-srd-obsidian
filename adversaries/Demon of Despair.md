@@ -1,4 +1,4 @@
-# DEMON OF DESPAIR
+﻿# DEMON OF DESPAIR
 
 ***Tier 3 Skulk***  
 *A cloaked one-creature with long limbs, seeping shadows.*  

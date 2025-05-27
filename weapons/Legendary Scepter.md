@@ -1,4 +1,4 @@
-# LEGENDARY SCEPTER
+﻿# LEGENDARY SCEPTER
 
 **Trait:** Presence; **Range:** Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
 

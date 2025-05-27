@@ -1,4 +1,4 @@
-# TELL NO LIES
+﻿# TELL NO LIES
 
 > **Level 2 Grace Spell**  
 > **Recall Cost:** 1

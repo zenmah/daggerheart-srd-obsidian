@@ -1,4 +1,4 @@
-# REJUVENATION BARRIER
+﻿# REJUVENATION BARRIER
 
 > **Level 8 Sage Spell**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# RAIN OF BLADES
+﻿# RAIN OF BLADES
 
 > **Level 1 Midnight Spell**  
 > **Recall Cost:** 1

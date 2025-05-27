@@ -1,4 +1,4 @@
-# ROYAL ADVISOR
+﻿# ROYAL ADVISOR
 
 ***Tier 2 Social***  
 *A high-ranking courtier with the ear of the local nobility.*  

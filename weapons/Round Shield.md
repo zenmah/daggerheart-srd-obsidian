@@ -1,4 +1,4 @@
-# ROUND SHIELD
+﻿# ROUND SHIELD
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d4 phy; **Burden:** One-Handed
 

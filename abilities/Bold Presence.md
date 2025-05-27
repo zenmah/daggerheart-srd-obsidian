@@ -1,4 +1,4 @@
-# BOLD PRESENCE
+﻿# BOLD PRESENCE
 
 > **Level 2 Valor Ability**  
 > **Recall Cost:** 0

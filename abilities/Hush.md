@@ -1,4 +1,4 @@
-# HUSH
+﻿# HUSH
 
 > **Level 5 Midnight Spell**  
 > **Recall Cost:** 1

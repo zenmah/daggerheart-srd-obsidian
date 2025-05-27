@@ -1,4 +1,4 @@
-# ADVANCED FULL PLATE ARMOR
+﻿# ADVANCED FULL PLATE ARMOR
 
 **Base Thresholds:** 15 / 35; **Base Score:** 6
 

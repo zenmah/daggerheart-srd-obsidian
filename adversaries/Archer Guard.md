@@ -1,4 +1,4 @@
-# ARCHER GUARD
+﻿# ARCHER GUARD
 
 ***Tier 1 Ranged***  
 *A tall guard bearing a longbow and quiver with arrows fletched in the settlement’s colors.*  

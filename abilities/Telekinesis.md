@@ -1,4 +1,4 @@
-# TELEKINESIS
+﻿# TELEKINESIS
 
 > **Level 6 Arcana Spell**  
 > **Recall Cost:** 0

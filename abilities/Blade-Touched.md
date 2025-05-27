@@ -1,4 +1,4 @@
-# BLADE-TOUCHED
+﻿# BLADE-TOUCHED
 
 > **Level 7 Blade Ability**  
 > **Recall Cost:** 1

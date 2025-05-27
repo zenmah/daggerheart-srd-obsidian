@@ -1,4 +1,4 @@
-# BONE-TOUCHED
+﻿# BONE-TOUCHED
 
 > **Level 7 Bone Ability**  
 > **Recall Cost:** 2

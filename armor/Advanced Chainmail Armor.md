@@ -1,4 +1,4 @@
-# ADVANCED CHAINMAIL ARMOR
+﻿# ADVANCED CHAINMAIL ARMOR
 
 **Base Thresholds:** 13 / 31; **Base Score:** 6
 

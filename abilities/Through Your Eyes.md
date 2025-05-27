@@ -1,4 +1,4 @@
-# THROUGH YOUR EYES
+﻿# THROUGH YOUR EYES
 
 > **Level 4 Grace Spell**  
 > **Recall Cost:** 1

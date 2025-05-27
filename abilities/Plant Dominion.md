@@ -1,4 +1,4 @@
-# PLANT DOMINION
+﻿# PLANT DOMINION
 
 > **Level 9 Sage Spell**  
 > **Recall Cost:** 1

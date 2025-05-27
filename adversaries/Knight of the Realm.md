@@ -1,4 +1,4 @@
-# KNIGHT OF THE REALM
+﻿# KNIGHT OF THE REALM
 
 ***Tier 2 Leader***  
 *A decorated soldier with heavy armor and a powerful steed.*  

@@ -1,4 +1,4 @@
-# ENRAPTURE
+﻿# ENRAPTURE
 
 > **Level 1 Grace Spell**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# HAND SLING
+﻿# HAND SLING
 
 **Trait:** Finesse; **Range:** Very Close; **Damage:** d6+4 phy; **Burden:** One-Handed
 

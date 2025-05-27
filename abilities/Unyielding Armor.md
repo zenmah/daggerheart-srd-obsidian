@@ -1,4 +1,4 @@
-# UNYIELDING ARMOR
+﻿# UNYIELDING ARMOR
 
 > **Level 10 Valor Ability**  
 > **Recall Cost:** 1

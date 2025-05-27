@@ -1,4 +1,4 @@
-# SPECTRAL GUARDIAN
+﻿# SPECTRAL GUARDIAN
 
 ***Tier 2 Standard***  
 *A ghostly fighter with spears and swords, anchored by duty.*  

@@ -1,4 +1,4 @@
-# SIGNATURE MOVE
+﻿# SIGNATURE MOVE
 
 > **Level 5 Bone Ability**  
 > **Recall Cost:** 1

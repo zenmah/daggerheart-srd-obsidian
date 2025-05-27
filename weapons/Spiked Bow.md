@@ -1,4 +1,4 @@
-# SPIKED BOW
+﻿# SPIKED BOW
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d6+7 phy; **Burden:** Two-Handed
 

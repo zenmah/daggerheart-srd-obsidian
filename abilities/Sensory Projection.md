@@ -1,4 +1,4 @@
-# SENSORY PROJECTION
+﻿# SENSORY PROJECTION
 
 > **Level 9 Arcana Spell**  
 > **Recall Cost:** 0

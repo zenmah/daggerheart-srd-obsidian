@@ -1,4 +1,4 @@
-# SHAPE MATERIAL
+﻿# SHAPE MATERIAL
 
 > **Level 5 Splendor Spell**  
 > **Recall Cost:** 1

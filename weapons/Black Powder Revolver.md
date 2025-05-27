@@ -1,4 +1,4 @@
-# BLACK POWDER REVOLVER
+﻿# BLACK POWDER REVOLVER
 
 **Trait:** Finesse; **Range:** Far; **Damage:** d6+8 phy; **Burden:** One-Handed
 

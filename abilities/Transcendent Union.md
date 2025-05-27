@@ -1,4 +1,4 @@
-# TRANSCENDENT UNION
+﻿# TRANSCENDENT UNION
 
 > **Level 10 Codex Spell**  
 > **Recall Cost:** 1

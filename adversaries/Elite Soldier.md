@@ -1,4 +1,4 @@
-# ELITE SOLDIER
+﻿# ELITE SOLDIER
 
 ***Tier 2 Standard***  
 *An armored squire or experienced commoner looking to advance.*  

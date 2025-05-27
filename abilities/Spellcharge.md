@@ -1,4 +1,4 @@
-# SPELLCHARGE
+﻿# SPELLCHARGE
 
 > **Level 8 Midnight Spell**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# SPIKED PLATE ARMOR
+﻿# SPIKED PLATE ARMOR
 
 **Base Thresholds:** 10 / 25; **Base Score:** 5
 

@@ -1,4 +1,4 @@
-# SCEPTER OF ELIAS
+﻿# SCEPTER OF ELIAS
 
 **Trait:** Presence; **Range:** Far; **Damage:** d6+3 mag; **Burden:** One-Handed
 

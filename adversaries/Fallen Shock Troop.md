@@ -1,4 +1,4 @@
-# FALLEN SHOCK TROOP
+﻿# FALLEN SHOCK TROOP
 
 ***Tier 4 Minion***  
 *A cursed soul bound to the Fallen’s will.*  

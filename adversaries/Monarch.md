@@ -1,4 +1,4 @@
-# MONARCH
+﻿# MONARCH
 
 ***Tier 3 Social***  
 *The sovereign ruler of a nation, unearthed in the privilege of tradition and wielding unmatched power in their domain.*  

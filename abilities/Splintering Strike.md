@@ -1,4 +1,4 @@
-# SPLINTERING STRIKE
+﻿# SPLINTERING STRIKE
 
 > **Level 9 Bone Ability**  
 > **Recall Cost:** 3

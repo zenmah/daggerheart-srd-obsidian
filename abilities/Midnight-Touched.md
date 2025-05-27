@@ -1,4 +1,4 @@
-# MIDNIGHT-TOUCHED
+﻿# MIDNIGHT-TOUCHED
 
 > **Level 7 Midnight Ability**  
 > **Recall Cost:** 2

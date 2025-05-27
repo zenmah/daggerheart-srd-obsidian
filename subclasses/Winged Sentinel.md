@@ -1,4 +1,4 @@
-# WINGED SENTINEL
+﻿# WINGED SENTINEL
 
 Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.
 

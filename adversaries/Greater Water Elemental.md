@@ -1,4 +1,4 @@
-# GREATER WATER ELEMENTAL
+﻿# GREATER WATER ELEMENTAL
 
 ***Tier 3 Support***  
 *A huge living wave that crashes down upon enemies.*  

@@ -51,7 +51,7 @@ def process_json_to_md(json_file, template_file, output_dir, feature_count=7):
             content = content.strip() + "\n"
             filename = safe_filename(row["name"])  # assuming JSON keys are lower
             outpath = f"{output_dir}/{filename}.md"
-            with open(outpath, "w", encoding="utf-8") as outfile:
+            with open(outpath, "w", encoding="utf-8-sig") as outfile:
                 outfile.write(content)
                 print(outpath)
 

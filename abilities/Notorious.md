@@ -1,4 +1,4 @@
-# NOTORIOUS
+﻿# NOTORIOUS
 
 > **Level 10 Grace Ability**  
 > **Recall Cost:** 0

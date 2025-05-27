@@ -1,4 +1,4 @@
-# BOOK OF KORVAX
+﻿# BOOK OF KORVAX
 
 > **Level 3 Codex Grimoire**  
 > **Recall Cost:** 2

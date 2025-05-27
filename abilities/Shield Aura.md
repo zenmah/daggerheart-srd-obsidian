@@ -1,4 +1,4 @@
-# SHIELD AURA
+﻿# SHIELD AURA
 
 > **Level 8 Splendor Spell**  
 > **Recall Cost:** 2

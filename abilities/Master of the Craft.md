@@ -1,4 +1,4 @@
-# MASTER OF THE CRAFT
+﻿# MASTER OF THE CRAFT
 
 > **Level 10 Grace Ability**  
 > **Recall Cost:** 0

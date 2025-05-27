@@ -1,4 +1,4 @@
-# MINOR FIRE ELEMENTAL
+﻿# MINOR FIRE ELEMENTAL
 
 ***Tier 1 Solo***  
 *A living flame the size of a large bonfire.*  

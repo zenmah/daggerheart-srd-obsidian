@@ -1,4 +1,4 @@
-# DISINTEGRATION WAVE
+﻿# DISINTEGRATION WAVE
 
 > **Level 9 Codex Spell**  
 > **Recall Cost:** 4

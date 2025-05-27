@@ -1,4 +1,4 @@
-# LABRYS AXE
+﻿# LABRYS AXE
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
 

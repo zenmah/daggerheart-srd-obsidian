@@ -1,4 +1,4 @@
-# CONFUSING AURA
+﻿# CONFUSING AURA
 
 > **Level 8 Arcana Spell**  
 > **Recall Cost:** 2

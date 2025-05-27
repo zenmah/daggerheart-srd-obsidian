@@ -1,4 +1,4 @@
-# WAYFINDER
+﻿# WAYFINDER
 
 Play the Wayfinder if you want to hunt your prey and strike with deadly force.
 

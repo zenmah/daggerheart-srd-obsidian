@@ -1,4 +1,4 @@
-# HEALING HANDS
+﻿# HEALING HANDS
 
 > **Level 2 Splendor Spell**  
 > **Recall Cost:** 1

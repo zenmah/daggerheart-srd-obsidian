@@ -1,4 +1,4 @@
-# JUVENILE FLICKERFLY
+﻿# JUVENILE FLICKERFLY
 
 ***Tier 2 Solo***  
 *A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.*  

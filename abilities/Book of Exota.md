@@ -1,4 +1,4 @@
-# BOOK OF EXOTA
+﻿# BOOK OF EXOTA
 
 > **Level 4 Codex Grimoire**  
 > **Recall Cost:** 3

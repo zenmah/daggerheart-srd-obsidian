@@ -1,4 +1,4 @@
-# LEGENDARY WHIP
+﻿# LEGENDARY WHIP
 
 **Trait:** Presence; **Range:** Very Close; **Damage:** d6+6 phy; **Burden:** One-Handed
 

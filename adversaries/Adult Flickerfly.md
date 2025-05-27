@@ -1,4 +1,4 @@
-# ADULT FLICKERFLY
+﻿# ADULT FLICKERFLY
 
 ***Tier 3 Solo***  
 *A winged insect the size of a large house with iridescent scales and wings that move too fast to track.*  

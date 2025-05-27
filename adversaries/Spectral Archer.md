@@ -1,4 +1,4 @@
-# SPECTRAL ARCHER
+﻿# SPECTRAL ARCHER
 
 ***Tier 2 Ranged***  
 *A ghostly fighter with an ethereal bow, unable to move on while their charge is vulnerable.*  

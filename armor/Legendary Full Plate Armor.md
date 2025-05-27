@@ -1,4 +1,4 @@
-# LEGENDARY FULL PLATE ARMOR
+﻿# LEGENDARY FULL PLATE ARMOR
 
 **Base Thresholds:** 17 / 44; **Base Score:** 7
 

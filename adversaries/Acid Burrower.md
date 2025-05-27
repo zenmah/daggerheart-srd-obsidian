@@ -1,4 +1,4 @@
-# ACID BURROWER
+﻿# ACID BURROWER
 
 ***Tier 1 Solo***  
 *A horse-sized insect with digging claws and acidic blood.*  

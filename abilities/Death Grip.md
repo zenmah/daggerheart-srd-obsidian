@@ -1,4 +1,4 @@
-# DEATH GRIP
+﻿# DEATH GRIP
 
 > **Level 4 Sage Spell**  
 > **Recall Cost:** 1

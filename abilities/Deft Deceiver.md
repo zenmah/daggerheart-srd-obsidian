@@ -1,4 +1,4 @@
-# DEFT DECEIVER
+﻿# DEFT DECEIVER
 
 > **Level 1 Grace Ability**  
 > **Recall Cost:** 0

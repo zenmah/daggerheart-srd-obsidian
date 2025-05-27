@@ -1,4 +1,4 @@
-# CRUEL PRECISION
+﻿# CRUEL PRECISION
 
 > **Level 7 Bone Ability**  
 > **Recall Cost:** 1

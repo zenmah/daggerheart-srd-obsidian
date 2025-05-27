@@ -1,4 +1,4 @@
-# KEEPER’S STAFF
+﻿# KEEPER’S STAFF
 
 **Trait:** Knowledge; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
 

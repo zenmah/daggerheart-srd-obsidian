@@ -1,4 +1,4 @@
-# CRITICAL INSPIRATION
+﻿# CRITICAL INSPIRATION
 
 > **Level 3 Valor Ability**  
 > **Recall Cost:** 1

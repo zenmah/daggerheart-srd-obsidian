@@ -1,4 +1,4 @@
-# CHAOS SKULL
+﻿# CHAOS SKULL
 
 ***Tier 2 Ranged***  
 *A floating humanoid skull animated by scintillating magic.*  

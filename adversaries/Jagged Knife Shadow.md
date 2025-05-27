@@ -1,4 +1,4 @@
-# JAGGED KNIFE SHADOW
+﻿# JAGGED KNIFE SHADOW
 
 ***Tier 1 Skulk***  
 *A nimble scoundrel bearing a wicked knife and utilizing shadow magic to isolate targets.*  

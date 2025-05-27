@@ -1,4 +1,4 @@
-# HAMMER OF EXOTA
+﻿# HAMMER OF EXOTA
 
 **Trait:** Instinct; **Range:** Melee; **Damage:** d8+6 mag; **Burden:** Two-Handed
 

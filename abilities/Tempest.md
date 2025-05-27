@@ -1,4 +1,4 @@
-# TEMPEST
+﻿# TEMPEST
 
 > **Level 10 Sage Spell**  
 > **Recall Cost:** 2

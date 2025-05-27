@@ -1,4 +1,4 @@
-# VITALITY
+﻿# VITALITY
 
 > **Level 5 Blade Ability**  
 > **Recall Cost:** 0

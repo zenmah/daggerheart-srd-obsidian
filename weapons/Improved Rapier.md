@@ -1,4 +1,4 @@
-# IMPROVED RAPIER
+﻿# IMPROVED RAPIER
 
 **Trait:** Presence; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
 

@@ -1,4 +1,4 @@
-# MASKED THIEF
+﻿# MASKED THIEF
 
 ***Tier 2 Skulk***  
 *A cunning thief with acrobatic skill and a flair for the dramatic.*  

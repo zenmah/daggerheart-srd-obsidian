@@ -1,4 +1,4 @@
-# BATTLE MONSTER
+﻿# BATTLE MONSTER
 
 > **Level 10 Blade Ability**  
 > **Recall Cost:** 0

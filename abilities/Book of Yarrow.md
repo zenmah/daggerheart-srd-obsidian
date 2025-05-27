@@ -1,4 +1,4 @@
-# BOOK OF YARROW
+﻿# BOOK OF YARROW
 
 > **Level 10 Codex Grimoire**  
 > **Recall Cost:** 2

@@ -1,4 +1,4 @@
-# SAFE HAVEN
+﻿# SAFE HAVEN
 
 > **Level 8 Codex Spell**  
 > **Recall Cost:** 3

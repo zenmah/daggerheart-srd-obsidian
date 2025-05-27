@@ -1,4 +1,4 @@
-# RIFT WALKER
+﻿# RIFT WALKER
 
 > **Level 6 Arcana Spell**  
 > **Recall Cost:** 2

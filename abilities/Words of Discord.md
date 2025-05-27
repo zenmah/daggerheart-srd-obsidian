@@ -1,4 +1,4 @@
-# WORDS OF DISCORD
+﻿# WORDS OF DISCORD
 
 > **Level 5 Grace Spell**  
 > **Recall Cost:** 1

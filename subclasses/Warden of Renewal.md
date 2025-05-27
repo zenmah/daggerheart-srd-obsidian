@@ -1,4 +1,4 @@
-# WARDEN OF RENEWAL
+﻿# WARDEN OF RENEWAL
 
 Play the Warden of Renewal if you want to use powerful magic to heal your party.
 

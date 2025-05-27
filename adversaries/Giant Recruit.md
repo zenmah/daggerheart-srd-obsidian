@@ -1,4 +1,4 @@
-# GIANT RECRUIT
+﻿# GIANT RECRUIT
 
 ***Tier 2 Minion***  
 *A giant fighter undergoing borrowed armor.*  

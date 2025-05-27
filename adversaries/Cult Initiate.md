@@ -1,4 +1,4 @@
-# CULT INITIATE
+﻿# CULT INITIATE
 
 ***Tier 2 Minion***  
 *A low-ranking cultist in simple robes, eager to gain power.*  

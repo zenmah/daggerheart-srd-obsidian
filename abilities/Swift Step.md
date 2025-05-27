@@ -1,4 +1,4 @@
-# SWIFT STEP
+﻿# SWIFT STEP
 
 > **Level 10 Bone Ability**  
 > **Recall Cost:** 2

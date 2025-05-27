@@ -1,4 +1,4 @@
-# DEMON OF AVARICE
+﻿# DEMON OF AVARICE
 
 ***Tier 3 Support***  
 *A regal cloaked monstrosity with circular horns adorned with treasure.*  

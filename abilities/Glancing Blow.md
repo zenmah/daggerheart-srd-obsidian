@@ -1,4 +1,4 @@
-# GLANCING BLOW
+﻿# GLANCING BLOW
 
 > **Level 7 Blade Ability**  
 > **Recall Cost:** 1

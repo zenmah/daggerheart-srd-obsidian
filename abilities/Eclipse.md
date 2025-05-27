@@ -1,4 +1,4 @@
-# ECLIPSE
+﻿# ECLIPSE
 
 > **Level 10 Midnight Spell**  
 > **Recall Cost:** 2

@@ -1,4 +1,4 @@
-# STRATEGIC APPROACH
+﻿# STRATEGIC APPROACH
 
 > **Level 2 Bone Ability**  
 > **Recall Cost:** 1

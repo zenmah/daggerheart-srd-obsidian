@@ -1,4 +1,4 @@
-# KRAKEN
+﻿# KRAKEN
 
 ***Tier 4 Solo***  
 *A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw.*  

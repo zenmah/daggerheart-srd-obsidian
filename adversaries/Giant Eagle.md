@@ -1,4 +1,4 @@
-# GIANT EAGLE
+﻿# GIANT EAGLE
 
 ***Tier 2 Skulk***  
 *A giant bird of prey with blood-stained talons.*  

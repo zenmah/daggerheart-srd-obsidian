@@ -1,4 +1,4 @@
-# DOUBLE FLAIL
+﻿# DOUBLE FLAIL
 
 **Trait:** Agility; **Range:** Very Close; **Damage:** d10+8 phy; **Burden:** Two-Handed
 

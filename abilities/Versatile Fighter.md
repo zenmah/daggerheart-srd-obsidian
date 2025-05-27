@@ -1,4 +1,4 @@
-# VERSATILE FIGHTER
+﻿# VERSATILE FIGHTER
 
 > **Level 3 Blade Ability**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# INVIGORATION
+﻿# INVIGORATION
 
 > **Level 10 Splendor Spell**  
 > **Recall Cost:** 3

@@ -1,4 +1,4 @@
-# GROUND POUND
+﻿# GROUND POUND
 
 > **Level 8 Valor Ability**  
 > **Recall Cost:** 2

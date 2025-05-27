@@ -1,4 +1,4 @@
-# SOOTHING SPEECH
+﻿# SOOTHING SPEECH
 
 > **Level 4 Grace Ability**  
 > **Recall Cost:** 1

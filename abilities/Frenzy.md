@@ -1,4 +1,4 @@
-# FRENZY
+﻿# FRENZY
 
 > **Level 8 Blade Ability**  
 > **Recall Cost:** 3

@@ -1,4 +1,4 @@
-# RECKLESS
+﻿# RECKLESS
 
 > **Level 2 Blade Ability**  
 > **Recall Cost:** 1

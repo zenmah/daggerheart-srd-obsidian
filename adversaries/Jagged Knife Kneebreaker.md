@@ -1,4 +1,4 @@
-# JAGGED KNIFE KNEEBREAKER
+﻿# JAGGED KNIFE KNEEBREAKER
 
 ***Tier 1 Bruiser***  
 *An imposing brawler carrying a large club.*  

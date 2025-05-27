@@ -1,4 +1,4 @@
-# GREATSTAFF
+﻿# GREATSTAFF
 
 **Trait:** Knowledge; **Range:** Very Far; **Damage:** d6 mag; **Burden:** Two-Handed
 

@@ -1,4 +1,4 @@
-# INEVITABLE
+﻿# INEVITABLE
 
 > **Level 6 Valor Ability**  
 > **Recall Cost:** 1

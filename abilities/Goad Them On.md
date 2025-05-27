@@ -1,4 +1,4 @@
-# GOAD THEM ON
+﻿# GOAD THEM ON
 
 > **Level 4 Valor Ability**  
 > **Recall Cost:** 1

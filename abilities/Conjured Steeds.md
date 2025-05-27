@@ -1,4 +1,4 @@
-# CONJURED STEEDS
+﻿# CONJURED STEEDS
 
 > **Level 6 Sage Spell**  
 > **Recall Cost:** 0

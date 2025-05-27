@@ -1,4 +1,4 @@
-# MASS ENRAPTURE
+﻿# MASS ENRAPTURE
 
 > **Level 8 Grace Spell**  
 > **Recall Cost:** 3

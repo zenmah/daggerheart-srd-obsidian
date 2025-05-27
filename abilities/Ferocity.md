@@ -1,4 +1,4 @@
-# FEROCITY
+﻿# FEROCITY
 
 > **Level 2 Bone Ability**  
 > **Recall Cost:** 2

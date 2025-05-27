@@ -1,4 +1,4 @@
-# NIGHT TERROR
+﻿# NIGHT TERROR
 
 > **Level 9 Midnight Spell**  
 > **Recall Cost:** 2

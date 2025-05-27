@@ -1,4 +1,4 @@
-# FINEHAIR BOW
+﻿# FINEHAIR BOW
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d6+5 phy; **Burden:** Two-Handed
 

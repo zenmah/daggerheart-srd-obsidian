@@ -1,4 +1,4 @@
-# BATTLE BOX
+﻿# BATTLE BOX
 
 ***Tier 2 Solo***  
 *A cube-shaped construct with a different rune on each of their six sides.*  

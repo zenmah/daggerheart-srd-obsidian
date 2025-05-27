@@ -1,4 +1,4 @@
-# LEGENDARY TOWER SHIELD
+﻿# LEGENDARY TOWER SHIELD
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d6+6 phy; **Burden:** One-Handed
 

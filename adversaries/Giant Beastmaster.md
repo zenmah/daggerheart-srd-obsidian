@@ -1,4 +1,4 @@
-# GIANT BEASTMASTER
+﻿# GIANT BEASTMASTER
 
 ***Tier 2 Leader***  
 *A leather-clad warrior bearing a whip and massive bow.*  

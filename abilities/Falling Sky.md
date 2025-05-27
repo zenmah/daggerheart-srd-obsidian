@@ -1,4 +1,4 @@
-# FALLING SKY
+﻿# FALLING SKY
 
 > **Level 10 Arcana Spell**  
 > **Recall Cost:** 1

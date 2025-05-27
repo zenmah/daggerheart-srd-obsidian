@@ -1,4 +1,4 @@
-# NATURAL FAMILIAR
+﻿# NATURAL FAMILIAR
 
 > **Level 2 Sage Spell**  
 > **Recall Cost:** 1

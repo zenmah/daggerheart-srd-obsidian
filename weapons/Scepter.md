@@ -1,4 +1,4 @@
-# SCEPTER
+﻿# SCEPTER
 
 **Trait:** Presence; **Range:** Far; **Damage:** d6 mag; **Burden:** Two-Handed
 

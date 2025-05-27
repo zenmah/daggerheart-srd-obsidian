@@ -1,4 +1,4 @@
-# ASSASSIN POISONER
+﻿# ASSASSIN POISONER
 
 ***Tier 2 Skulk***  
 *A cunning scoundrel skilled in both poisons and ambushing.*  

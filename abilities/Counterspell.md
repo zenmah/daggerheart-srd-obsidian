@@ -1,4 +1,4 @@
-# COUNTERSPELL
+﻿# COUNTERSPELL
 
 > **Level 3 Arcana Spell**  
 > **Recall Cost:** 2

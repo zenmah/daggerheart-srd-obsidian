@@ -1,4 +1,4 @@
-# IMPROVED CHAINMAIL ARMOR
+﻿# IMPROVED CHAINMAIL ARMOR
 
 **Base Thresholds:** 11 / 24; **Base Score:** 5
 

@@ -1,4 +1,4 @@
-# HOLD THE LINE
+﻿# HOLD THE LINE
 
 > **Level 9 Valor Ability**  
 > **Recall Cost:** 1

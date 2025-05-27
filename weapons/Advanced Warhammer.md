@@ -1,4 +1,4 @@
-# ADVANCED WARHAMMER
+﻿# ADVANCED WARHAMMER
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d12+9 phy; **Burden:** Two-Handed
 

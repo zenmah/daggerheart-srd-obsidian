@@ -1,4 +1,4 @@
-# KNOW THY ENEMY
+﻿# KNOW THY ENEMY
 
 > **Level 5 Bone Ability**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-# WILD SURGE
+﻿# WILD SURGE
 
 > **Level 7 Sage Spell**  
 > **Recall Cost:** 2

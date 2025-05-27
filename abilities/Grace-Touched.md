@@ -1,4 +1,4 @@
-# GRACE-TOUCHED
+﻿# GRACE-TOUCHED
 
 > **Level 7 Grace Ability**  
 > **Recall Cost:** 2

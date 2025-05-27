@@ -1,4 +1,4 @@
-# SHAMBLING ZOMBIE
+﻿# SHAMBLING ZOMBIE
 
 ***Tier 1 Standard***  
 *An animated corpse that moves shakily, driven only by hunger.*  

@@ -1,4 +1,4 @@
-# BOOK OF VAGRAS
+﻿# BOOK OF VAGRAS
 
 > **Level 2 Codex Grimoire**  
 > **Recall Cost:** 2

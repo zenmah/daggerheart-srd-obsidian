@@ -1,4 +1,4 @@
-# LEAN ON ME
+﻿# LEAN ON ME
 
 > **Level 3 Valor Ability**  
 > **Recall Cost:** 1

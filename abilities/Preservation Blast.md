@@ -1,4 +1,4 @@
-# PRESERVATION BLAST
+﻿# PRESERVATION BLAST
 
 > **Level 4 Arcana Spell**  
 > **Recall Cost:** 2

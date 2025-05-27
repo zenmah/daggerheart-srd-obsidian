@@ -1,4 +1,4 @@
-# IMPROVED TOWER SHIELD
+﻿# IMPROVED TOWER SHIELD
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
 

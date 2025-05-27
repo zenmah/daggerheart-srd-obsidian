@@ -1,4 +1,4 @@
-# UNCANNY DISGUISE
+﻿# UNCANNY DISGUISE
 
 > **Level 1 Midnight Spell**  
 > **Recall Cost:** 0

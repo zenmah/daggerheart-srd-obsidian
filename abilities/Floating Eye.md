@@ -1,4 +1,4 @@
-# FLOATING EYE
+﻿# FLOATING EYE
 
 > **Level 2 Arcana Spell**  
 > **Recall Cost:** 0

@@ -1,4 +1,4 @@
-# FORCE OF NATURE
+﻿# FORCE OF NATURE
 
 > **Level 10 Sage Spell**  
 > **Recall Cost:** 2

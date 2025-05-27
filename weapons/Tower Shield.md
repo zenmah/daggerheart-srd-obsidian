@@ -1,4 +1,4 @@
-# TOWER SHIELD
+﻿# TOWER SHIELD
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d6 phy; **Burden:** One-Handed
 

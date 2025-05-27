@@ -1,4 +1,4 @@
-# GLYPH OF NIGHTFALL
+﻿# GLYPH OF NIGHTFALL
 
 > **Level 4 Midnight Spell**  
 > **Recall Cost:** 1

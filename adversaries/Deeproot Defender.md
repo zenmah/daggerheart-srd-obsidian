@@ -1,4 +1,4 @@
-# DEEPROOT DEFENDER
+﻿# DEEPROOT DEFENDER
 
 ***Tier 1 Bruiser***  
 *A burly vegetable-person with grasping vines.*  

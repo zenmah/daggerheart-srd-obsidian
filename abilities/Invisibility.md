@@ -1,4 +1,4 @@
-# INVISIBILITY
+﻿# INVISIBILITY
 
 > **Level 3 Grace Spell**  
 > **Recall Cost:** 1

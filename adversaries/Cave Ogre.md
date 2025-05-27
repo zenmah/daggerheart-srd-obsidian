@@ -1,4 +1,4 @@
-# CAVE OGRE
+﻿# CAVE OGRE
 
 ***Tier 1 Solo***  
 *A massive humanoid who sees all sapient life as food.*  

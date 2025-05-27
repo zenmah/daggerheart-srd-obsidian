@@ -1,4 +1,4 @@
-# LEGENDARY SHORTSWORD
+﻿# LEGENDARY SHORTSWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
 

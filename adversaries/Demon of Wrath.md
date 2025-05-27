@@ -1,4 +1,4 @@
-# DEMON OF WRATH
+﻿# DEMON OF WRATH
 
 ***Tier 3 Bruiser***  
 *A hulking demon with boulder-sized fists, driven by endless rage.*  

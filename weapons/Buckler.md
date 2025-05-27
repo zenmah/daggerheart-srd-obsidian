@@ -1,4 +1,4 @@
-# BUCKLER
+﻿# BUCKLER
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d4+4 phy; **Burden:** One-Handed
 

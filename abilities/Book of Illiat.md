@@ -1,4 +1,4 @@
-# BOOK OF ILLIAT
+﻿# BOOK OF ILLIAT
 
 > **Level 1 Codex Grimoire**  
 > **Recall Cost:** 2

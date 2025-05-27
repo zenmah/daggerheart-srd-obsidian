@@ -1,4 +1,4 @@
-# CONSTRUCT
+﻿# CONSTRUCT
 
 ***Tier 1 Solo***  
 *A roughly humanoid being of stone and steel, assembled and animated by magic.*  

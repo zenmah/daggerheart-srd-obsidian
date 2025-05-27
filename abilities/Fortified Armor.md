@@ -1,4 +1,4 @@
-# FORTIFIED ARMOR
+﻿# FORTIFIED ARMOR
 
 > **Level 4 Blade Ability**  
 > **Recall Cost:** 0

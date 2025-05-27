@@ -1,4 +1,4 @@
-# PRIMER SHARD
+﻿# PRIMER SHARD
 
 **Trait:** Instinct; **Range:** Very Close; **Damage:** d4 phy; **Burden:** One-Handed
 

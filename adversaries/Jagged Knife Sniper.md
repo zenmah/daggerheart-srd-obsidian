@@ -1,4 +1,4 @@
-# JAGGED KNIFE SNIPER
+﻿# JAGGED KNIFE SNIPER
 
 ***Tier 1 Ranged***  
 *A lanky bandit striking from cover with a shortbow.*  

@@ -1,4 +1,4 @@
-# KNUCKLE BLADES
+﻿# KNUCKLE BLADES
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+6 phy; **Burden:** One-Handed
 

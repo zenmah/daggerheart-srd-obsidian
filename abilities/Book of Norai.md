@@ -1,4 +1,4 @@
-# BOOK OF NORAI
+﻿# BOOK OF NORAI
 
 > **Level 3 Codex Grimoire**  
 > **Recall Cost:** 2

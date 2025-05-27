@@ -1,4 +1,4 @@
-# ENCORE
+﻿# ENCORE
 
 > **Level 10 Grace Spell**  
 > **Recall Cost:** 1

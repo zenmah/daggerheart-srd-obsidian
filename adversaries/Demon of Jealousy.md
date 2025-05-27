@@ -1,4 +1,4 @@
-# DEMON OF JEALOUSY
+﻿# DEMON OF JEALOUSY
 
 ***Tier 3 Ranged***  
 *A fickle creature of spindly limbs and insatiable desires.*  

@@ -1,4 +1,4 @@
-# HEALING FIELD
+﻿# HEALING FIELD
 
 > **Level 4 Sage Spell**  
 > **Recall Cost:** 2

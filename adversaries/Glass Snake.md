@@ -1,4 +1,4 @@
-# GLASS SNAKE
+﻿# GLASS SNAKE
 
 ***Tier 1 Standard***  
 *A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.*  

@@ -1,4 +1,4 @@
-# SELLSWORD
+﻿# SELLSWORD
 
 ***Tier 1 Minion***  
 *An armed mercenary testing their luck.*  

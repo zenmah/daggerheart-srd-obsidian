@@ -1,4 +1,4 @@
-# IMPROVED LONGBOW
+﻿# IMPROVED LONGBOW
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d8+6 phy; **Burden:** Two-Handed
 

@@ -1,4 +1,4 @@
-# RESTORATION
+﻿# RESTORATION
 
 > **Level 6 Splendor Spell**  
 > **Recall Cost:** 2

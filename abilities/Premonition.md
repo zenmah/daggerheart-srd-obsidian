@@ -1,4 +1,4 @@
-# PREMONITION
+﻿# PREMONITION
 
 > **Level 4 Arcana Spell**  
 > **Recall Cost:** 2

@@ -1,4 +1,4 @@
-# ADVANCED GAMBESON ARMOR
+﻿# ADVANCED GAMBESON ARMOR
 
 **Base Thresholds:** 9 / 23; **Base Score:** 5
 

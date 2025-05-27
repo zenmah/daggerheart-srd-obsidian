@@ -1,4 +1,4 @@
-# WHIRLWIND
+﻿# WHIRLWIND
 
 > **Level 1 Blade Ability**  
 > **Recall Cost:** 0

@@ -1,4 +1,4 @@
-# HAMMER OF WRATH
+﻿# HAMMER OF WRATH
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
 

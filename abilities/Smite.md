@@ -1,4 +1,4 @@
-# SMITE
+﻿# SMITE
 
 > **Level 5 Splendor Spell**  
 > **Recall Cost:** 2

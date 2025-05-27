@@ -1,4 +1,4 @@
-# LIFE WARD
+﻿# LIFE WARD
 
 > **Level 4 Splendor Spell**  
 > **Recall Cost:** 1

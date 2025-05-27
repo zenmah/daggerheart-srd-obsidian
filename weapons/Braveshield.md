@@ -1,4 +1,4 @@
-# BRAVESHIELD
+﻿# BRAVESHIELD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d4+6 phy; **Burden:** One-Handed
 

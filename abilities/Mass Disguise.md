@@ -1,4 +1,4 @@
-# MASS DISGUISE
+﻿# MASS DISGUISE
 
 > **Level 6 Midnight Spell**  
 > **Recall Cost:** 0

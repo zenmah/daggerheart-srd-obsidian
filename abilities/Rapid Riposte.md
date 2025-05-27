@@ -1,4 +1,4 @@
-# RAPID RIPOSTE
+﻿# RAPID RIPOSTE
 
 > **Level 6 Bone Ability**  
 > **Recall Cost:** 0

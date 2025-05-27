@@ -1,4 +1,4 @@
-# BOOK OF GRYNN
+﻿# BOOK OF GRYNN
 
 > **Level 4 Codex Grimoire**  
 > **Recall Cost:** 2

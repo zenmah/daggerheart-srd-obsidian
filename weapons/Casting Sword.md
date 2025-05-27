@@ -1,4 +1,4 @@
-# CASTING SWORD
+﻿# CASTING SWORD
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+4 mag; **Burden:** Two-Handed
 

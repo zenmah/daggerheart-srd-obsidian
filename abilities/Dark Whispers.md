@@ -1,4 +1,4 @@
-# DARK WHISPERS
+﻿# DARK WHISPERS
 
 > **Level 6 Midnight Spell**  
 > **Recall Cost:** 0

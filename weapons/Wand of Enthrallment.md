@@ -1,4 +1,4 @@
-# WAND OF ENTHRALLMENT
+﻿# WAND OF ENTHRALLMENT
 
 **Trait:** Presence; **Range:** Far; **Damage:** d6+4 mag; **Burden:** One-Handed
 

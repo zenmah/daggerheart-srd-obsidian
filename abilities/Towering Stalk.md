@@ -1,4 +1,4 @@
-# TOWERING STALK
+﻿# TOWERING STALK
 
 > **Level 3 Sage Spell**  
 > **Recall Cost:** 1

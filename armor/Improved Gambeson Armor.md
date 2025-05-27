@@ -1,4 +1,4 @@
-# IMPROVED GAMBESON ARMOR
+﻿# IMPROVED GAMBESON ARMOR
 
 **Base Thresholds:** 7 / 16; **Base Score:** 4
 

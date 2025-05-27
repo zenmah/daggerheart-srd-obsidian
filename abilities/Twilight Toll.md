@@ -1,4 +1,4 @@
-# TWILIGHT TOLL
+﻿# TWILIGHT TOLL
 
 > **Level 9 Midnight Ability**  
 > **Recall Cost:** 1

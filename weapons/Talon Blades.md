@@ -1,4 +1,4 @@
-# TALON BLADES
+﻿# TALON BLADES
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d10+7 phy; **Burden:** Two-Handed
 

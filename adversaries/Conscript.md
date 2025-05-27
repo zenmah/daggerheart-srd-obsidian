@@ -1,4 +1,4 @@
-# CONSCRIPT
+﻿# CONSCRIPT
 
 ***Tier 2 Minion***  
 *A poorly trained civilian pressed into war.*  

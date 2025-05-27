@@ -1,4 +1,4 @@
-# VANISHING DODGE
+﻿# VANISHING DODGE
 
 > **Level 7 Midnight Spell**  
 > **Recall Cost:** 1

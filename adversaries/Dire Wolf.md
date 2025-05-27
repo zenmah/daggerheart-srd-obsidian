@@ -1,4 +1,4 @@
-# DIRE WOLF
+﻿# DIRE WOLF
 
 ***Tier 1 Skulk***  
 *A large wolf with menacing teeth, seldom encountered alone.*  

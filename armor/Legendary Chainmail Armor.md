@@ -1,4 +1,4 @@
-# LEGENDARY CHAINMAIL ARMOR
+﻿# LEGENDARY CHAINMAIL ARMOR
 
 **Base Thresholds:** 15 / 40; **Base Score:** 7
 
