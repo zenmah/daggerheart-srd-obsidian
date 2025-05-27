@@ -12,6 +12,7 @@ mdformat = "*"
 jinja2 = "*"
 titlecase = "*"
 inflect = "*"
+mkdocs-material = "*"
 
 [dev-packages]
 

@@ -13,6 +13,14 @@ def clear_output_dir(output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
 
+def ensure_symlink(target, link_name):
+    # Remove existing symlink or file
+    if os.path.islink(link_name) or os.path.exists(link_name):
+        os.remove(link_name)
+    os.symlink(target, link_name)
+    print(f"Linked {link_name} → {target}")
+
+
 def url_encode(value):
     if not isinstance(value, str):
         value = str(value)
@@ -63,3 +71,6 @@ if __name__ == "__main__":
         clear_output_dir(output_dir)
         os.makedirs(output_dir, exist_ok=True)
         process_json_to_md(json_file, template_file, output_dir)
+        link_name = f"docs/{table}"
+        output_dir = f"../{output_dir}"
+        ensure_symlink(output_dir, link_name)

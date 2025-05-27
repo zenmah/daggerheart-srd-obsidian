@@ -1,0 +1,9 @@
+site_name: Daggerheart SRD
+site_url: https://mydomain.org/mysite
+repo_name: seansbox/daggerheart-srd
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: indigo
