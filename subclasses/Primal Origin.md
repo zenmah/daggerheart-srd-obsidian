@@ -1,4 +1,11 @@
-﻿# PRIMAL ORIGIN
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'PRIMAL ORIGIN'
+description: 'Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.'
+---
+# PRIMAL ORIGIN
 
 Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.
 

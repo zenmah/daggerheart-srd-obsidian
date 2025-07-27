@@ -1,4 +1,11 @@
-﻿# SYNDICATE
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'SYNDICATE'
+description: 'Play the Syndicate if you want to have a web of contacts everywhere you go.'
+---
+# SYNDICATE
 
 Play the Syndicate if you want to have a web of contacts everywhere you go.
 

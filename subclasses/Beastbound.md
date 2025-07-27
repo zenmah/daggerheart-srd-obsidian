@@ -1,4 +1,11 @@
-﻿# BEASTBOUND
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'BEASTBOUND'
+description: 'Play the Beastbound if you want to form a deep bond with an animal ally.'
+---
+# BEASTBOUND
 
 Play the Beastbound if you want to form a deep bond with an animal ally.
 

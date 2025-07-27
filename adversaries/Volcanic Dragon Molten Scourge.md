@@ -1,10 +1,52 @@
-﻿# VOLCANIC DRAGON: MOLTEN SCOURGE
+﻿---
+tags:
+  - Adversary
+  - Creature
+  - Statblock
 
-***Tier 4 Solo***  
-*Engaged by their wounds, the dragon bursts into molten lava.*  
+name: 'VOLCANIC DRAGON: MOLTEN SCOURGE'
+tier: 4
+type: Solo
+description: 'Engaged by their wounds, the dragon bursts into molten lava.'
+motives_and_tactics: 'Douse with lava, incinerate, repel invaders, respawn'
+difficulty: '20'
+thresholds: '30/58'
+hp: '7'
+stress: '5'
+atk: '+9'
+attack: 'Lava-Coated Claws'
+range: 'Close'
+damage: '4d12+4 phy'
+experience:
+  - 'Hunt from Above +5'
+feats:
+- name: 'Relentless (3)'
+  type: 'Passive'
+  text: 'Can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.'
+- name: 'Cracked Scales'
+  type: 'Passive'
+  text: 'When the Molten Scourge takes damage, roll a number of d6s equal to HP marked. For each result of 4 or higher, you gain a Fear.'
+- name: 'Shattering Might'
+  type: 'Action'
+  text: 'Mark a Stress to make an attack against a target within Very Close range. On a success, target takes 4d8+14 physical damage, loses a Hope, and is knocked back to Close range. The Scourge clears a Stress.'
+- name: 'Eruption'
+  type: 'Action'
+  text: 'Spend a Fear to erupt lava from beneath the Scourge’s scales, filling area within Very Close range with lava. All targets must make Agility Reaction Roll or take 4d6+6 physical damage and be knocked back to Close range. The area remains lava (6 HP damage on entry or action).'
+- name: 'Volcanic Breath'
+  type: 'Reaction'
+  text: 'When the Scourge takes Major damage, roll d10. On 8+, erupt lava in Very Close range: Agility Reaction Roll or take 2d10+4 physical damage, mark 1d4 Stress, and are Vulnerable until clearing a Stress; success = half damage + mark a Stress.;Lava Splash - Reaction;When the Scourge takes Severe damage from attack within Very Close, molten blood deals 2d10+4 direct physical damage to attacker.;Ashen Vengeance (Phase Change) - Reaction;When the Scourge marks last HP, replace with Ashen Tyrant and immediately spotlight.'
+layout: Daggerheart Adversary
+source: srd-adversary
+statblock: true
+---
+
+# VOLCANIC DRAGON: MOLTEN SCOURGE
+
+***Tier 4 Solo***
+*Engaged by their wounds, the dragon bursts into molten lava.*
 **Motives & Tactics:** Douse with lava, incinerate, repel invaders, respawn
 
-> **Difficulty:** 20 | **Thresholds:** 30/58 | **HP:** 7 | **Stress:** 5  
+> **Difficulty:** 20 | **Thresholds:** 30/58 | **HP:** 7 | **Stress:** 5
 > **ATK:** +9 | **Lava-Coated Claws:** Close | 4d12+4 phy  
 > **Experience:** Hunt from Above +5
 

@@ -2,8 +2,12 @@
 tags:
   - Ability
   - CharacterOption
-name: {{ name|upper }}
-description: {{ description }}
+name: '{{ name|upper }}'
+level: {{ level }}
+domain: '{{ domain }}'
+type: '{{ type }}'
+recall: '{{ recall }}'
+description: '{{ text }}'
 ---
 # {{ name|upper }}
 

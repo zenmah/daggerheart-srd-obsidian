@@ -1,4 +1,19 @@
-﻿# IMPROVED BROADSWORD
+﻿---
+tags:
+  - Item
+  - Weapon
+name: 'IMPROVED BROADSWORD'
+trait: 'Agility'
+range: 'Melee'
+damage: 'd8+3 phy'
+burden: 'One-Handed'
+feat_name: 'Reliable'
+feat_text: '+1 to attack rolls'
+primary_or_secondary: 'Primary Weapon'
+tier: 2
+---
+
+# IMPROVED BROADSWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
 

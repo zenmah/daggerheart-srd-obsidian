@@ -1,4 +1,11 @@
-﻿# VENGEANCE
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'VENGEANCE'
+description: 'Play the Vengeance if you want to strike down enemies who harm you or your allies.'
+---
+# VENGEANCE
 
 Play the Vengeance if you want to strike down enemies who harm you or your allies.
 

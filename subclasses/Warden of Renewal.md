@@ -1,4 +1,11 @@
-﻿# WARDEN OF RENEWAL
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'WARDEN OF RENEWAL'
+description: 'Play the Warden of Renewal if you want to use powerful magic to heal your party.'
+---
+# WARDEN OF RENEWAL
 
 Play the Warden of Renewal if you want to use powerful magic to heal your party.
 

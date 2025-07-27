@@ -1,4 +1,11 @@
-﻿# WARDEN OF THE ELEMENTS
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'WARDEN OF THE ELEMENTS'
+description: 'Play the Warden of the Elements if you want to embody the natural elements of the wild.'
+---
+# WARDEN OF THE ELEMENTS
 
 Play the Warden of the Elements if you want to embody the natural elements of the wild.
 

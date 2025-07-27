@@ -1,4 +1,17 @@
-﻿# THOUGHT DELVER
+﻿---
+tags:
+  - Ability
+  - CharacterOption
+name: 'THOUGHT DELVER'
+level: 5
+domain: 'Grace'
+type: 'Spell'
+recall: '2'
+description: 'You can peek into the minds of others. Spend a Hope to read the vague surface thoughts of a target within Far range. Make a Spellcast Roll against the target to delve for deeper, more hidden thoughts.
+
+On a roll with Fear, the target might, at the GM’s discretion, become aware that you’re reading their thoughts.'
+---
+# THOUGHT DELVER
 
 > **Level 5 Grace Spell**  
 > **Recall Cost:** 2

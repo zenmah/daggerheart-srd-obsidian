@@ -1,4 +1,11 @@
-﻿# TROUBADOUR
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'TROUBADOUR'
+description: 'Play the Troubadour if you want to play music to bolster your allies.'
+---
+# TROUBADOUR
 
 Play the Troubadour if you want to play music to bolster your allies.
 

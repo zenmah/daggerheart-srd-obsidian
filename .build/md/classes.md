@@ -2,8 +2,8 @@
 tags:
   - Class
   - CharacterOption
-name: {{ name|upper }}
-description: {{ description }}
+name: '{{ name|upper }}'
+description: '{{ description }}'
 ---
 
 # {{ name|upper }}

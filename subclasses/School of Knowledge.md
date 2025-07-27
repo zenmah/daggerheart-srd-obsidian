@@ -1,4 +1,11 @@
-﻿# SCHOOL OF KNOWLEDGE
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'SCHOOL OF KNOWLEDGE'
+description: 'Play the School of Knowledge if you want a keen understanding of the world around you.'
+---
+# SCHOOL OF KNOWLEDGE
 
 Play the School of Knowledge if you want a keen understanding of the world around you.
 

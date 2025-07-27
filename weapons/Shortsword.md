@@ -1,4 +1,19 @@
-﻿# SHORTSWORD
+﻿---
+tags:
+  - Item
+  - Weapon
+name: 'SHORTSWORD'
+trait: 'Agility'
+range: 'Melee'
+damage: 'd8 phy'
+burden: 'One-Handed'
+feat_name: 'Paired'
+feat_text: '+2 to primary weapon damage to targets within Melee range'
+primary_or_secondary: 'Secondary Weapon'
+tier: 1
+---
+
+# SHORTSWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
 

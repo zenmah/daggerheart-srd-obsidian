@@ -1,4 +1,19 @@
-﻿# IMPROVED CUTLASS
+﻿---
+tags:
+  - Item
+  - Weapon
+name: 'IMPROVED CUTLASS'
+trait: 'Presence'
+range: 'Melee'
+damage: 'd8+4 phy'
+burden: 'One-Handed'
+feat_name: 
+feat_text: 
+primary_or_secondary: 'Primary Weapon'
+tier: 2
+---
+
+# IMPROVED CUTLASS
 
 **Trait:** Presence; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
 

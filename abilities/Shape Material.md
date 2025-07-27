@@ -1,4 +1,17 @@
-﻿# SHAPE MATERIAL
+﻿---
+tags:
+  - Ability
+  - CharacterOption
+name: 'SHAPE MATERIAL'
+level: 5
+domain: 'Splendor'
+type: 'Spell'
+recall: '1'
+description: 'Spend a Hope to shape a section of natural material you’re touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door.
+
+You can only affect the material within Close range of where you’re touching it.'
+---
+# SHAPE MATERIAL
 
 > **Level 5 Splendor Spell**  
 > **Recall Cost:** 1

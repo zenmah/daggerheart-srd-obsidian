@@ -1,4 +1,11 @@
-﻿# ELEMENTAL ORIGIN
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'ELEMENTAL ORIGIN'
+description: 'Play the Elemental Origin if you want to channel raw magic to take the shape of a particular element.'
+---
+# ELEMENTAL ORIGIN
 
 Play the Elemental Origin if you want to channel raw magic to take the shape of a particular element.
 

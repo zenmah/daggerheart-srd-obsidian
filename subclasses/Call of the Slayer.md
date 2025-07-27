@@ -1,4 +1,11 @@
-﻿# CALL OF THE SLAYER
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'CALL OF THE SLAYER'
+description: 'Play the Call of the Slayer if you want to strike down adversaries with immense force.'
+---
+# CALL OF THE SLAYER
 
 Play the Call of the Slayer if you want to strike down adversaries with immense force.
 

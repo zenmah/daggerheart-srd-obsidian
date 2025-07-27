@@ -2,8 +2,8 @@
 tags:
   - Item
   - Consumable
-name: {{ name|upper }}
-description: {{ description }}
+name: '{{ name|upper }}'
+description: '{{ description }}'
 ---
 
 # {{ name|upper }}

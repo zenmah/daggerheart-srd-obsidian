@@ -1,4 +1,11 @@
-﻿# WAYFINDER
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'WAYFINDER'
+description: 'Play the Wayfinder if you want to hunt your prey and strike with deadly force.'
+---
+# WAYFINDER
 
 Play the Wayfinder if you want to hunt your prey and strike with deadly force.
 

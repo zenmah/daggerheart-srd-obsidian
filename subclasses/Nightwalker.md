@@ -1,4 +1,11 @@
-﻿# NIGHTWALKER
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'NIGHTWALKER'
+description: 'Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.'
+---
+# NIGHTWALKER
 
 Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.
 

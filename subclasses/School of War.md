@@ -1,4 +1,11 @@
-﻿# SCHOOL OF WAR
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'SCHOOL OF WAR'
+description: 'Play the School of War if you want to utilize trained magic for violence.'
+---
+# SCHOOL OF WAR
 
 Play the School of War if you want to utilize trained magic for violence.
 

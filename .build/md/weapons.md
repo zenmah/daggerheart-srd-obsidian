@@ -2,7 +2,7 @@
 tags:
   - Item
   - Weapon
-name: {{ name|upper }}
+name: '{{ name|upper }}'
 trait: '{{ trait }}'
 range: '{{ range }}'
 damage: '{{ damage }}'

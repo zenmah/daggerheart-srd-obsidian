@@ -1,4 +1,11 @@
-﻿# STALWART
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'STALWART'
+description: 'Play the Stalwart if you want to take heavy blows and keep fighting.'
+---
+# STALWART
 
 Play the Stalwart if you want to take heavy blows and keep fighting.
 

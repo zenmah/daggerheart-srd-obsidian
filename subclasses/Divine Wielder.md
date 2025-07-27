@@ -1,4 +1,11 @@
-﻿# DIVINE WIELDER
+﻿---
+tags:
+  - SubClass
+  - CharacterOption
+name: 'DIVINE WIELDER'
+description: 'Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon.'
+---
+# DIVINE WIELDER
 
 Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon.
 
