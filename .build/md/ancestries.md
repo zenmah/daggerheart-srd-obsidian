@@ -1,3 +1,11 @@
+---
+tags:
+  - Ancestry
+  - CharacterOption
+name: {{ name|upper }}
+description: {{ description }}
+---
+
 # {{ name|upper }}
 
 {{ description }}

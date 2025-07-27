@@ -4,7 +4,6 @@ import base64
 import json
 import fitz  # PyMuPDF
 import mdformat
-from collections import Counter, defaultdict
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -242,7 +241,7 @@ def pdf_to_markdown_images(pdf_path, markdown_dir, image_dir):
 
 
 if __name__ == "__main__":
-    pdf_path = "DH-SRD-May202025.pdf"
+    pdf_path = "DH-SRD-1.0-June-26-2025.pdf"
     markdown_dir = "../pages"
     image_dir = "../images"
     pdf_to_markdown_images(pdf_path, markdown_dir, image_dir)

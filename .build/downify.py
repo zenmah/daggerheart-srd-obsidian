@@ -14,11 +14,24 @@ def clear_output_dir(output_dir):
 
 
 def ensure_symlink(target, link_name):
-    # Remove existing symlink or file
-    if os.path.islink(link_name) or os.path.exists(link_name):
+    # Remove existing symlink or file/directory
+    if os.path.islink(link_name):
         os.remove(link_name)
-    os.symlink(target, link_name)
-    print(f"Linked {link_name} → {target}")
+    elif os.path.isdir(link_name):
+        shutil.rmtree(link_name)
+    elif os.path.exists(link_name):
+        os.remove(link_name)
+
+    try:
+        os.symlink(target, link_name, target_is_directory=os.path.isdir(target))
+        print(f"Linked {link_name} → {target}")
+    except OSError as e:
+        if os.name == 'nt' and getattr(e, 'winerror', 0) == 1314:
+            print(f"Warning: Symlink creation failed (permission error). Falling back to copying.")
+            shutil.copytree(target, link_name)
+            print(f"Copied {target} to {link_name}")
+        else:
+            raise
 
 
 def url_encode(value):
@@ -72,5 +85,5 @@ if __name__ == "__main__":
         os.makedirs(output_dir, exist_ok=True)
         process_json_to_md(json_file, template_file, output_dir)
         link_name = f"docs/{table}"
-        output_dir = f"../{output_dir}"
+
         ensure_symlink(output_dir, link_name)

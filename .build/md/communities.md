@@ -1,3 +1,11 @@
+---
+tags:
+  - Community
+  - CharacterOption
+name: {{ name|upper }}
+description: {{ description }}
+---
+
 # {{ name|upper }}
 
 {{ description }}
